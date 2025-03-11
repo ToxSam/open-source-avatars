@@ -1,11 +1,20 @@
 [
   {
-    "id": "c2a87bae-ec4c-4f22-adad-ee4a3a801be7",
-    "name": "100Avatars",
-    "creator_id": "fe6ab7e0-2749-4b80-a255-a6ab95c5d0d2",
-    "description": "Project for 100Avatars",
+    "id": "612a1e2f-5db6-4638-87c9-c67e9904797c",
+    "name": "100Avatars R1",
+    "creator_id": "86ec9cbb-cd86-4402-9e29-f07c66f87383",
+    "description": "The first 100 avatars series (001-100)",
     "is_public": true,
-    "created_at": "2024-12-17T10:47:01.211",
-    "updated_at": "2024-12-17T10:47:01.211"
+    "created_at": "2025-03-11T16:30:23.463Z",
+    "updated_at": "2025-03-11T16:30:23.463Z"
+  },
+  {
+    "id": "07f01f80-00f8-416d-840c-18c3c8325887",
+    "name": "100Avatars R2",
+    "creator_id": "86ec9cbb-cd86-4402-9e29-f07c66f87383",
+    "description": "The second 100 avatars series (101-200)",
+    "is_public": true,
+    "created_at": "2025-03-11T16:30:23.463Z",
+    "updated_at": "2025-03-11T16:30:23.463Z"
   }
 ]
