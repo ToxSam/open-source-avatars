@@ -1,20 +1,29 @@
 [
   {
-    "id": "612a1e2f-5db6-4638-87c9-c67e9904797c",
+    "id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
     "name": "100Avatars R1",
     "creator_id": "86ec9cbb-cd86-4402-9e29-f07c66f87383",
     "description": "The first 100 avatars series (001-100)",
     "is_public": true,
-    "created_at": "2025-03-11T16:30:23.463Z",
-    "updated_at": "2025-03-11T16:30:23.463Z"
+    "created_at": "2025-03-11T16:41:51.487Z",
+    "updated_at": "2025-03-11T16:41:51.487Z"
   },
   {
-    "id": "07f01f80-00f8-416d-840c-18c3c8325887",
+    "id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
     "name": "100Avatars R2",
     "creator_id": "86ec9cbb-cd86-4402-9e29-f07c66f87383",
     "description": "The second 100 avatars series (101-200)",
     "is_public": true,
-    "created_at": "2025-03-11T16:30:23.463Z",
-    "updated_at": "2025-03-11T16:30:23.463Z"
+    "created_at": "2025-03-11T16:41:51.487Z",
+    "updated_at": "2025-03-11T16:41:51.487Z"
+  },
+  {
+    "id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "name": "100Avatars R3",
+    "creator_id": "86ec9cbb-cd86-4402-9e29-f07c66f87383",
+    "description": "The third 100 avatars series (201-300)",
+    "is_public": true,
+    "created_at": "2025-03-11T16:41:51.487Z",
+    "updated_at": "2025-03-11T16:41:51.487Z"
   }
 ]
