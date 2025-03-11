@@ -1,2 +1,0 @@
-tox@toxsam.com=redacted@example.com
-supabase-auth=PASSWORD_REMOVED
