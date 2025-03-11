@@ -1084,7 +1084,7 @@
     "name": "Carrot",
     "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
     "description": "Avatar 023: Carrot",
-    "model_file_url": "https://arweave.net/ZPNXuX_xp4dn48zrF2TvSYpOfqyewBgAnJ6buGACA6o",
+    "model_file_url": "https://arweave.net/S3t6KT5lUoO1LUZe0iP8VtO_SVW7IVOHM9QMHEHEl64",
     "format": "VRM",
     "is_public": true,
     "is_draft": false,
@@ -1095,7 +1095,7 @@
       "series": "R1",
       "alternateModels": {
         "voxel_fbx": "https://arweave.net/xnbHETqVwdLV3DkGigYpewUis_Puq1K8177DDn2QJOo",
-        "voxel_vrm": "https://arweave.net/S3t6KT5lUoO1LUZe0iP8VtO_SVW7IVOHM9QMHEHEl64",
+        "voxel_vrm": "https://arweave.net/ZPNXuX_xp4dn48zrF2TvSYpOfqyewBgAnJ6buGACA6o",
         "fbx": "https://arweave.net/3zpURZDJcRScLE6J37c6y_eN-WS9tUB35kHJ0TmyZx8"
       },
       "ardriveFiles": {
@@ -3785,7 +3785,7 @@
     "name": "Cool",
     "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
     "description": "Avatar 196: Cool",
-    "model_file_url": "https://arweave.net/8o1xVWYRd0vwiCQ2a966pq5SO4U_q2Bh03aRBiPvi78",
+    "model_file_url": "https://arweave.net/igaT6irIERD3pOhNF2vwFJ8he3ZAa5py9iYT_066M7M",
     "format": "VRM",
     "is_public": true,
     "is_draft": false,
@@ -3796,7 +3796,7 @@
       "series": "R2",
       "alternateModels": {
         "voxel_fbx": "https://arweave.net/bPcNhBWQpM64LyXa6ZlT3cl7J0RAqwUN0qWdASkGfHs",
-        "voxel_vrm": "https://arweave.net/igaT6irIERD3pOhNF2vwFJ8he3ZAa5py9iYT_066M7M",
+        "voxel_vrm": "https://arweave.net/8o1xVWYRd0vwiCQ2a966pq5SO4U_q2Bh03aRBiPvi78",
         "fbx": "https://arweave.net/vqxySfZ5eYd-uRVZLBfeBBTnwgY9GSA_LjpJ85ZmN60"
       },
       "ardriveFiles": {
@@ -4578,7 +4578,7 @@
     "name": "Mister",
     "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
     "description": "Avatar 167: Mister",
-    "model_file_url": "https://arweave.net/ns8uG3_5ixSCh5iL3bM8o0cz3Xi52WUMYhO9ypuxf1Q",
+    "model_file_url": "https://arweave.net/elvlpN6jefoDXqqCWMxCBVZnl6Z2lLD7-wC8N5z1bVk",
     "format": "VRM",
     "is_public": true,
     "is_draft": false,
@@ -4589,7 +4589,7 @@
       "series": "R2",
       "alternateModels": {
         "voxel_fbx": "https://arweave.net/Kmj1A4AmM79SA72OWYuhR00jThmoU27PAKeb6jOLzTI",
-        "voxel_vrm": "https://arweave.net/elvlpN6jefoDXqqCWMxCBVZnl6Z2lLD7-wC8N5z1bVk",
+        "voxel_vrm": "https://arweave.net/ns8uG3_5ixSCh5iL3bM8o0cz3Xi52WUMYhO9ypuxf1Q",
         "fbx": "https://arweave.net/LOUax5DGel2GZbqDJqRDi6jjqDzcxjd4IExs1qRjTHo"
       },
       "ardriveFiles": {
