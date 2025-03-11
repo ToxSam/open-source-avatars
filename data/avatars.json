@@ -1095,8 +1095,8 @@
       "series": "R1",
       "alternateModels": {
         "voxel_fbx": "https://arweave.net/xnbHETqVwdLV3DkGigYpewUis_Puq1K8177DDn2QJOo",
-        "other_vrm": "https://arweave.net/S3t6KT5lUoO1LUZe0iP8VtO_SVW7IVOHM9QMHEHEl64",
-        "other_fbx": "https://arweave.net/3zpURZDJcRScLE6J37c6y_eN-WS9tUB35kHJ0TmyZx8"
+        "voxel_vrm": "https://arweave.net/S3t6KT5lUoO1LUZe0iP8VtO_SVW7IVOHM9QMHEHEl64",
+        "fbx": "https://arweave.net/3zpURZDJcRScLE6J37c6y_eN-WS9tUB35kHJ0TmyZx8"
       },
       "ardriveFiles": {
         "models": [
@@ -3796,8 +3796,8 @@
       "series": "R2",
       "alternateModels": {
         "voxel_fbx": "https://arweave.net/bPcNhBWQpM64LyXa6ZlT3cl7J0RAqwUN0qWdASkGfHs",
-        "other_fbx": "https://arweave.net/vqxySfZ5eYd-uRVZLBfeBBTnwgY9GSA_LjpJ85ZmN60",
-        "other_vrm": "https://arweave.net/igaT6irIERD3pOhNF2vwFJ8he3ZAa5py9iYT_066M7M"
+        "voxel_vrm": "https://arweave.net/igaT6irIERD3pOhNF2vwFJ8he3ZAa5py9iYT_066M7M",
+        "fbx": "https://arweave.net/vqxySfZ5eYd-uRVZLBfeBBTnwgY9GSA_LjpJ85ZmN60"
       },
       "ardriveFiles": {
         "models": [
@@ -4588,9 +4588,9 @@
       "number": "167",
       "series": "R2",
       "alternateModels": {
-        "other_fbx": "https://arweave.net/LOUax5DGel2GZbqDJqRDi6jjqDzcxjd4IExs1qRjTHo",
-        "other_vrm": "https://arweave.net/elvlpN6jefoDXqqCWMxCBVZnl6Z2lLD7-wC8N5z1bVk",
-        "voxel_fbx": "https://arweave.net/Kmj1A4AmM79SA72OWYuhR00jThmoU27PAKeb6jOLzTI"
+        "voxel_fbx": "https://arweave.net/Kmj1A4AmM79SA72OWYuhR00jThmoU27PAKeb6jOLzTI",
+        "voxel_vrm": "https://arweave.net/elvlpN6jefoDXqqCWMxCBVZnl6Z2lLD7-wC8N5z1bVk",
+        "fbx": "https://arweave.net/LOUax5DGel2GZbqDJqRDi6jjqDzcxjd4IExs1qRjTHo"
       },
       "ardriveFiles": {
         "models": [
