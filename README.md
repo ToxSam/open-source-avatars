@@ -1,160 +1,138 @@
-# Open Source Avatars - Data Repository
+# Open Source Avatars
 
-This repository serves as the database for the [Open Source Avatars](https://www.opensourceavatars.com/) project. It contains JSON files that store metadata about 3D avatars, projects, users, and related information.
+<div align="center">
+  <img src="https://assets.opensourceavatars.com/branding/osa-logo-full.png" alt="Open Source Avatars Logo" width="450">
+  <br>
+  <h3><a href="https://www.opensourceavatars.com">🌐 opensourceavatars.com</a></h3>
+  <p>A community-driven gallery of free 3D avatars for the metaverse</p>
+</div>
 
-## About Open Source Avatars
+## 🌟 What is Open Source Avatars?
 
-Open Source Avatars is a gallery of freely available 3D avatars, primarily in VRM format. The project aims to build a community-driven collection of avatars that can be used in virtual reality, metaverse applications, games, and other 3D environments.
+Open Source Avatars (OSA) is a growing collection of freely available 3D avatars for use in virtual reality, gaming, metaverse applications, and any other 3D environments. Our mission is to create an inclusive library of high-quality avatars that anyone can use without worrying about licensing restrictions.
 
-## Repository Structure
+This repository serves as the **data backbone** for the [Open Source Avatars website](https://www.opensourceavatars.com), containing all the metadata and information about the avatars, projects, and related resources.
 
-- `/data` - Contains all the data files
-  - `avatars.json` - Information about each avatar, including links to the 3D models stored on Arweave
-  - `projects.json` - Project collections containing avatars
-  - `tags.json` - Tags for categorizing avatars
-  - `users.json` - User information (non-sensitive)
-  - `downloads.json` - Download statistics
-  - `avatar-tags.json` - Many-to-many relationships between avatars and tags
+## 🚀 Why Open Source Avatars?
 
-## Data Format
+- **Free and accessible 3D avatars** for everyone
+- **Permissive licensing** that allows for personal and commercial use
+- **Community-driven** development and contributions
+- **Diverse selection** of avatar styles, characters, and designs
+- **Compatible formats** for popular platforms and engines
 
-### Common Fields
+## 📂 What's in this Repository?
 
-All main entities (users, projects, avatars, tags, downloads) include these common fields:
-- `id` - Unique identifier (UUID)
-- `createdAt` - ISO timestamp of creation
-- `updatedAt` - ISO timestamp of last update
+This repository is structured as a database with JSON files containing all the metadata:
 
-### Avatars
+- `/data` - The core data directory
+  - `avatars.json` - Detailed information about each avatar (3D models stored on Arweave)
+  - `projects.json` - Collections of related avatars
+  - `tags.json` - Categories and tags for organizing avatars
+  - `users.json` - Creator and contributor information
+  - `downloads.json` - Usage statistics
+  - `avatar-tags.json` - Tagging relationships
 
-Each avatar entry contains:
+### 🔍 Exploring the Avatars
+
+Rather than browsing the JSON files directly, we recommend visiting our gallery at [opensourceavatars.com](https://www.opensourceavatars.com) for an interactive experience with:
+
+- Visual previews and thumbnails
+- 3D model viewers
+- Filtering by tags, style, and format
+- Download options for different platforms
+- Creator information and attribution
+
+## 📊 Data Structure
+
+Each avatar in our collection includes rich metadata such as:
+
 ```json
 {
-  "id": "string",
-  "name": "string",
-  "projectId": "string",
-  "description": "string (optional)",
-  "thumbnailUrl": "string (optional)",
-  "modelFileUrl": "string (optional)",
-  "polygonCount": "number (optional)",
-  "format": "string",
-  "materialCount": "number (optional)",
-  "isPublic": "boolean",
-  "isDraft": "boolean",
-  "metadata": "object - additional data",
-  "createdAt": "string (ISO timestamp)",
-  "updatedAt": "string (ISO timestamp)"
+  "id": "unique-identifier",
+  "name": "Avatar Name",
+  "description": "A detailed description of the avatar",
+  "thumbnailUrl": "https://assets.opensourceavatars.com/...",
+  "modelFileUrl": "https://arweave.net/...",
+  "format": "vrm",
+  "polygonCount": 12500,
+  "materialCount": 8,
+  "metadata": {
+    "alternateModels": {
+      "voxel_vrm": "https://arweave.net/...",
+      "fbx": "https://arweave.net/..."
+    },
+    "license": "CC-BY-4.0",
+    "creator": "Creator Name",
+    "attributes": {
+      "height": 1.7,
+      "style": "anime"
+    }
+  }
 }
 ```
 
-### Projects
+## 🔧 How to Use This Data
 
-Projects are collections of avatars:
-```json
-{
-  "id": "string",
-  "name": "string",
-  "creatorId": "string",
-  "description": "string (optional)",
-  "isPublic": "boolean",
-  "createdAt": "string (ISO timestamp)",
-  "updatedAt": "string (ISO timestamp)"
-}
-```
+### For Developers
 
-### Tags
+1. **Direct API Access**: Access the data via GitHub's raw content:
+   ```
+   https://raw.githubusercontent.com/ToxSam/open-source-avatars/main/data/avatars.json
+   ```
 
-Tags provide categorization for avatars:
-```json
-{
-  "id": "string",
-  "name": "string",
-  "createdAt": "string (ISO timestamp)",
-  "updatedAt": "string (ISO timestamp)"
-}
-```
+2. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/ToxSam/open-source-avatars.git
+   ```
 
-### Avatar-Tags
+3. **Integrate with Your Project**:
+   - Use the well-structured JSON data in your applications
+   - Access the 3D models directly via the Arweave links
+   - Build your own avatar selection interface
 
-This file implements many-to-many relationships between avatars and tags:
-```json
-{
-  "avatarId": "string",
-  "tagId": "string"
-}
-```
+### For 3D Artists and Avatar Users
 
-### Users
+Visit [opensourceavatars.com](https://www.opensourceavatars.com) for a user-friendly interface to:
 
-User information (non-sensitive):
-```json
-{
-  "id": "string",
-  "username": "string",
-  "email": "string",
-  "role": "string",
-  "createdAt": "string (ISO timestamp)",
-  "updatedAt": "string (ISO timestamp)"
-}
-```
+- Browse and search for avatars
+- Preview models in 3D before downloading
+- Download in various formats (VRM, FBX, etc.)
+- Contribute your own creations to the library
 
-### Downloads
+## 🤝 Contributing
 
-Download statistics:
-```json
-{
-  "id": "string",
-  "avatarId": "string",
-  "userId": "string (optional)",
-  "downloadedAt": "string (ISO timestamp)",
-  "ipAddress": "string (optional)",
-  "userAgent": "string (optional)",
-  "createdAt": "string (ISO timestamp)",
-  "updatedAt": "string (ISO timestamp)"
-}
-```
+We welcome contributions from the community! You can:
 
-## Storage Details
+1. **Add new avatars** to the collection
+2. **Improve existing avatars** with additional formats or optimizations
+3. **Enhance the metadata** with better descriptions, tags, or attributes
+4. **Contribute to the website** development
 
-The avatar 3D models and thumbnail images are stored on Arweave, a permanent storage solution. The URLs in the avatar records point to either:
+Visit our [contribution guidelines](https://www.opensourceavatars.com/contribute) on the main website for detailed instructions.
 
-1. Arweave gateway URLs (for permanent storage)
-2. Temporary cloud storage URLs (before being moved to Arweave)
+## 📜 License
 
-## Using This Data
+- **Metadata in this repository**: [Creative Commons CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- **Individual 3D models**: Each has its own license specified in the metadata, typically CC-BY or CC0
 
-This repository is designed to be easily forkable and usable in other projects. You can:
-1. Clone the repository to get a local copy of all avatar metadata
-2. Access the 3D models directly via the Arweave links
-3. Integrate with your own applications using the structured JSON data
+## 🔒 Privacy and Security
 
-### API Access
+This repository contains only public, non-sensitive information. We take privacy seriously:
 
-The data can be accessed directly via GitHub's raw content URLs:
+- User emails are redacted/sanitized
+- No password or authentication data is stored
+- Personal identifiable information is anonymized
+- Private user data is handled separately in secure systems
 
-```
-https://raw.githubusercontent.com/ToxSam/open-source-avatars/main/data/avatars.json
-```
+## 🌐 Connect with Us
 
-Or you can use the GitHub API to access the content programmatically.
+- **Website**: [opensourceavatars.com](https://www.opensourceavatars.com)
+- **GitHub**: [ToxSam/open-source-avatars](https://github.com/ToxSam/open-source-avatars)
+- **Twitter**: [@OSAvatars](https://twitter.com/OSAvatars)
 
-## Contributing
+---
 
-Interested in contributing an avatar? Visit our [main website](https://www.opensourceavatars.com/) or check our main repository for details on how to submit avatars.
-
-## License
-
-All metadata in this repository is available under [Creative Commons CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-
-The actual 3D models referenced in this data are subject to their individual licenses, which are specified in each avatar's metadata. 
-
-## Security & Privacy
-
-For security and privacy reasons:
-
-- User emails in this repository are redacted/sanitized
-- No password hashes or authentication data is stored
-- Personal identifiable information is removed or anonymized
-- Private user data should be handled by your application's authentication system, not stored in this repository
-
-Developers using this data should ensure they maintain appropriate security and privacy practices when dealing with user information. 
+<div align="center">
+  <p>Open Source Avatars — Democratizing virtual identity for the metaverse</p>
+</div> 
