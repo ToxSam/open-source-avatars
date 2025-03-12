@@ -1,17 +1,26 @@
 # Open Source Avatars
 
 <div align="center">
-  <img src="https://assets.opensourceavatars.com/branding/osa-logo-full.png" alt="Open Source Avatars Logo" width="450">
-  <br>
   <h3><a href="https://www.opensourceavatars.com">🌐 opensourceavatars.com</a></h3>
   <p>A community-driven gallery of free 3D avatars for the metaverse</p>
 </div>
 
 ## 🌟 What is Open Source Avatars?
 
-Open Source Avatars (OSA) is a growing collection of freely available 3D avatars for use in virtual reality, gaming, metaverse applications, and any other 3D environments. Our mission is to create an inclusive library of high-quality avatars that anyone can use without worrying about licensing restrictions.
+Open Source Avatars (OSA) is a growing collection of freely available 3D avatars primarily in VRM format for use in virtual reality, gaming, metaverse applications, and any other 3D environments. Our mission is to create an inclusive library of high-quality avatars that anyone can use without worrying about licensing restrictions.
 
 This repository serves as the **data backbone** for the [Open Source Avatars website](https://www.opensourceavatars.com), containing all the metadata and information about the avatars, projects, and related resources.
+
+### What is VRM?
+
+VRM is an open file format for 3D humanoid avatars primarily used in VR applications. Key features include:
+
+- **Cross-platform compatibility** across different applications and engines
+- **Standardized rigging** making animations work consistently
+- **Customizable expressions** for facial animations
+- **Material definitions** that work across different rendering systems
+
+VRM files can be viewed and used with libraries like [Three.js](https://threejs.org/) and applications like [VRoid Studio](https://vroid.com/en/studio) or [Pixiv's VRoid Mobile](https://vroid.com/en/mobile).
 
 ## 🚀 Why Open Source Avatars?
 
@@ -91,6 +100,15 @@ Each avatar in our collection includes rich metadata such as:
    - Access the 3D models directly via the Arweave links
    - Build your own avatar selection interface
 
+### Technical Requirements
+
+To work with VRM files in your own projects, you'll typically need:
+
+- **For web applications**: Three.js with [three-vrm](https://github.com/pixiv/three-vrm) plugin
+- **For Unity**: [UniVRM](https://github.com/vrm-c/UniVRM) package
+- **For Unreal Engine**: [VRM4U](https://github.com/ruyo/VRM4U) plugin
+- **For viewing/editing**: VRoid Studio, Blender (with VRM add-on), or other 3D tools
+
 ### For 3D Artists and Avatar Users
 
 Visit [opensourceavatars.com](https://www.opensourceavatars.com) for a user-friendly interface to:
@@ -129,7 +147,7 @@ This repository contains only public, non-sensitive information. We take privacy
 
 - **Website**: [opensourceavatars.com](https://www.opensourceavatars.com)
 - **GitHub**: [ToxSam/open-source-avatars](https://github.com/ToxSam/open-source-avatars)
-- **Twitter**: [@OSAvatars](https://twitter.com/OSAvatars)
+- **Twitter**: [@toxsam](https://twitter.com/toxsam)
 
 ---
 
