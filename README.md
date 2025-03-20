@@ -52,6 +52,46 @@ Rather than browsing the JSON files directly, we recommend visiting our gallery 
 - Download options for different platforms
 - Creator information and attribution
 
+
+
+## 🔧 How to Use This Avatars
+
+### For 3D Artists and Avatar Users
+
+Visit [opensourceavatars.com](https://www.opensourceavatars.com) for a user-friendly interface to:
+
+- Browse and search for avatars
+- Preview models in 3D before downloading
+- Download in various formats (VRM, FBX, etc.)
+
+### For Developers
+
+1. **Direct API Access**: Access the data via GitHub's raw content:
+   ```
+   https://raw.githubusercontent.com/ToxSam/open-source-avatars/main/data/avatars.json
+   ```
+
+2. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/ToxSam/open-source-avatars.git
+   ```
+
+3. **Integrate with Your Project**:
+   - Use the well-structured JSON data in your applications
+   - Access the 3D models directly via the Arweave links
+   - Build your own avatar selection interface
+
+
+
+### Technical Requirements
+
+To work with VRM files in your own projects, you'll typically need:
+
+- **For web applications**: Three.js with [three-vrm](https://github.com/pixiv/three-vrm) plugin
+- **For Unity**: [UniVRM](https://github.com/vrm-c/UniVRM) package
+- **For Unreal Engine**: [VRM4U](https://github.com/ruyo/VRM4U) plugin
+- **For viewing/editing**: VRoid Studio, Blender (with VRM add-on), or other 3D tools
+
 ## 📊 Data Structure
 
 Each avatar in our collection includes rich metadata such as:
@@ -81,67 +121,198 @@ Each avatar in our collection includes rich metadata such as:
 }
 ```
 
-## 🔧 How to Use This Data
 
-### For Developers
+## 💻 Quick Start Guide
 
-1. **Direct API Access**: Access the data via GitHub's raw content:
-   ```
-   https://raw.githubusercontent.com/ToxSam/open-source-avatars/main/data/avatars.json
-   ```
+### Web Applications
 
-2. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/ToxSam/open-source-avatars.git
-   ```
+1. **Install Dependencies**
+```bash
+# Using npm
+npm install @pixiv/three-vrm three
 
-3. **Integrate with Your Project**:
-   - Use the well-structured JSON data in your applications
-   - Access the 3D models directly via the Arweave links
-   - Build your own avatar selection interface
+# Using yarn
+yarn add @pixiv/three-vrm three
+```
 
-### Technical Requirements
+2. **Basic Implementation**
+```javascript
+import * as THREE from 'three';
+import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader';
+import { VRMLoaderPlugin } from '@pixiv/three-vrm';
 
-To work with VRM files in your own projects, you'll typically need:
+// Create a basic Three.js scene
+const scene = new THREE.Scene();
+const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+const renderer = new THREE.WebGLRenderer();
+renderer.setSize(window.innerWidth, window.innerHeight);
+document.body.appendChild(renderer.domElement);
 
-- **For web applications**: Three.js with [three-vrm](https://github.com/pixiv/three-vrm) plugin
-- **For Unity**: [UniVRM](https://github.com/vrm-c/UniVRM) package
-- **For Unreal Engine**: [VRM4U](https://github.com/ruyo/VRM4U) plugin
-- **For viewing/editing**: VRoid Studio, Blender (with VRM add-on), or other 3D tools
+// Set up lighting
+const light = new THREE.DirectionalLight(0xffffff);
+light.position.set(0, 1, 1).normalize();
+scene.add(light);
 
-### For 3D Artists and Avatar Users
+// Load an avatar
+const loader = new GLTFLoader();
+loader.registerPlugin(new VRMLoaderPlugin());
 
-Visit [opensourceavatars.com](https://www.opensourceavatars.com) for a user-friendly interface to:
+// Fetch avatar data
+fetch('https://raw.githubusercontent.com/ToxSam/open-source-avatars/main/data/avatars.json')
+  .then(response => response.json())
+  .then(avatars => {
+    const avatar = avatars[0]; // Get first avatar for example
+    loader.load(
+      avatar.modelFileUrl,
+      (gltf) => {
+        const vrm = gltf.userData.vrm;
+        scene.add(vrm.scene);
+        
+        // Position camera
+        camera.position.z = 2;
+        
+        // Animation loop
+        function animate() {
+          requestAnimationFrame(animate);
+          renderer.render(scene, camera);
+        }
+        animate();
+      },
+      (progress) => console.log('Loading:', (progress.loaded / progress.total * 100) + '%'),
+      (error) => console.error('Error loading VRM:', error)
+    );
+  });
+```
 
-- Browse and search for avatars
-- Preview models in 3D before downloading
-- Download in various formats (VRM, FBX, etc.)
-- Contribute your own creations to the library
+### Unity Integration
+
+1. **Install UniVRM**
+   - Open Package Manager (Window > Package Manager)
+   - Click '+' > Add package from git URL
+   - Enter: `https://github.com/vrm-c/UniVRM.git?path=/Assets/VRMShaders`
+   - Repeat for: `https://github.com/vrm-c/UniVRM.git?path=/Assets/VRM`
+
+2. **Basic Usage**
+```csharp
+using UnityEngine;
+using VRM;
+
+public class VRMLoader : MonoBehaviour
+{
+    async void Start()
+    {
+        // Load avatar from URL
+        var avatarUrl = "https://arweave.net/your-avatar-url";
+        using (var webRequest = UnityWebRequest.Get(avatarUrl))
+        {
+            await webRequest.SendWebRequest();
+            
+            if (webRequest.result == UnityWebRequest.Result.Success)
+            {
+                var bytes = webRequest.downloadHandler.data;
+                var context = new VRMImporterContext();
+                
+                // Load VRM model
+                await context.LoadAsync(bytes);
+                var gameObject = context.Root;
+                
+                // Add to scene
+                gameObject.transform.SetParent(transform, false);
+            }
+        }
+    }
+}
+```
+
+### Unreal Engine Setup
+
+1. **Install VRM4U Plugin**
+   - Open Epic Games Launcher
+   - Go to Marketplace and search for "VRM4U"
+   - Add to your project
+   - Enable the plugin in Edit > Plugins
+
+2. **Blueprint Usage**
+   - Drag a VRM4U_VrmAssetList component into your scene
+   - Set the VRM URL in the component details
+   - Use the "Load VRM" function to load the avatar
+
+## 🔧 Compatibility Matrix
+
+| Platform      | Required Version | Compatible Packages                    |
+|--------------|------------------|---------------------------------------|
+| Three.js     | ≥ 0.132.0       | @pixiv/three-vrm ≥ 1.0.0             |
+| Unity        | ≥ 2020.3        | UniVRM ≥ 0.108.0                     |
+| Unreal Engine| ≥ 4.27          | VRM4U ≥ 1.0.0                        |
+
+## 🔍 Troubleshooting
+
+### Common VRM Issues
+
+1. **Model Loading Issues**
+   - Verify the VRM file version compatibility (VRM 0.x vs 1.0)
+   - Check if the model size is within platform limits
+   - Ensure all textures are properly packaged with the VRM
+   - Confirm the model follows VRM specifications
+
+2. **Avatar Display Issues**
+   - Check if the model's meta information is correctly set
+   - Verify material settings in the VRM metadata
+   - Ensure the avatar's scale is appropriate (typical height: 1.6m ~ 1.8m)
+   - Check if all required bone structures are present
+
+3. **Expression/BlendShape Issues**
+   - Verify BlendShape proxy settings in VRM metadata
+   - Check if expression keys are properly defined
+   - Ensure BlendShape groups are correctly configured
+   - Test expressions in VRM Viewer before integration
+
 
 ## 🤝 Contributing
 
-We welcome contributions from the community! You can:
+Have a cool VRM avatar you'd like to share with the community? We're excited to see what you've created! This collection aims to make amazing avatars accessible to everyone, and your contribution could help creators and developers worldwide.
 
-1. **Add new avatars** to the collection
-2. **Improve existing avatars** with additional formats or optimizations
-3. **Enhance the metadata** with better descriptions, tags, or attributes
-4. **Contribute to the website** development
+### How to Submit
 
-Visit our [contribution guidelines](https://www.opensourceavatars.com/contribute) on the main website for detailed instructions.
+The easiest way to submit your avatar is through GitHub Discussions:
+
+1. **Open a Discussion**:
+   - Go to the "Discussions" tab in this repository
+   - Choose the "Avatar Submission" category
+   - Use the title format: `[Avatar Submission] Your Avatar Name`
+   - Include the following information:
+     ```
+     Avatar Name:
+     Description:
+     Preview Links: (screenshots/renders, at least 3 views)
+     VRM File: (hosted on Arweave or similar permanent storage)
+     License: (must be open source)
+     Tested On: (list platforms where you've tested the avatar)
+     ```
+
+### Requirements
+
+To ensure the best experience for everyone using the avatars:
+
+- **Format**: VRM file (mandatory)
+- **Thumbnail**: PNG recomended
+- **License**: Must be open source (CC-BY, CC0, etc.)
+- **Storage**: Must be hosted on permanent decentralized storage (Arweave or similar)
+- **Bonus Points**:
+  - Family-friendly content
+  - Optimized model (recommended: under 15k triangles)
+  - Professional quality textures
+  - Proper VRM metadata and bone structure
+  - Working expressions/BlendShapes
+
+
+We review all submissions to ensure they work well across different platforms and maintain high quality standards.
 
 ## 📜 License
 
 - **Metadata in this repository**: [Creative Commons CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - **Individual 3D models**: Each has its own license specified in the metadata, typically CC-BY or CC0
 
-## 🔒 Privacy and Security
-
-This repository contains only public, non-sensitive information. We take privacy seriously:
-
-- User emails are redacted/sanitized
-- No password or authentication data is stored
-- Personal identifiable information is anonymized
-- Private user data is handled separately in secure systems
 
 ## 🌐 Connect with Us
 
