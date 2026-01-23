@@ -5,6 +5,8 @@
     "creator_id": "86ec9cbb-cd86-4402-9e29-f07c66f87383",
     "description": "The first 100 avatars series (001-100)",
     "is_public": true,
+    "license": "CC0",
+    "source_type": "original",
     "created_at": "2025-03-11T16:41:51.487Z",
     "updated_at": "2025-03-11T16:41:51.487Z",
     "avatar_data_file": "avatars/100avatars-r1.json"
@@ -15,6 +17,8 @@
     "creator_id": "86ec9cbb-cd86-4402-9e29-f07c66f87383",
     "description": "The second 100 avatars series (101-200)",
     "is_public": true,
+    "license": "CC0",
+    "source_type": "original",
     "created_at": "2025-03-11T16:41:51.487Z",
     "updated_at": "2025-03-11T16:41:51.487Z",
     "avatar_data_file": "avatars/100avatars-r2.json"
@@ -25,8 +29,25 @@
     "creator_id": "86ec9cbb-cd86-4402-9e29-f07c66f87383",
     "description": "The third 100 avatars series (201-300)",
     "is_public": true,
+    "license": "CC0",
+    "source_type": "original",
     "created_at": "2025-03-11T16:41:51.487Z",
     "updated_at": "2025-03-11T16:41:51.487Z",
     "avatar_data_file": "avatars/100avatars-r3.json"
+  },
+  {
+    "id": "vipe-heroes-genesis",
+    "name": "VIPE Heroes Genesis",
+    "creator_id": "vipe-marketplace",
+    "description": "Genesis PFP collection of VIPE NFT Avatar Marketplace. With interoperability, IP Commercial Rights and Customization.",
+    "is_public": true,
+    "license": "CC-BY",
+    "source_type": "nft",
+    "source_network": "ethereum",
+    "source_contract": "0x3999877754904d8542ad1845d368fa01a5e6e9a5",
+    "opensea_url": "https://opensea.io/collection/vipe-heroes",
+    "created_at": "2023-06-01T17:14:15.854Z",
+    "updated_at": "2026-01-17T09:35:20.372Z",
+    "avatar_data_file": "avatars/vipe-heroes-genesis.json"
   }
 ]
