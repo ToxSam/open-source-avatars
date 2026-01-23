@@ -39,6 +39,7 @@ We curate two types of collections:
 **Community Collections (various licenses)**
 
 - **VIPE Heroes** - NFT avatars (CC-BY, attribution required)
+- **Grifters Squaddies** - NFT avatars (CC0, no attribution needed)
 - More coming soon!
 
 Each collection clearly states its license - check `projects.json` for details.
@@ -73,7 +74,8 @@ const vrmUrl = avatars[0].model_file_url;
   projects.json          → List of all collections
   /avatars/
     100avatars-r1.json   → Avatars from each collection
-    vipe-heroes.json
+    vipe-heroes-genesis.json
+    grifters-squaddies.json
 ```
 
 - `projects.json` tells you what collections exist and their licenses.
