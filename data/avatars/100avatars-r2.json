@@ -1,0 +1,3604 @@
+[
+  {
+    "id": "0172b885-ae7f-417a-a5d8-1a6f25984503",
+    "name": "PyreSorcerer",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 107: PyreSorcerer",
+    "model_file_url": "https://arweave.net/Hc8Rd0EGKNHEevpm1D16BwP-LAPDS319Hvn0fualX_w",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "107",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/BPHH8R2xjvqG0DAqEvK_VbTTVnkCQiQWsubrOrAIUsQ",
+        "voxel_fbx": "https://arweave.net/QxrUkvyLfIRnf0jrBN395oNC6WfIG8QR1Q6qogI4ht4",
+        "voxel_vrm": "https://arweave.net/yGciYv67NhWHTOkkgxEE7QE1VJh-uKVwz4ejbzUBZq0"
+      },
+      "ardriveFiles": {
+        "models": [
+          "107_PyreSorcerer.fbx",
+          "107_PyreSorcerer_Voxel.fbx",
+          "107_PyreSorcerer.vrm",
+          "107_PyreSorcerer_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "107_PyreSorcerer_thumbnail.gif"
+        ],
+        "textures": [
+          "107_PyreSorcerer_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/PEr2Dv1Ds_Y_c4iXhLJwdA9GZHXC8CkK-QWipd17gOo"
+  },
+  {
+    "id": "8f114aa7-319b-429c-8e34-8a4fc2d8fd53",
+    "name": "CoolPan",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 142: CoolPan",
+    "model_file_url": "https://arweave.net/aVB6TrTpPLAoPgZIG5lWwBh4ZdMfkeXmTcU1ybgwHuE",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "142",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/LrCegcwl-QR3XVWTpEkIgU3u7TfXzqw5yh_fut6BJ7o",
+        "fbx": "https://arweave.net/ZZx08hYe9hH1k4Aqj6R0m-T2GX9i1i4Zw3FfVEwe4MA",
+        "voxel_vrm": "https://arweave.net/Uccx1Wisr-SCkX_he0U9I0BJWRUnJnsZLJa9mVIazIY"
+      },
+      "ardriveFiles": {
+        "models": [
+          "142_CoolPan_Voxel.fbx",
+          "142_CoolPan.fbx",
+          "142_CoolPan.vrm",
+          "142_CoolPan_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "142_CoolPan_thumbnail.gif"
+        ],
+        "textures": [
+          "142_CoolPan_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/BlyKjSLHUvR5I3bL9GDViTFEe7_Mv4E_48wjOj4U4Wg"
+  },
+  {
+    "id": "096a3499-815d-4633-aaf8-1018ef70f2d5",
+    "name": "face",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 163: face",
+    "model_file_url": "https://arweave.net/4eYMl57GgEBFpFF6VJvrsTXLHNSKdyT4jumee0LiPwk",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "163",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/K9LBJq0dqFU1Xu37TajPFN55NQ0yeE1LlIigN7Tf0rY",
+        "voxel_vrm": "https://arweave.net/_TsqGrlIGcGWgS4Tom6C1IvJyiYI6894s89yuAMM0GY",
+        "voxel_fbx": "https://arweave.net/pSZKQVatL2zq1AjkKJFwT7GZlfFCHMg9ds4aO9jBh-Y"
+      },
+      "ardriveFiles": {
+        "models": [
+          "163_face.fbx",
+          "163_face.vrm",
+          "163_face_Voxel.vrm",
+          "163_face_Voxel.fbx"
+        ],
+        "thumbnails": [
+          "163_face_thumbnail.gif"
+        ],
+        "textures": [
+          "163_face_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/IFEgyMvBULimH_2oigkYmijDHGXr-Jmz6zlfaOjXl6M"
+  },
+  {
+    "id": "292a243d-14a7-47f8-bcde-26d0d4fcb9ea",
+    "name": "CoffeeMaker",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 135: CoffeeMaker",
+    "model_file_url": "https://arweave.net/WJOa34mvhIq-Igh3B1XRUSVVtVcBd_r-5VkdzwTK0BU",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "135",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/qkS5WyJfPnOR0-Otc2_zVsj5cN3izWrPWyzysJOdKpY",
+        "fbx": "https://arweave.net/pJvDJ4IrbQMDGdOv1AylRnuyUWzcZCWI_3Q7MRnFMvw",
+        "voxel_vrm": "https://arweave.net/UA7ERDoPqUv0PEux-jh0_8mkejo4e5mxJgtq91RaRkY"
+      },
+      "ardriveFiles": {
+        "models": [
+          "135_CoffeeMaker_Voxel.fbx",
+          "135_CoffeeMaker.fbx",
+          "135_CoffeeMaker.vrm",
+          "135_CoffeeMaker_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "135_CoffeeMaker_thumbnail.gif"
+        ],
+        "textures": [
+          "135_CoffeeMaker_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/cWHrmDFydPynhWYUuPfsrQbHx5Szqr7RVKxSUsDmKXo"
+  },
+  {
+    "id": "1f90d94c-474e-4381-b2c7-cb5bec176ac1",
+    "name": "CaptainLantern",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 119: CaptainLantern",
+    "model_file_url": "https://arweave.net/SpMyvJDbre5L1MwW2zPF5g0b5SdnTUPcmE7bE-uVtNk",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "119",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/InQk7Zv3xWYEDGZRYDQSO2m-_rKUjKLmmQkF6_GfU-E",
+        "fbx": "https://arweave.net/9lJTZLNeWK4AGzSAxUVwILLjF11wxwj3j6e1IEug2us",
+        "voxel_vrm": "https://arweave.net/9yz6LgkTLduKTu5pulug6PNacmcOBPXGva1aaWNmUMc"
+      },
+      "ardriveFiles": {
+        "models": [
+          "119_CaptainLantern.vrm",
+          "119_CaptainLantern_Voxel.fbx",
+          "119_CaptainLantern.fbx",
+          "119_CaptainLantern_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "119_CaptainLantern_thumbnail.gif"
+        ],
+        "textures": [
+          "119_CaptainLantern_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/fHT1XNa90x-2lIEghJEhzE2B-YrBrwDCA00zZ-XC2q0"
+  },
+  {
+    "id": "1abd3d23-04d1-4ed4-832d-3a94602887ba",
+    "name": "Cool",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 196: Cool",
+    "model_file_url": "https://arweave.net/igaT6irIERD3pOhNF2vwFJ8he3ZAa5py9iYT_066M7M",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "196",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/bPcNhBWQpM64LyXa6ZlT3cl7J0RAqwUN0qWdASkGfHs",
+        "voxel_vrm": "https://arweave.net/8o1xVWYRd0vwiCQ2a966pq5SO4U_q2Bh03aRBiPvi78",
+        "fbx": "https://arweave.net/vqxySfZ5eYd-uRVZLBfeBBTnwgY9GSA_LjpJ85ZmN60"
+      },
+      "ardriveFiles": {
+        "models": [
+          "196_Cool_Fridge_Voxel.fbx",
+          "196_Cool_Fridge.fbx",
+          "196_Cool_Fridge.vrm",
+          "196_Cool_Fridge_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "196_Cool_Fridge_thumbnail.gif"
+        ],
+        "textures": [
+          "196_Cool_FridgeTexture.png",
+          "196_Cool_Fridge_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/GTyZsQSKR__k2_KKsq10FAdfU_wmPsSQdet0ajoTdJY"
+  },
+  {
+    "id": "88030493-0578-4961-b669-c85ab7dc7b62",
+    "name": "CircleBoi",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 173: CircleBoi",
+    "model_file_url": "https://arweave.net/0LR8vStpEzmWokIxQ9fnky4yYtY37xhmwFBvxxmBOXE",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "173",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/0EQr0pN4BcCoMVLjVXKs6nMyrfcDTkaKFDJog9-LKCI",
+        "voxel_vrm": "https://arweave.net/qKm3ErpIqJ1_-8-VP6RKer6tRCxgWVER2ZZffsCWKvc",
+        "voxel_fbx": "https://arweave.net/kt-bwp2ZO4S4JUa5nihjBiVBgQjodJQbnaW2Dyj1l3Y"
+      },
+      "ardriveFiles": {
+        "models": [
+          "173_CircleBoi.fbx",
+          "173_CircleBoi.vrm",
+          "173_CircleBoi_Voxel.vrm",
+          "173_CircleBoi_Voxel.fbx"
+        ],
+        "thumbnails": [
+          "173_CircleBoi_thumbnail.gif"
+        ],
+        "textures": [
+          "173_CircleBoi_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/1uaCMYsDUR-l2Ys-wwx5vNtFHMkDa-GlvgOesoQht1Y"
+  },
+  {
+    "id": "cff816cc-0fbd-4502-945f-e69c688626cb",
+    "name": "CoolTrash",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 146: CoolTrash",
+    "model_file_url": "https://arweave.net/aq5rlTk1TwYO_awaEhmdGRWrqf47txHuyDGRwtXDp34",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "146",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/LkVJ-5P_XHQjtcw3EYl_YE4niGD2zVUpRxydaXjRSgY",
+        "fbx": "https://arweave.net/vzUBe5pX_2ykExHl_ilomg_vwksFht1WGAKm2U2HzGA",
+        "voxel_vrm": "https://arweave.net/xe4-b77BUmhWKQIEEvfPU2ZiThQi6NiimpCfouXuLTA"
+      },
+      "ardriveFiles": {
+        "models": [
+          "146_CoolTrash_Voxel.fbx",
+          "146_CoolTrash.fbx",
+          "146_CoolTrash.vrm",
+          "146_CoolTrash_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "146_CoolTrash_thumbnail.gif"
+        ],
+        "textures": [
+          "146_CoolTrash_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/rV0EMToENW1Vgdkzl3KoEwH7R4haP7fDYB8YY8Fpnlo"
+  },
+  {
+    "id": "fac8f977-e7f5-417d-b255-fed02b52efb0",
+    "name": "CoolPoo",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 176: CoolPoo",
+    "model_file_url": "https://arweave.net/4V0lF-3oQafJ7-65R5Rk7TWemHFvmof2GFwzlYq0H6s",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "176",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/44J1KMauEIjtwXO7Xxox3JQ_Wy4qT1M4-3zV_p7XQ-Y",
+        "voxel_fbx": "https://arweave.net/mOxolBP_O2_c12HPet7BEr28UkD-Q4QLSS8ENZGzQPg",
+        "voxel_vrm": "https://arweave.net/1D2bkaxirJq9EEJbawEZwHLaRd5h7LhDX2GWWdyzxHc"
+      },
+      "ardriveFiles": {
+        "models": [
+          "176_CoolPoo.fbx",
+          "176_CoolPoo_Voxel.fbx",
+          "176_CoolPoo.vrm",
+          "176_CoolPoo_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "176_CoolPoo_thumbnail.gif"
+        ],
+        "textures": [
+          "176_CoolPoo_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/6fiUgOuW7IwZW85F4DRB50IquDriQqt_UKBigpL7iAQ"
+  },
+  {
+    "id": "e9db9cae-d1c0-414b-a16d-737343e456c1",
+    "name": "CosmicPerson",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 129: CosmicPerson",
+    "model_file_url": "https://arweave.net/RJQUk7bmX8XaoTp-z0mWr8xDh58G6d6mvTbQJjy9jl4",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "129",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/YWJYGZZHxGG5Yp77AkvXNoPPht3Osqov2k2y-aJv7dI",
+        "voxel_fbx": "https://arweave.net/-hl_yqFsLPW3wRevbwthpacQdQsJa2QcC-SfvvNunXw",
+        "voxel_vrm": "https://arweave.net/W3ygIUE5yUFncJfxbm0bgKwLAI-QzZtkcQtsAJ9W4J8"
+      },
+      "ardriveFiles": {
+        "models": [
+          "129_CosmicPerson.fbx",
+          "129_CosmicPerson_Voxel.fbx",
+          "129_CosmicPerson.vrm",
+          "129_CosmicPerson_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "129_CosmicPerson_thumbnail.gif"
+        ],
+        "textures": [
+          "129_CosmicPerson_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/kIGhXfV25A9hxyMGiYlCOgsGivFqrVFwRMHJZi_tVoM"
+  },
+  {
+    "id": "8958ed86-f21a-440d-ae9a-1b736368fd47",
+    "name": "SrStickbug",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 180: SrStickbug",
+    "model_file_url": "https://arweave.net/NYq1mnD9WyX-oS9Wfiv_WwAStbdxIo1vi0eVdti87lQ",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "180",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/eaQxlvS2ZN7cByxMgYmj3DGlJnwn1sCsDFDwhvrOtIs",
+        "voxel_fbx": "https://arweave.net/RBYMoyqVx5Dv3Cv4zaJDOy-0tBRvZvp38fYUuk36B3w",
+        "voxel_vrm": "https://arweave.net/cgl9G7i9tggcBIjyzRj3cGhNCVUCdh-M3yeCQeFKVKw"
+      },
+      "ardriveFiles": {
+        "models": [
+          "180_SrStickbug.fbx",
+          "180_SrStickbug_Voxel.fbx",
+          "180_SrStickbug.vrm",
+          "180_SrStickbug_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "180_SrStickbug_thumbnail.gif"
+        ],
+        "textures": [
+          "180_SrStickbug_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/pUq7qLfMFe2G8phUOMja6ESfwB9Xyt19gSKaByC2tvY"
+  },
+  {
+    "id": "02270688-514c-4d6f-bd84-628b5907a324",
+    "name": "CoolCow",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 190: CoolCow",
+    "model_file_url": "https://arweave.net/G25VfS40ke2bONlm49LTnbob6Wwk74i7HCHSzr31avw",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "190",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/7tOdWEXlqXSs9HBDv9x24dAjsW3bus1LQFkTMspdsq0",
+        "voxel_fbx": "https://arweave.net/Frx-0CwJFjropWM8VX_Ba1tlx7KGtRZE50GI1aHHERM",
+        "voxel_vrm": "https://arweave.net/etH5_h6-tOL5N0Z8uizpXqDjF-C-zUnGLvRiYl02uRA"
+      },
+      "ardriveFiles": {
+        "models": [
+          "190_CoolCow.fbx",
+          "190_CoolCow_Voxel.fbx",
+          "190_CoolCow.vrm",
+          "190_CoolCow_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "190_CoolCow_thumbnail.gif"
+        ],
+        "textures": [
+          "190_CoolCow_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/RnDpQG8vDvCDUv3OEApEpfyLL9aHlwVJCngyshL29CM"
+  },
+  {
+    "id": "141e52ab-a896-4ad0-838f-94e32060ccd5",
+    "name": "CoolStickman",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 198: CoolStickman",
+    "model_file_url": "https://arweave.net/Wb_cLNLFRZ3K00-o5VBrLK3p_db1dk2AJa3I_-9TjmA",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "198",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/N21prqtGUwNrs0XfT5VRO0i3sOometrzQc2YaqfR5Rk",
+        "fbx": "https://arweave.net/zu5aVMoLzsU5N0sVuHINuGyb0cWVADpFBHkdfrKic5E",
+        "voxel_vrm": "https://arweave.net/5POkyQKKquiHtzXF28sTG8SyJfWY8-Py2r_35Bev1_A"
+      },
+      "ardriveFiles": {
+        "models": [
+          "198_CoolStickman_Voxel.fbx",
+          "198_CoolStickman.fbx",
+          "198_CoolStickman.vrm",
+          "198_CoolStickman_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "198_CoolStickman_thumbnail.gif"
+        ],
+        "textures": [
+          "198_CoolStickman_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/VGtXVFkHmU5Nutiz1kJQ9KQlBnd4V9kjzTbuFDqVKBk"
+  },
+  {
+    "id": "dfa9dd76-36d8-4eb8-bfd2-313d987032aa",
+    "name": "COOLFRIES",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 118: COOLFRIES",
+    "model_file_url": "https://arweave.net/4ilcWkXlE4p2zcipILPQD9uQV601FUaOOuDYD5GvCGI",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "118",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/M9anNP9Aq-mdFs9iExUceyVzzuJw6Pta1QSXyT7FjBY",
+        "fbx": "https://arweave.net/qcLJjWu5t37eXuZfXyFDjGJ6W9nxwcdhRdIyp6ACCH4",
+        "voxel_vrm": "https://arweave.net/RwOVngbT1-MV7ZyVR9ykwgAg-bEzGyKOhhPpucrntWQ"
+      },
+      "ardriveFiles": {
+        "models": [
+          "118_COOLFRIES_Voxel.fbx",
+          "118_COOLFRIES.fbx",
+          "118_COOLFRIES.vrm",
+          "118_COOLFRIES_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "118_COOLFRIES_thumbnail.gif"
+        ],
+        "textures": [
+          "118_COOLFRIES_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/cfUgNQGNsffZWv05bJekwL8hWk4dpHmkP3RKlyHODbA"
+  },
+  {
+    "id": "83b29e20-9217-48e7-a5c8-702db5a8bf82",
+    "name": "UnicornPerson",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 110: UnicornPerson",
+    "model_file_url": "https://arweave.net/BNDfq6FLwgxUdaJJ55pFbJxjv7J4eYV10gHYWYDpcvg",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "110",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/hIRNgAEHvu8kgV_KhCsRcw8z059lX8R1lNFnWDOyioA",
+        "fbx": "https://arweave.net/QCTBzs-tZYKcW7rEydQWk7fU4_Q7ODeU3A24ga7Sym8",
+        "voxel_vrm": "https://arweave.net/3iLNGrlLCyVRJVNNOCMR2HkxPCqAq7HRzrCnEPAFiQA"
+      },
+      "ardriveFiles": {
+        "models": [
+          "110_UnicornPerson_Voxel.fbx",
+          "110_UnicornPerson.fbx",
+          "110_UnicornPerson.vrm",
+          "110_UnicornPerson_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "110_UnicornPerson_thumbnail.gif"
+        ],
+        "textures": [
+          "110_UnicornPerson_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/oX_RgqEZx-DbYgUiiYhxpaNH1CFcNAUPjRCuSRCJJaY"
+  },
+  {
+    "id": "42a329c3-6d5f-4dfa-ac0f-1e4e3857ab2e",
+    "name": "CylinderHead",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 174: CylinderHead",
+    "model_file_url": "https://arweave.net/RPWPsLZdl6qmZHkTGqeA_mn53kzG089rN0V8O5a1pjk",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "174",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/oxvsE05UzKhB0HNVRnA6KWjuckJZ31wRcjMD8Zducqk",
+        "voxel_vrm": "https://arweave.net/yNSgz3_lmgkzhxEfOEbmKpzVqpI-hBTZVcGChoENh_8",
+        "voxel_fbx": "https://arweave.net/aCgQl0KXAcyyNc8W8ChEeESvKMD3YzfoH54eoMRz0Hc"
+      },
+      "ardriveFiles": {
+        "models": [
+          "174_CylinderHead.fbx",
+          "174_CylinderHead.vrm",
+          "174_CylinderHead_Voxel.vrm",
+          "174_CylinderHead_Voxel.fbx"
+        ],
+        "thumbnails": [
+          "174_CylinderHead_thumbnail.gif"
+        ],
+        "textures": [
+          "174_CylinderHead_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/09cxP1QT3Fog8JFR4r1qE1EboS_SVaxZB6RiVVWXTKk"
+  },
+  {
+    "id": "dfdb2b86-e39c-4ec5-bf76-5a8e6905ab57",
+    "name": "SUPERSUP",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 123: SUPERSUP",
+    "model_file_url": "https://arweave.net/-ePdB8AwbjxOs7WvSGQIfK1BXWciUg3Waz2PWmZtTLw",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "123",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/0_DcclsVg4jTCMg6s6xg1OTzL-O46TzTEMWVbm_JaFE",
+        "voxel_fbx": "https://arweave.net/dvsjlOm0c6JIlp9-A7jpYaM14eS5fuySWEYOnMQbKuM",
+        "voxel_vrm": "https://arweave.net/4u-B9cRo4P1gf9tyjD730IufwxeG4aAD5RVSdzjuiyg"
+      },
+      "ardriveFiles": {
+        "models": [
+          "123_SUPERSUP.fbx",
+          "123_SUPERSUP_Voxel.fbx",
+          "123_SUPERSUP.vrm",
+          "123_SUPERSUP_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "123_SUPERSUP_thumbnail.gif"
+        ],
+        "textures": [
+          "123_SUPERSUP_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/rhfOH2r806zMiN0g7UQYh2c0emykhCMyIZm8omYb9rA"
+  },
+  {
+    "id": "1541e48a-5cd4-46da-97c3-d4f0ca282423",
+    "name": "COOLPIN",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 156: COOLPIN",
+    "model_file_url": "https://arweave.net/Wh5CXgwD7ij--Yp6JpvYmQxoSWiz33mBikpydeIkaeM",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "156",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/DBJX5og1bRWQ-ggF5YYzOkXYQVFd6xQDfZGqUDBb9Rc",
+        "fbx": "https://arweave.net/zGXycrYvbiUKUOOezLrnk7k6-gQPdWOj2hosmzirK4A",
+        "voxel_vrm": "https://arweave.net/5QVhvq-wxF2fyEFmSKCYYmL7b6cKdG9Kj9Zho7mjLx4"
+      },
+      "ardriveFiles": {
+        "models": [
+          "156_COOLPIN_Voxel.fbx",
+          "156_COOLPIN.fbx",
+          "156_COOLPIN.vrm",
+          "156_COOLPIN_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "156_COOLPIN_thumbnail.gif"
+        ],
+        "textures": [
+          "156_COOLPIN_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/GWKTTbKO-Qidd5YcvfwjDUFirSzt_YmDCpVR-eSxvoE"
+  },
+  {
+    "id": "b61142ba-f923-4038-b11f-936e455a7417",
+    "name": "CoolTaco",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 162: CoolTaco",
+    "model_file_url": "https://arweave.net/H8BKurJDlndvvYQuwn3DwHuCEazIjvjxu09brF32IdM",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "162",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/V4Wlgg4g1WopPqhuMoXFwXK9cuBXB5F1h3A64pVj7NA",
+        "voxel_vrm": "https://arweave.net/39YoG3kffLlMeyu7O3scoGdUPfFAN1ayh4iKA1_ca9E",
+        "voxel_fbx": "https://arweave.net/4pND9y2A_VxuJAribTfFebLaXQyVtCwd1yFEZGaXrjM"
+      },
+      "ardriveFiles": {
+        "models": [
+          "162_CoolTaco.fbx",
+          "162_CoolTaco_Voxel.vrm",
+          "162_CoolTaco.vrm",
+          "162_CoolTaco_Voxel.fbx"
+        ],
+        "thumbnails": [
+          "162_CoolTaco_thumbnail.gif"
+        ],
+        "textures": [
+          "162_CoolTaco_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/DlOIQTwCk_-hvHeRmLRR1BAjRU3WC-aqusQO7KIue-w"
+  },
+  {
+    "id": "8ea02a4b-5ab3-4acd-a99f-eb4f72e40b13",
+    "name": "GoldfishBagPerson",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 105: GoldfishBagPerson",
+    "model_file_url": "https://arweave.net/4o_jgR3I2ysJrtCwbZuCUz-Ls1-1hSfm3rYl5a_ASF8",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "105",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/K4Nn-RMoJWkALCFqvpZh-cFC4uXe58A9LWLEERLz4ZM",
+        "fbx": "https://arweave.net/NIxmhc3QH_55YMe40ZjyvSuhfZyW02XZ8xY56d2pthQ",
+        "voxel_vrm": "https://arweave.net/iF7T8uZEdVMIUwV1z0yES7tZy9bmDS4E33_1jRy8PAo"
+      },
+      "ardriveFiles": {
+        "models": [
+          "105_GoldfishBagPerson_Voxel.fbx",
+          "105_GoldfishBagPerson.fbx",
+          "105_GoldfishBagPerson.vrm",
+          "105_GoldfishBagPerson_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "105_GoldfishBagPerson_thumbnail.gif"
+        ],
+        "textures": [
+          "105_GoldfishBagPerson_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/RCWOE4Y3LNHyi7qykAT0SUISHCi6x4-zL43Oxyr_tmI"
+  },
+  {
+    "id": "54855ade-8486-45a0-8dd3-68b3d0e8e984",
+    "name": "CoolHydrant",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 139: CoolHydrant",
+    "model_file_url": "https://arweave.net/fCqM1yi1TLdk-FX-Y4zZZx1KaEheEmu98KO3wbIeam4",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "139",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/48kXZpPBj9NpLetElFZeE6j0EomIXvjwhRQNjd11u7k",
+        "voxel_fbx": "https://arweave.net/4RO9a540_lP-KQu9byle5eCCDGKiy0Z_rai_JlUk6rU",
+        "voxel_vrm": "https://arweave.net/B0n1jzrWGXSN5lwociDdJwqV1n_R6RGSv557uavOWho"
+      },
+      "ardriveFiles": {
+        "models": [
+          "139_CoolHydrant.fbx",
+          "139_CoolHydrant_Voxel.fbx",
+          "139_CoolHydrant.vrm",
+          "139_CoolHydrant_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "139_CoolHydrant_thumbnail.gif"
+        ],
+        "textures": [
+          "139_CoolHydrant_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/U75zOyT8g2XWqUYEHOawOpfu-nM1biw2H2A42Bubj3o"
+  },
+  {
+    "id": "ecd9d092-f34f-4a29-9ebd-0b83f8266cf9",
+    "name": "CoolPirate",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 145: CoolPirate",
+    "model_file_url": "https://arweave.net/lQwSPMpcSKzL9lMYyAaQ63vHK1ATP1Xmir43jZg2Ob0",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "145",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/K_XS6WpAP1y-RUv314QBfIdgP2FjL9LGHbNjD1c6qT4",
+        "voxel_fbx": "https://arweave.net/WAPF3y0LPtYmHp7QXjfQEJoxC-mtPNqxVKQnfylX5Ic",
+        "voxel_vrm": "https://arweave.net/jjiZUbnKK6U6cxYQOPDrXchnQnQecD4ZID_6DUBYFgI"
+      },
+      "ardriveFiles": {
+        "models": [
+          "145_CoolPirate.fbx",
+          "145_CoolPirate.vrm",
+          "145_CoolPirate_Voxel.fbx",
+          "145_CoolPirate_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "145_CoolPirate_thumbnail.gif"
+        ],
+        "textures": [
+          "145_CoolPirate_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/xohKEjCNVvTxscKi8PraA-yVanniHik9pMdETdjXNDI"
+  },
+  {
+    "id": "ae0ebfd4-c1aa-4e3c-b323-7a5286328b84",
+    "name": "CoolBarrel",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 153: CoolBarrel",
+    "model_file_url": "https://arweave.net/GjKROOf3jqX1gVbAOADs6S3q3wRj_S1FGAFWzn-AxAQ",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "153",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/U7I-_e_HNngtt-4hJcs-Ewp4zy8BUL1luE-8w5Q-6to",
+        "fbx": "https://arweave.net/cTXXzBSBO_WgnXTnV54wlsTkdPJJSIAum4qngBRJYFE",
+        "voxel_vrm": "https://arweave.net/LJchOwzmKG_WDnWyrl-bH3dqa45DeGbR1vMxYhdxqzY"
+      },
+      "ardriveFiles": {
+        "models": [
+          "153_CoolBarrel_Voxel.fbx",
+          "153_CoolBarrel.fbx",
+          "153_CoolBarrel.vrm",
+          "153_CoolBarrel_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "153_CoolBarrel_thumbnail.gif"
+        ],
+        "textures": [
+          "153_CoolBarrel_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/AfF4x2jrQJxHcx_GymQTT7o8kN0XFdonbTA4dc_HWiQ"
+  },
+  {
+    "id": "73cdeb6f-5790-4dae-8869-2d54b14ce144",
+    "name": "CoolKetchup",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 134: CoolKetchup",
+    "model_file_url": "https://arweave.net/jRWqcriLGlolG_HMKYzyKGxNY0IBlW9zdPc4K8-6OdU",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "134",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/-rXAIyyhXvLk3IRUJ4-5YR2UdRMPNH6EbEyPewL5AWY",
+        "fbx": "https://arweave.net/cDWLbZzt7d5FH4Dtf2zv9JPYzhizlQBJeUOy-BUfMCo",
+        "voxel_vrm": "https://arweave.net/TVuEcV8IRUlnv9TJwZ4vuBoRFdgtR5D8tTIznpJGlE0"
+      },
+      "ardriveFiles": {
+        "models": [
+          "134_CoolKetchup_Voxel.fbx",
+          "134_CoolKetchup.fbx",
+          "134_CoolKetchup.vrm",
+          "134_CoolKetchup_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "134_CoolKetchup_thumbnail.gif"
+        ],
+        "textures": [
+          "134_CoolKetchup_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/sixYC_oV9EMFV4L6paw1JG_ebYGh8tCKBkjdjigtSs4"
+  },
+  {
+    "id": "ffe690e1-41bd-44e6-a64f-5099c5ae3871",
+    "name": "CoolBell",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 197: CoolBell",
+    "model_file_url": "https://arweave.net/QrirowGVfxi6I3uGAKEv86gxZkDCOB3PPiu_1_rxqOU",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "197",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/ZjOwqjq8Hs7cFGxQlEPzVV3R8JwL4DDqc_B0zbm021s",
+        "fbx": "https://arweave.net/C3klhP43zck3FY7OoiHOG7aSX-0lrf_aVmiiCc0RNR8",
+        "voxel_vrm": "https://arweave.net/tYTT70jeRWwyY_gMf7858WQQZBM50Rv62dxiqgRnWG4"
+      },
+      "ardriveFiles": {
+        "models": [
+          "197_CoolBell_Voxel.fbx",
+          "197_CoolBell.fbx",
+          "197_CoolBell.vrm",
+          "197_CoolBell_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "197_CoolBell_thumbnail.gif"
+        ],
+        "textures": [
+          "197_CoolBell_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/mFUR4q2cHTpEk6y2ygesaXDbes2AW5bsZO-DFp8P2KI"
+  },
+  {
+    "id": "34832830-47df-4ad8-8047-6f45560a525f",
+    "name": "TastySandwich",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 185: TastySandwich",
+    "model_file_url": "https://arweave.net/7_0ym_o95s53_FWI4dOaLvIA6M4J2iQ43XZ0rp4WV1E",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "185",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/jNJJTA9B2d_sqXFkE4OIzXaWnenlD9YD-yOhRMDR-rg",
+        "voxel_fbx": "https://arweave.net/ta-q7x3uMG7WpSB3nwnRmKRfyaSa15ZWl3hkeLYksLA",
+        "voxel_vrm": "https://arweave.net/X1_ofwS3e9Ck32ZvwC9hda3WCCaFvq1eVpY7WZVZmq8"
+      },
+      "ardriveFiles": {
+        "models": [
+          "185_TastySandwich.fbx",
+          "185_TastySandwich_Voxel.fbx",
+          "185_TastySandwich_Voxel.vrm",
+          "185_TastySandwich.vrm"
+        ],
+        "thumbnails": [
+          "185_TastySandwich_thumbnail.gif"
+        ],
+        "textures": [
+          "185_TastySandwich_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/baewhTA5OadMUi8gsUufJLMx1q8GT1Az9VzYqwRZu7E"
+  },
+  {
+    "id": "9de63751-f4b4-4c4c-9a55-7a044b869fde",
+    "name": "CoolPlunger",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 155: CoolPlunger",
+    "model_file_url": "https://arweave.net/FLKn_BgL-YZo-FEzM9qE9dP7PRH6-ZV20JPXqyn8yVQ",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "155",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/oflHjSLSuGl3TFITpWpW04zEAwiqEAZY8_CZlp9L9-o",
+        "fbx": "https://arweave.net/kvCISboyO_KQVi13t8i4d4JKNy-P93qNAN1igGsQsE0",
+        "voxel_vrm": "https://arweave.net/41E1gRgx_Q4sgPoKmfI6GPZUHBjye5DWfEsS4eAnX64"
+      },
+      "ardriveFiles": {
+        "models": [
+          "155_CoolPlunger_Voxel.fbx",
+          "155_CoolPlunger.fbx",
+          "155_CoolPlunger.vrm",
+          "155_CoolPlunger_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "155_CoolPlunger_thumbnail.gif"
+        ],
+        "textures": [
+          "155_CoolPlunger_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/cBqyH0LISlNl9xEiSfAUmchNHtXoMPoLWKW1W9RE2H0"
+  },
+  {
+    "id": "dbf403c4-0386-4a4e-9b6d-c6a4d7aa215e",
+    "name": "Mister",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 167: Mister",
+    "model_file_url": "https://arweave.net/elvlpN6jefoDXqqCWMxCBVZnl6Z2lLD7-wC8N5z1bVk",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "167",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/Kmj1A4AmM79SA72OWYuhR00jThmoU27PAKeb6jOLzTI",
+        "voxel_vrm": "https://arweave.net/ns8uG3_5ixSCh5iL3bM8o0cz3Xi52WUMYhO9ypuxf1Q",
+        "fbx": "https://arweave.net/LOUax5DGel2GZbqDJqRDi6jjqDzcxjd4IExs1qRjTHo"
+      },
+      "ardriveFiles": {
+        "models": [
+          "167_Mister_Contract.fbx",
+          "167_Mister_Contract.vrm",
+          "167_Mister_Contract_Voxel.vrm",
+          "167_Mister_Contract_Voxel.fbx"
+        ],
+        "thumbnails": [
+          "167_Mister_Contract_thumbnail.gif"
+        ],
+        "textures": [
+          "167_Mister_Contract_Voxel_Texture.png",
+          "167_Mister_ContractTexture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/zFnvDH9ddSiXv4PblERFGatw8Oe7Wq9HRQ7pcIXvMSc"
+  },
+  {
+    "id": "ee9f8c22-0d22-417e-a0cc-f45d60252dcd",
+    "name": "CoolMail",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 154: CoolMail",
+    "model_file_url": "https://arweave.net/EvPoPfQOuZq0ptey0F3PzATuqB7W98VFrGewNDL-eRU",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "154",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/KVHrJWdxe1djYBacx3P-DsNdRVDSraLT-G-_q9n3ZeE",
+        "voxel_fbx": "https://arweave.net/qDtCTVrbIq7KF0UTH3v1Tj3f8uIqA5NuuhGlOpNWFM4",
+        "voxel_vrm": "https://arweave.net/rmMZxtnoIs9Jzuyr3NzOPeqHviB7THlYJhNJbF_kygY"
+      },
+      "ardriveFiles": {
+        "models": [
+          "154_CoolMail.fbx",
+          "154_CoolMail_Voxel.fbx",
+          "154_CoolMail.vrm",
+          "154_CoolMail_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "154_CoolMail_thumbnail.gif"
+        ],
+        "textures": [
+          "154_CoolMail_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/wcDxlutv1SuyayMZrSxye9m207ij1BNhrAfVCUvf6AI"
+  },
+  {
+    "id": "833ba0d3-f21a-43f3-8ec4-e61f29748ff1",
+    "name": "CoolSteak",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 191: CoolSteak",
+    "model_file_url": "https://arweave.net/-o652juqhPs_YtY0_FuleJxozeheiIWAJPHFnVoBW8U",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "191",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/NDT4qLlpJPKMKN4SSxymVkPn376j73YI4_eVU1f3Jg4",
+        "fbx": "https://arweave.net/4O4uH7_kED59UUG2exHS3EfPqa2JaNCru_y8HDBSFyk",
+        "voxel_vrm": "https://arweave.net/vfFfmgjv0r_ZWzmsDQmqaidHc6ifhVifwFoHIcg9P1Q"
+      },
+      "ardriveFiles": {
+        "models": [
+          "191_CoolSteak_Voxel.fbx",
+          "191_CoolSteak.fbx",
+          "191_CoolSteak.vrm",
+          "191_CoolSteak_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "191_CoolSteak_thumbnail.gif"
+        ],
+        "textures": [
+          "191_CoolSteak_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/3-hq5qNpbk2LuNlf3ccQ9iLshaog9_3qvtqd9Ms96Yw"
+  },
+  {
+    "id": "743f8339-eb8b-4a85-8b06-3a08964394d7",
+    "name": "WopWop",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 114: WopWop",
+    "model_file_url": "https://arweave.net/Njb3R09YhrY-jV-ki1fRkwIqv_pNkLYCOwy1hqmGmls",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "114",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/EOEbAdZbKgSi6_FPYWGPuhZmUnzV4DVxOIXUyrYiTOE",
+        "fbx": "https://arweave.net/YxTCYd4Cfj2DiUp49-mzMqiGxUE5Tp8awqdgyv3yqco",
+        "voxel_vrm": "https://arweave.net/EPvcz20dVUOvqupl4aPPll0JVpL1ZMaljL4OOGzU0lo"
+      },
+      "ardriveFiles": {
+        "models": [
+          "114_WopWop_Voxel.fbx",
+          "114_WopWop.fbx",
+          "114_WopWop.vrm",
+          "114_WopWop_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "114_WopWop_thumbnail.gif"
+        ],
+        "textures": [
+          "114_WopWop_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/dGOrYW-QIvK7YAqqV1R2k6GEWOjRjk2ldD9JKaBQ47s"
+  },
+  {
+    "id": "b020c572-619d-4c26-91f6-dc05985ec318",
+    "name": "CoolRamen",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 138: CoolRamen",
+    "model_file_url": "https://arweave.net/pvNvKOTpIG5NpnsPGN4C53patYo0OTGbHQ9jc1WXGRk",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "138",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/7tWx9xvEYM9AwpFZA7WfypcXmZAjv_bQaP_8MpZ1qik",
+        "fbx": "https://arweave.net/oBQM4NtR_-IDzL6YBkSFGyl2rU94W7gPm4g2u00B8E4",
+        "voxel_vrm": "https://arweave.net/cep9vNgq2-_e54R5BeIheP3fZ-gMRej7tJ5OROKtu7U"
+      },
+      "ardriveFiles": {
+        "models": [
+          "138_CoolRamen_Voxel.fbx",
+          "138_CoolRamen.fbx",
+          "138_CoolRamen.vrm",
+          "138_CoolRamen_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "138_CoolRamen_thumbnail.gif"
+        ],
+        "textures": [
+          "138_CoolRamen_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/BBvHoN5mo8YRZeXAY816rAwwQHw_4AA65-2WsjimmXU"
+  },
+  {
+    "id": "fdb6d458-d95e-4ab1-b104-962b13e2a460",
+    "name": "RealCake",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 144: RealCake",
+    "model_file_url": "https://arweave.net/9g9WT8-6HiIlPU8xIQZVYv5kA-07zztUWIBFZTmTF8o",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "144",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/hjPFGbtPXLjT7A0wE811wjfgBMakwYoGvgUDvyEuScI",
+        "fbx": "https://arweave.net/DNpocR6yYDu58bqD-zZ0YxGcQa4rCgZh4tgitp9VFEQ",
+        "voxel_vrm": "https://arweave.net/nak9f2Wu4MnbwbmuyqCVCJOXRbV7A6eJjAQv7VY_7xM"
+      },
+      "ardriveFiles": {
+        "models": [
+          "144_RealCake_Voxel.fbx",
+          "144_RealCake.fbx",
+          "144_RealCake.vrm",
+          "144_RealCake_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "144_RealCake_thumbnail.gif"
+        ],
+        "textures": [
+          "144_RealCake_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/QJ4m9S2oAgZX6El_uh8WB9fiVWbQAXyG9Q75Z87AL7M"
+  },
+  {
+    "id": "943ec613-dac3-4714-906b-84fbaae4bfc7",
+    "name": "RandomBoi",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 128: RandomBoi",
+    "model_file_url": "https://arweave.net/FcSTeBRkTuiSDuZoB5xTOj9vSPQYXpTFTC3Aqt-qnfI",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "128",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/qWIgzG-1yPWcS0wRwst_znazH73thamXwygRpNWGIpg",
+        "fbx": "https://arweave.net/SIIzvFkA8OehUN4EauH7kkwr-M3XbzZHrnVXtdodrXI",
+        "voxel_vrm": "https://arweave.net/TnoukjWoHVKjjLH8gP304QA0WqAHnubkp5A1XZc0Gn8"
+      },
+      "ardriveFiles": {
+        "models": [
+          "128_RandomBoi_Voxel.fbx",
+          "128_RandomBoi.fbx",
+          "128_RandomBoi_Voxel.vrm",
+          "128_RandomBoi.vrm"
+        ],
+        "thumbnails": [
+          "128_RandomBoi_thumbnail.gif"
+        ],
+        "textures": [
+          "128_RandomBoi_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/QGdpzzXmMZ5ZxI3FFix1PvK9AOhV8oef77fK6F9Fh7s"
+  },
+  {
+    "id": "88e8c235-dfbd-47ef-952e-dfe673e042b1",
+    "name": "MrZurbZurb",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 116: MrZurbZurb",
+    "model_file_url": "https://arweave.net/jZuJfGtpjOk3CMHBuJAz0IXGpp4r4GTJVbVxAJ6_3gs",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "116",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/BpCN3De4RCEBDGAm1cdXy1UYaObEp3KO_xov-8ZPjIM",
+        "voxel_fbx": "https://arweave.net/CkA9hSf034bhLl_flF23gLKOJrL7LTcE4LYKA9uyImY",
+        "voxel_vrm": "https://arweave.net/ejb9hdWya67frogYD6DqhuTfqBnCXmQUQwGtHPIF1JI"
+      },
+      "ardriveFiles": {
+        "models": [
+          "116_MrZurbZurb.fbx",
+          "116_MrZurbZurb_Voxel.fbx",
+          "116_MrZurbZurb.vrm",
+          "116_MrZurbZurb_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "116_MrZurbZurb_thumbnail.gif"
+        ],
+        "textures": [
+          "116_MrZurbZurb_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/L_u0WvK65fj5yDwp7FQpU_KAeTghk-MCfEqHvC8wfss"
+  },
+  {
+    "id": "568bd5bd-e66d-4cac-ae7c-fbadc7d307d5",
+    "name": "EggBOY",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 101: EggBOY",
+    "model_file_url": "https://arweave.net/drcsftWUj9aC8cvKhDktYvjr7s8I2_4ir74_uyALJXc",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "101",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/7tp1DNnUnTJz7poeGpr1f68zgG88btG6ADW3EN_RBYM",
+        "voxel_fbx": "https://arweave.net/HQGU-mv93VBXfhQffQ0fR2bTpYNOwiSZHiNJUAVL5vI",
+        "voxel_vrm": "https://arweave.net/6ASbA0QQ9ngleFE0qqXSz4Kb-gWY9vh6FaiLYlORCRE"
+      },
+      "ardriveFiles": {
+        "models": [
+          "101_EggBOY.fbx",
+          "101_EggBOY_Voxel.fbx",
+          "101_EggBOY_Voxel.vrm",
+          "101_EggBOY.vrm"
+        ],
+        "thumbnails": [
+          "101_EggBOY_thumbnail.gif"
+        ],
+        "textures": [
+          "101_EggBOY_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/KBytq-ntliV5pM9Zy_2oSH0OQ54opPnKSUJfQZqLoXU"
+  },
+  {
+    "id": "72e438c1-ad68-48a7-a160-8f953d6b31df",
+    "name": "SlugPerson",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 136: SlugPerson",
+    "model_file_url": "https://arweave.net/ys7hRfG4nAlsio4AQjJaYSO56h8rUxZ7VP3b1rOXlyw",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "136",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/W0V4KAR_VA1GJK9gau__QizpIDkCRTR4d0lDzz-1ewo",
+        "voxel_fbx": "https://arweave.net/ko2z_nfswOIABt68HSIHLzyXyZk1ZNI1DWYJiQ_YGxA",
+        "voxel_vrm": "https://arweave.net/N094ErAL23n4xsk0NOOxCbaLddWF4WNInzWLfvcBk8M"
+      },
+      "ardriveFiles": {
+        "models": [
+          "136_SlugPerson.fbx",
+          "136_SlugPerson_Voxel.fbx",
+          "136_SlugPerson_Voxel.vrm",
+          "136_SlugPerson.vrm"
+        ],
+        "thumbnails": [
+          "136_SlugPerson_thumbnail.gif"
+        ],
+        "textures": [
+          "136_SlugPerson_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/SMgE_jSQEpK2PTW8GuImIJ9Z7ItABJkR9kX3ERHIx_E"
+  },
+  {
+    "id": "d164643c-c3cc-485b-a797-d32b2ff0ad16",
+    "name": "CoolCola",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 193: CoolCola",
+    "model_file_url": "https://arweave.net/vMGCM3wkHcO9khI4ih7ZsQKDcVGukDQKNbSDmk5pTa4",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "193",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/Iw-nLryk9xDvVy-ZXqlrw0CfSFfrGfl3BA5jmwq8Ss0",
+        "fbx": "https://arweave.net/C3ZC1OWIXhWeRUzX3fp9wromp2yF1YGHp2gASaaXJ7g",
+        "voxel_vrm": "https://arweave.net/aaFsbZdcqLtMTb7SOt9A2gJPcKWzMAUlaEeUy0VedoE"
+      },
+      "ardriveFiles": {
+        "models": [
+          "193_CoolCola_Voxel.fbx",
+          "193_CoolCola.fbx",
+          "193_CoolCola.vrm",
+          "193_CoolCola_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "193_CoolCola_thumbnail.gif"
+        ],
+        "textures": [
+          "193_CoolCola_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/RMWL4e0oroxDN0fi0phUW74cc1Hpq2-srLdwyPTt1ic"
+  },
+  {
+    "id": "0301c5c3-97f1-4ad2-a002-a497b5f11e55",
+    "name": "SquareCosmonaut",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 111: SquareCosmonaut",
+    "model_file_url": "https://arweave.net/a8uReP8W5Moct2ANwQBNKMDWMTy3-e82JldzaY6urLM",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "111",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/mI72_aVfxOiHkvnwm1Fm_RUsqZJ1zSJXzrWek45rNEo",
+        "fbx": "https://arweave.net/sCa1Cj_Ugjgox-HHy74HZneA9zkzuvF4U1DxKFMiUoY",
+        "voxel_vrm": "https://arweave.net/ilnDXFWEE61eBRxKmkInLUrRr8-QyApcW-VdSvx6Xhk"
+      },
+      "ardriveFiles": {
+        "models": [
+          "111_SquareCosmonaut_Voxel.fbx",
+          "111_SquareCosmonaut.fbx",
+          "111_SquareCosmonaut.vrm",
+          "111_SquareCosmonaut_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "111_SquareCosmonaut_thumbnail.gif"
+        ],
+        "textures": [
+          "111_SquareCosmonaut_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/sgDeGrkZAhtxmL_Dj8Z_b-z1jS5e-MFJpjhHE66pfAE"
+  },
+  {
+    "id": "aa2360e6-87ca-4f16-b5d1-8bae48000276",
+    "name": "ChillPenguin",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 160: ChillPenguin",
+    "model_file_url": "https://arweave.net/4c5EhflLKYfBtzpcLlvZY0afAwXLVdxXmpgwGaarAIQ",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "160",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/kvKSbE91mvEtxbzaq5lO3G6HvMCjYa-uRKhZRFH5cOg",
+        "fbx": "https://arweave.net/8UvoC1wUXCgWT2meON09u8nQOlDGz_n5gRIXUBWeneY",
+        "voxel_vrm": "https://arweave.net/AJA0halNlyDdCA5rmBT9calLpHPQfu32sLleDEcOmqA"
+      },
+      "ardriveFiles": {
+        "models": [
+          "160_ChillPenguin_Voxel.fbx",
+          "160_ChillPenguin.fbx",
+          "160_ChillPenguin.vrm",
+          "160_ChillPenguin_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "160_ChillPenguin_thumbnail.gif"
+        ],
+        "textures": [
+          "160_ChillPenguin_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/IIaNU4y7r4oOHrj3Zx_E-KZX7Ye9RHht9Q2K0i61BtQ"
+  },
+  {
+    "id": "b33a566e-89a6-49a7-b639-c9b2033a8cba",
+    "name": "CoolShovel",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 131: CoolShovel",
+    "model_file_url": "https://arweave.net/P6LMuVnVx7HbwrN9Ya5oHRf5uvqP-hyZrpjcXH_RLiA",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "131",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/r-n9L-BTrSUSlgnMV2DvXrUCxbetYax1c6ptgvBMup4",
+        "fbx": "https://arweave.net/uDBnltrIDUhcA1WTB8go9g0trkQrjV58XcD-clIwSOA",
+        "voxel_vrm": "https://arweave.net/7L2VVD6Casq4XI2TCefp_irGtGdKObSe7APx2ShOkrE"
+      },
+      "ardriveFiles": {
+        "models": [
+          "131_CoolShovel_Voxel.fbx",
+          "131_CoolShovel.fbx",
+          "131_CoolShovel_Voxel.vrm",
+          "131_CoolShovel.vrm"
+        ],
+        "thumbnails": [
+          "131_CoolShovel_thumbnail.gif"
+        ],
+        "textures": [
+          "131_CoolShovel_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/58laJvoh7XgXxohL-9ZWaBz1mGeV1UfnutWFdDPQQ2w"
+  },
+  {
+    "id": "59c0e5a9-ff85-4742-a0a1-5cbd5b0de56b",
+    "name": "CoolCloud",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 194: CoolCloud",
+    "model_file_url": "https://arweave.net/dKWkA0JncPoEbBMFSzOfuSXXEoR_F-e9tRskzHEQFYE",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "194",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/-qPpOB4cEvNx3vG-wM-O0zXNbybLpW-NqBYt39R-usc",
+        "fbx": "https://arweave.net/PLJiCqd0fpuQeKuP4BhjFGD-JFYiYmgPXIw-uQUtRoY",
+        "voxel_vrm": "https://arweave.net/gvv5F7WSLrN2V6JRfgYTBge2EkXgdWdw_xpfsjIZVoo"
+      },
+      "ardriveFiles": {
+        "models": [
+          "194_CoolCloud_Voxel.fbx",
+          "194_CoolCloud.fbx",
+          "194_CoolCloud.vrm",
+          "194_CoolCloud_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "194_CoolCloud_thumbnail.gif"
+        ],
+        "textures": [
+          "194_CoolCloud_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/fw0sg5RpBHClQhlXSqfaQtZDrjfASlCSpPwcXCFb2wo"
+  },
+  {
+    "id": "fcc19b5b-9f39-4b81-b6a7-fb6d93bf5141",
+    "name": "EYECleric",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 148: EYECleric",
+    "model_file_url": "https://arweave.net/oBuuaAcTglk_WwiNg7-1I1fEwSNhty1bjWInFkwbHRY",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "148",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/7evsosTpRZFCOGWD2yniDVjfgVYSLkHpbeMnr9yvVEY",
+        "fbx": "https://arweave.net/n4Tu80ShepEhG4Q_SKsy9qLCH3OUCHcogclcDP8rP7M",
+        "voxel_vrm": "https://arweave.net/eL_lzzEBNqwKuliImjyCDmmoChxBckbieXy9rjXjHGI"
+      },
+      "ardriveFiles": {
+        "models": [
+          "148_EYECleric_Voxel.fbx",
+          "148_EYECleric.fbx",
+          "148_EYECleric.vrm",
+          "148_EYECleric_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "148_EYECleric_thumbnail.gif"
+        ],
+        "textures": [
+          "148_EYECleric_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/3nPj6Ut307sqFPZJTJZvT69ffqz7kdajXMV0hgIYDQ4"
+  },
+  {
+    "id": "81634422-de0c-4590-a738-10056d1eeb8c",
+    "name": "CoolLoops",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 106: CoolLoops",
+    "model_file_url": "https://arweave.net/rwFZGJ8qSnPtcElY6gwpEc1FLq1sR0uxjn4r_AOSa7o",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "106",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/nrCMT9G0gG4EBm-rLTqJEMUTew0KS4F56eyd41m4xlQ",
+        "fbx": "https://arweave.net/K3UEPErQFaMBxjgpnAitwCCwPMfOaRyZKtwsAOQD5D8",
+        "voxel_vrm": "https://arweave.net/jBEr5ykZdsqQOHz7ZKeB73td6ol6kN888mZ2N5A9m34"
+      },
+      "ardriveFiles": {
+        "models": [
+          "106_CoolLoops_Voxel.fbx",
+          "106_CoolLoops.fbx",
+          "106_CoolLoops.vrm",
+          "106_CoolLoops_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "106_CoolLoops_thumbnail.gif"
+        ],
+        "textures": [
+          "106_CoolLoops_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/FW6pBDPyPoOoudQxmvfRdu4y5ZljptmZlf-jYE56__4"
+  },
+  {
+    "id": "c9679e60-ff73-4bf9-b041-4c4d20f7d3af",
+    "name": "ChillPalm",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 108: ChillPalm",
+    "model_file_url": "https://arweave.net/vtIhVzLD8-pVgRxfB3GvBNvTdA4vWEi1g1k2JPZAcAg",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "108",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/z7OSc8uAhefquhJlm-dfQ1n5aSg8wqY6-UkjUiukXqA",
+        "voxel_fbx": "https://arweave.net/nJrEnQQfYqfpDu-VkpbJOIJyUpAipOVNCtoxjY2vWvE",
+        "voxel_vrm": "https://arweave.net/r76M_sW-_xI5wQG_JCBh0kziFXsLx6DDQQbu_WQAiFQ"
+      },
+      "ardriveFiles": {
+        "models": [
+          "108_ChillPalm.fbx",
+          "108_ChillPalm_Voxel.fbx",
+          "108_ChillPalm.vrm",
+          "108_ChillPalm_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "108_ChillPalm_thumbnail.gif"
+        ],
+        "textures": [
+          "108_ChillPalm_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/HoPy8ZSSy9sKKipqZH3RhnpwZLjHuny16q0eQ5OmVa4"
+  },
+  {
+    "id": "f64c20e6-8b22-40c0-bd91-360df80a1247",
+    "name": "CoolDrumstick",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 141: CoolDrumstick",
+    "model_file_url": "https://arweave.net/rKv-WV5aHo6eLwKRVEWfDfCkttyJBfrj-6urdcFTOHk",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "141",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/d6SaBYw0ZoOuk2tbL1-dAvSijD_heo-PwS2c3sbjV2U",
+        "fbx": "https://arweave.net/s9Bh0niWrpmwC1jDwqPFHB2dew2MaQLwYj5Xr8sgoFk",
+        "voxel_vrm": "https://arweave.net/go9hgD8umcEB-pJbpWqLVY33sFrBOVXA6d1PiddJEqY"
+      },
+      "ardriveFiles": {
+        "models": [
+          "141_CoolDrumstick_Voxel.fbx",
+          "141_CoolDrumstick.fbx",
+          "141_CoolDrumstick.vrm",
+          "141_CoolDrumstick_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "141_CoolDrumstick_thumbnail.gif"
+        ],
+        "textures": [
+          "141_CoolDrumstick_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/Kwm_wIs6W0ePcESP33Qs87gWthfcB8OcLeqg33ae1II"
+  },
+  {
+    "id": "d2fecc1a-b600-429f-bf0a-2a216910d783",
+    "name": "COOLAsparagoose",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 150: COOLAsparagoose",
+    "model_file_url": "https://arweave.net/b9wT_qDEQHlEcYnsbc340PAIVzGZlBAv_YYuc4xPceY",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "150",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/Jod5ZGxojSwURIzIH2wkNNMHAEcOta6L_qX-2UNaE5Q",
+        "fbx": "https://arweave.net/9H0L5Q5pDxSu416AV-VghyeWb5yKgW5UFMye_u9i_Zw",
+        "voxel_vrm": "https://arweave.net/W05EtFeoNkQLmJ_QUr0rBzrq9eVzYZZw6tJuHcFkPrA"
+      },
+      "ardriveFiles": {
+        "models": [
+          "150_COOLAsparagoose_Voxel.fbx",
+          "150_COOLAsparagoose.fbx",
+          "150_COOLAsparagoose.vrm",
+          "150_COOLAsparagoose_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "150_COOLAsparagoose_thumbnail.gif"
+        ],
+        "textures": [
+          "150_COOLAsparagoose_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/HrwLJGx4KK4o1TjpcQpFKFIstfEa2wZ0sRrh9cIzhCI"
+  },
+  {
+    "id": "d6b7d950-c014-4a6e-96a3-26ec6322a425",
+    "name": "CoolCoconut",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 184: CoolCoconut",
+    "model_file_url": "https://arweave.net/MWsMaM_-wQlTxZhi_oLtvZ-MqcTeNY1yuwD3SvASHR8",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "184",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/nd_s6b7mDp0phpXWrG-R-_KDjksn4advwYhDyhzKLZM",
+        "voxel_fbx": "https://arweave.net/2CG9cM9KCDael0ylTUhjew4jjcXvO0Yf35pKUVYrPqY",
+        "voxel_vrm": "https://arweave.net/95oklE-gwvQ4Do5VUsO90y_wAh5F-vT1v5XvHtaQB6o"
+      },
+      "ardriveFiles": {
+        "models": [
+          "184_CoolCoconut.fbx",
+          "184_CoolCoconut.vrm",
+          "184_CoolCoconut_Voxel.fbx",
+          "184_CoolCoconut_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "184_CoolCoconut_thumbnail.gif"
+        ],
+        "textures": [
+          "184_CoolCoconut_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/N4aX3BChmlPX-ITq6HVNB5zuoTpk6Fwo6ynjXGYHfH8"
+  },
+  {
+    "id": "ce467125-1cce-484c-a0fc-eb7b951cbd5e",
+    "name": "CoolPeanut",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 187: CoolPeanut",
+    "model_file_url": "https://arweave.net/8mK6xIDHVtVbM2bXN07ZV4h5BGxTdaV_PbbRiH7mJRo",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "187",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/1hfoFIdchFinRerXa2H7mxl-jrH72yTt__FC9P_xRgE",
+        "voxel_fbx": "https://arweave.net/UL_8sC_qz_T3h1Gci8BwDtNQN6l4H6q9SzrBtKfvNNo",
+        "voxel_vrm": "https://arweave.net/0IJdcS-foLq7_HPX8YRzL-wTQNRy66-240xsdurFIoU"
+      },
+      "ardriveFiles": {
+        "models": [
+          "187_CoolPeanut.fbx",
+          "187_CoolPeanut_Voxel.fbx",
+          "187_CoolPeanut.vrm",
+          "187_CoolPeanut_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "187_CoolPeanut_thumbnail.gif"
+        ],
+        "textures": [
+          "187_CoolPeanut_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/Kd8jVWywg5r-d8p1-HpXl6nG31X3LDZIkIP2xjLYKpE"
+  },
+  {
+    "id": "7fae2311-cd77-43cb-a925-7558375cdc10",
+    "name": "EYEWizard",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 113: EYEWizard",
+    "model_file_url": "https://arweave.net/tl58PHpAKJhRdCUWcnfUxIzjGJCCJ4cl1tlfrFEs48I",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "113",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/dre6EngNbVFc8b_KtldZ0ds6p100O9YVG6cKPmIsBu4",
+        "voxel_fbx": "https://arweave.net/Fjq1pf9tahkVOPP2j_ltYs21xaTFFjSyiRUd4McIBAQ",
+        "voxel_vrm": "https://arweave.net/tDX1edqmB88SBmU6SzaMXz9GJcmDXyaNZL7HumICATE"
+      },
+      "ardriveFiles": {
+        "models": [
+          "113_EYEWizard.fbx",
+          "113_EYEWizard_Voxel.fbx",
+          "113_EYEWizard.vrm",
+          "113_EYEWizard_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "113_EYEWizard_thumbnail.gif"
+        ],
+        "textures": [
+          "113_EYEWizard_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/d_qd1FEH6Y7WKufbjV_XCeisgCdL4Wc-vtir9o3hhqs"
+  },
+  {
+    "id": "237419ee-a592-4e39-b420-03fb77c599b6",
+    "name": "CoolBunny",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 179: CoolBunny",
+    "model_file_url": "https://arweave.net/lA9N84hBGYUdwsPRBte3IBgw3U6L0LiXoUTAXoV0tVA",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "179",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/_5wysBom6lUeMqeIs_otUxA6xdA9D2G3Sj72CBT4WbI",
+        "voxel_fbx": "https://arweave.net/pM0BvjzwBAivJ2lLlaunVISjVrj6MwZSbyVNI4sQUiI",
+        "voxel_vrm": "https://arweave.net/w7WkbeX8MGUgy4ymDXnv-w0RqJ_yFhVoaSM3KeT4Fhs"
+      },
+      "ardriveFiles": {
+        "models": [
+          "179_CoolBunny.fbx",
+          "179_CoolBunny_Voxel.fbx",
+          "179_CoolBunny.vrm",
+          "179_CoolBunny_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "179_CoolBunny_thumbnail.gif"
+        ],
+        "textures": [
+          "179_CoolBunny_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/DfWQx24mE31M0p6cYiTkmdgxtE70q89HebQxz8961tU"
+  },
+  {
+    "id": "378358b9-4d82-4380-ae42-99f6249c189d",
+    "name": "PencilBeing",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 164: PencilBeing",
+    "model_file_url": "https://arweave.net/eHBlEaku9pmb77VWcVh6DpPgZI16y4KCYNG5WK9T77M",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "164",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/aYvQvAnaSSbHVc3fCWnDMlDaWR9uAWjhGxjHHmUzL3c",
+        "voxel_vrm": "https://arweave.net/n42NJLQzPtc9f1pa2jvpmybN3jq8IBtEMXn2hIvE3Ls",
+        "voxel_fbx": "https://arweave.net/tiv625vHnAno2iANohkqgAMIp7aC0gh9Xgm1Sw2UoA8"
+      },
+      "ardriveFiles": {
+        "models": [
+          "164_PencilBeing.fbx",
+          "164_PencilBeing.vrm",
+          "164_PencilBeing_Voxel.vrm",
+          "164_PencilBeing_Voxel.fbx"
+        ],
+        "thumbnails": [
+          "164_PencilBeing_thumbnail.gif"
+        ],
+        "textures": [
+          "164_PencilBeing_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/a1Ktrp3boN9JZQ3QKBzEP1aI852ICr1jD4Z8_2Wm30s"
+  },
+  {
+    "id": "59ea6109-7776-4ee7-ad67-cc940fd79a8c",
+    "name": "CoolCan",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 137: CoolCan",
+    "model_file_url": "https://arweave.net/AeDb0w9ZbrEGW1xKdQVnPiM3dOgv6RX3CDJGfYab2o0",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "137",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/rD1S7ZePXUqwI64YGBwU1GcZqu2Zh3XsCfLOZRycr1k",
+        "fbx": "https://arweave.net/PeXtsw7UFNyiSMWBKQmAGZ28-MOhrJ7_tDjGdvgskzU",
+        "voxel_vrm": "https://arweave.net/1VLvrC_NNPcClBm9nLHfe5rPI_u9wgmAuK1T8Q89nls"
+      },
+      "ardriveFiles": {
+        "models": [
+          "137_CoolCan_Voxel.fbx",
+          "137_CoolCan.fbx",
+          "137_CoolCan.vrm",
+          "137_CoolCan_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "137_CoolCan_thumbnail.gif"
+        ],
+        "textures": [
+          "137_CoolCan_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/XWmgGHkba9rTNC2yQi9u66CIoapGa6HqtpFoiteVlOI"
+  },
+  {
+    "id": "ea700656-5da5-49e9-b2a4-e430375c4ff9",
+    "name": "CoolTurtle",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 182: CoolTurtle",
+    "model_file_url": "https://arweave.net/wci88e79J3iklIScn34ksczgnYE-lie65Y4xEuO0xcI",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "182",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/Sr_iHzC41LEfnIrCF6fuGdaSJ4JRjAD--qxWDQcF44I",
+        "fbx": "https://arweave.net/uVBtS5sOcdlvmHG5TCv9pB0-Yi3cl7hk1VMTJSQ_qwc",
+        "voxel_vrm": "https://arweave.net/0aEK5tYGZz36M2--zuFeE5PtWj6xh85J4UoyHqRZu94"
+      },
+      "ardriveFiles": {
+        "models": [
+          "182_CoolTurtle_Voxel.fbx",
+          "182_CoolTurtle.fbx",
+          "182_CoolTurtle.vrm",
+          "182_CoolTurtle_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "182_CoolTurtle_thumbnail.gif"
+        ],
+        "textures": [
+          "182_CoolTurtle_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/ygh2zAZD66TPmBYBr_77kalUAkx9ve6wYwXQH0qB-Gg"
+  },
+  {
+    "id": "2d288bd1-c413-46cc-97a6-cb84335afcf9",
+    "name": "CoolPolygonalMind",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 200: CoolPolygonalMind",
+    "model_file_url": "https://arweave.net/utdwRoeynRKcPGOOU0z2QZmh0z0fk6EHxBIU0CV-k_E",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "200",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/1rWGyVhYmwpZAa2s-RZNtbQqNuxKkS0wZBwyDgsTjNk",
+        "fbx": "https://arweave.net/jT4Z-xn48oAVwyVKtqd7Fh_VRF-xJz1dDXxfQfdaZ48",
+        "voxel_vrm": "https://arweave.net/5NgVpoXsFYZSlH0tsjynTaAQUrtyB-9R3G3z3ezlNoA"
+      },
+      "ardriveFiles": {
+        "models": [
+          "200_CoolPolygonalMind_Voxel.fbx",
+          "200_CoolPolygonalMind.fbx",
+          "200_CoolPolygonalMind.vrm",
+          "200_CoolPolygonalMind_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "200_CoolPolygonalMind_thumbnail.gif"
+        ],
+        "textures": [
+          "200_CoolPolygonalMind_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/YSH3OtLlujXs580zCel-pQBFa_lKW3j9refZ18BNF1s"
+  },
+  {
+    "id": "193e2d1a-2db5-4e48-8fa0-7c1f1771625a",
+    "name": "CoolPancake",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 161: CoolPancake",
+    "model_file_url": "https://arweave.net/-74o4GilpY6XfUgYgCtT_1BZOvfdxOufhD0eMdT2kVE",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "161",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/kPwKoNmc6D2OczVaAPt7AAROXCXX89_XiG9mO2G0XpQ",
+        "voxel_vrm": "https://arweave.net/v5mPc_DJIhxKmkaAtHOjVXohDK8xlh3bgnyCvmZI9b4",
+        "voxel_fbx": "https://arweave.net/qosz8tPnkpx7a1IA3skBUQMjC-8DPdkFXAowyjJNLqA"
+      },
+      "ardriveFiles": {
+        "models": [
+          "161_CoolPancake.fbx",
+          "161_CoolPancake.vrm",
+          "161_CoolPancake_Voxel.vrm",
+          "161_CoolPancake_Voxel.fbx"
+        ],
+        "thumbnails": [
+          "161_CoolPancake_thumbnail.gif"
+        ],
+        "textures": [
+          "161_CoolPancake_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/kMYWiqvzDQYpycCnJZmpZySdyWMf2OFHi-PfoMR4_nM"
+  },
+  {
+    "id": "f3303134-e97c-443d-a38b-714558c768ed",
+    "name": "CoolPotato",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 188: CoolPotato",
+    "model_file_url": "https://arweave.net/lfKiF5o4t2gozMVyxlK73BLdDfCAdLLV9zS1TYAcxcg",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "188",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/69QKDMQBJOAVvJExStpdtUw3gT23lkdXicPYGI4q4u4",
+        "voxel_fbx": "https://arweave.net/2auf6TxmRFfgEE7AUvNzr1c4XUdfyEm2Yb28e2Z6KX4",
+        "voxel_vrm": "https://arweave.net/it8v7Pf1cAJZ-pY7LmqTQwmqUH4_j0sJ6x8dXAyn87I"
+      },
+      "ardriveFiles": {
+        "models": [
+          "188_CoolPotato.fbx",
+          "188_CoolPotato_Voxel.fbx",
+          "188_CoolPotato.vrm",
+          "188_CoolPotato_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "188_CoolPotato_thumbnail.gif"
+        ],
+        "textures": [
+          "188_CoolPotato_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/71Ww-SP7VhN-KqXUuiLeNhtTpEBeMJcjQ562PbsRHHA"
+  },
+  {
+    "id": "d9204a2d-1324-4e40-895d-e44cdf6108db",
+    "name": "SunflowerPerson",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 104: SunflowerPerson",
+    "model_file_url": "https://arweave.net/86bvPTllXhyOfFPP-DmofadVmPM8HkJB9yqPq4U-pvs",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.491Z",
+    "updated_at": "2025-03-11T16:41:51.491Z",
+    "metadata": {
+      "number": "104",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/ox9-oA6DMUvYabJtCAAirQAzwS-6EdInOjfCE_Sn7tg",
+        "fbx": "https://arweave.net/W4E_C4WKmFyx6puTod7A5QvvLWctqDPakllSJnxO_VM",
+        "voxel_vrm": "https://arweave.net/YbKEarcLaiUtY0Dj1IhKcxlZt1F3SWs5F0gYvOoJiaw"
+      },
+      "ardriveFiles": {
+        "models": [
+          "104_SunflowerPerson_Voxel.fbx",
+          "104_SunflowerPerson.fbx",
+          "104_SunflowerPerson.vrm",
+          "104_SunflowerPerson_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "104_SunflowerPerson_thumbnail.gif"
+        ],
+        "textures": [
+          "104_SunflowerPerson_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/n7wjq-1MOyFQxy4sds5v1-k1cy1KSII6BjYvVr98L6k"
+  },
+  {
+    "id": "2fa2ba36-300c-4004-867c-dc6b9be83651",
+    "name": "SharkPerson",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 120: SharkPerson",
+    "model_file_url": "https://arweave.net/mW-D--cWzk7G8efvS8CXMIu_-501NHTHwY8Hi3bjRJ8",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.492Z",
+    "updated_at": "2025-03-11T16:41:51.492Z",
+    "metadata": {
+      "number": "120",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/tVgrC4VG5HTHsfASLjdqUHeWtwhn_wJ5p82N-gPP35w",
+        "fbx": "https://arweave.net/D4Ilp2IW3oer1pYHnxOkzoZb-TwyehWR-eQH6I_-pCE",
+        "voxel_vrm": "https://arweave.net/Qlq-hD3Vbk8as8Dc17FHUl2cOKfwM9LmbbdXs-kY2cs"
+      },
+      "ardriveFiles": {
+        "models": [
+          "120_SharkPerson_Voxel.fbx",
+          "120_SharkPerson.fbx",
+          "120_SharkPerson.vrm",
+          "120_SharkPerson_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "120_SharkPerson_thumbnail.gif"
+        ],
+        "textures": [
+          "120_SharkPerson_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/hrCpCVV3N6G0IlEBZC5blFW2kf3y1UFrSZBK9GpgAME"
+  },
+  {
+    "id": "4661ebb3-1a68-4019-a6a2-f943f5f3a3ea",
+    "name": "CoolBoard",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 170: CoolBoard",
+    "model_file_url": "https://arweave.net/jQOxgekkkCDRWgLl4CS0uL8jD9JRRE3Wf-mNLD0kExU",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.492Z",
+    "updated_at": "2025-03-11T16:41:51.492Z",
+    "metadata": {
+      "number": "170",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/PdWXk677pKqiUeR1iput9bJTC_i9xMhpQIE_OobtEKM",
+        "voxel_vrm": "https://arweave.net/UjAgybgLnCjXaPF1L8gllS2mEKU7Y2k0qqxBBQJfDKM",
+        "voxel_fbx": "https://arweave.net/VRhhaheCUEiVl_ahsmjsY6nfGix3dDEJjdd38gjBBpo"
+      },
+      "ardriveFiles": {
+        "models": [
+          "170_CoolBoard.fbx",
+          "170_CoolBoard.vrm",
+          "170_CoolBoard_Voxel.vrm",
+          "170_CoolBoard_Voxel.fbx"
+        ],
+        "thumbnails": [
+          "170_CoolBoard_thumbnail.gif"
+        ],
+        "textures": [
+          "170_CoolBoard_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/S1EqKrcLUEENV9PfAxsIUYVmlLlPeIt6TEhG8Ekd6kQ"
+  },
+  {
+    "id": "51c5cfbc-a2d1-4492-a3e4-b83f1cbe920b",
+    "name": "HourglassPerson",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 181: HourglassPerson",
+    "model_file_url": "https://arweave.net/Vo0F7lugbb2-iO9GVIG0vZKb8VucsC6fAh9UHD0tu98",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.492Z",
+    "updated_at": "2025-03-11T16:41:51.492Z",
+    "metadata": {
+      "number": "181",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/txAt8IAuTqSHMdRioVBYOg_cL2bH-x4i5wGfEzV4pMw",
+        "fbx": "https://arweave.net/YgtBHlwE0yLrqVXmfxOd2sRXmWEFJCkeqvsQcL7izOU",
+        "voxel_vrm": "https://arweave.net/3QFGOcV1njxTiVI5HJ8uHfAVoRXbEr529DtnNwxxsVk"
+      },
+      "ardriveFiles": {
+        "models": [
+          "181_HourglassPerson_Voxel.fbx",
+          "181_HourglassPerson.fbx",
+          "181_HourglassPerson.vrm",
+          "181_HourglassPerson_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "181_HourglassPerson_thumbnail.gif"
+        ],
+        "textures": [
+          "181_HourglassPerson_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/6lIx6_-Jonhoqjs6WAArp0CwUMXe1E9xttLwOdXZXjY"
+  },
+  {
+    "id": "2b4bca16-cc23-429e-877d-58919f11c4ca",
+    "name": "CoolCandle",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 165: CoolCandle",
+    "model_file_url": "https://arweave.net/N8LAxYx4D2T71uFYeVvdKDK_jarBNHRk1ZO5-jV3BFQ",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.492Z",
+    "updated_at": "2025-03-11T16:41:51.492Z",
+    "metadata": {
+      "number": "165",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/15jj2GgTSMLHZnCDtKVNvZqCPHiiNDY_KcwE4i3KHoY",
+        "voxel_vrm": "https://arweave.net/aldpWx8Bqvc8-u6Zw4OKiy_unSJMvyEC1pHJYwgfzic",
+        "voxel_fbx": "https://arweave.net/waojud3SMcp_Z_JykAsA-nyAtvihpD-j7-VY7jr5c_8"
+      },
+      "ardriveFiles": {
+        "models": [
+          "165_CoolCandle.fbx",
+          "165_CoolCandle.vrm",
+          "165_CoolCandle_Voxel.vrm",
+          "165_CoolCandle_Voxel.fbx"
+        ],
+        "thumbnails": [
+          "165_CoolCandle_thumbnail.gif"
+        ],
+        "textures": [
+          "165_CoolCandle_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/RyVTd8VZcWR0PzSL4GtYBQYDDjnBbLm8Ciw6AWv8NHI"
+  },
+  {
+    "id": "ba958737-c230-4bba-9eb8-a40c168a5a0f",
+    "name": "AwesomeLemon",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 157: AwesomeLemon",
+    "model_file_url": "https://arweave.net/U-c4eE3ETJ5HOqiC_ad4CLcbWfWuNBiY85azu922uD0",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.492Z",
+    "updated_at": "2025-03-11T16:41:51.492Z",
+    "metadata": {
+      "number": "157",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/4WVUDaR1Pdy5PesNrhQHQGjbz_eDNn6gXaHI_ZIcg4Q",
+        "fbx": "https://arweave.net/C-nroRfr-NnbuSKs6ZJ_Zp75UJurBIVXWrvrtjL9f-U",
+        "voxel_vrm": "https://arweave.net/2EHuVfQKrCjXfDpmmZuY04b_DNvBH-NkBEsfrizPHHc"
+      },
+      "ardriveFiles": {
+        "models": [
+          "157_AwesomeLemon_Voxel.fbx",
+          "157_AwesomeLemon.fbx",
+          "157_AwesomeLemon_Voxel.vrm",
+          "157_AwesomeLemon.vrm"
+        ],
+        "thumbnails": [
+          "157_AwesomeLemon_thumbnail.gif"
+        ],
+        "textures": [
+          "157_AwesomeLemon_Voxel.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/DiWqbGFFmgM8F7JeO-ndtg5rePpEzSioyXzjDAcPVVg"
+  },
+  {
+    "id": "535cba5f-a97a-4ba8-8c6a-02cbd0a4ab7a",
+    "name": "CoolWashingMachine",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 192: CoolWashingMachine",
+    "model_file_url": "https://arweave.net/-VwZMuuUcWwSq9jZHLt4qqW4shspgmh9UHhFi1r9PIM",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.492Z",
+    "updated_at": "2025-03-11T16:41:51.492Z",
+    "metadata": {
+      "number": "192",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/_FVAF6ym1vek6dpLJzJqJ_LPla2uGt5JKrsHLwUzW4o",
+        "fbx": "https://arweave.net/X3c9Rc-d9eXCSNK0x4CHnb6yeiwK74GGUfO9DTuwRsM",
+        "voxel_vrm": "https://arweave.net/We_zMmGgREeLHOhlhYCFKC451CrVKp_mJhjTKaaUY4o"
+      },
+      "ardriveFiles": {
+        "models": [
+          "192_CoolWashingMachine_Voxel.fbx",
+          "192_CoolWashingMachine.fbx",
+          "192_CoolWashingMachine.vrm",
+          "192_CoolWashingMachine_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "192_CoolWashingMachine_thumbnail.gif"
+        ],
+        "textures": [
+          "192_CoolWashingMachine_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/yBdyx0nuL9EdCVzLtX6H4HkcLVxLCUyLB_jhOYGLowM"
+  },
+  {
+    "id": "59b3480a-1ae3-4295-a998-d42605ab7878",
+    "name": "SlimRingo",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 117: SlimRingo",
+    "model_file_url": "https://arweave.net/muOaPhGd_MWafSi5_P9cjpRp1_l4zBr-_hsdkTyPpYU",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.492Z",
+    "updated_at": "2025-03-11T16:41:51.492Z",
+    "metadata": {
+      "number": "117",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/KWDxsOIW0rvhsXYjd6Pb3eNskq7Zcg6lwoGKpgqNO44",
+        "fbx": "https://arweave.net/tjctwhHaBUESWY4ka4xNGXd6xtuz-1M16TbDl8olttc",
+        "voxel_vrm": "https://arweave.net/TpVE1EZ_kmi5H25niAB_ZtgSoOzhQ_2x-0-f9E1FCmA"
+      },
+      "ardriveFiles": {
+        "models": [
+          "117_SlimRingo_Voxel.fbx",
+          "117_SlimRingo.fbx",
+          "117_SlimRingo.vrm",
+          "117_SlimRingo_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "117_SlimRingo_thumbnail.gif"
+        ],
+        "textures": [
+          "117_SlimRingo_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/GLvpqzOOhg4QWgvVX_W6MtzaDOXPb1Ej1KWzeGtaoFk"
+  },
+  {
+    "id": "c3d0c1df-8111-432e-9531-d50c7db7081b",
+    "name": "CoolBaguette",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 133: CoolBaguette",
+    "model_file_url": "https://arweave.net/Ksu6u_z0fvaxu0SqXXSAprIvti6rtzPcRSfBLdMgzbI",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.492Z",
+    "updated_at": "2025-03-11T16:41:51.492Z",
+    "metadata": {
+      "number": "133",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/8dCBLnDPg0eHnMgy-QB0IMBSFwmEwFHvHnNlQSnf0d4",
+        "voxel_fbx": "https://arweave.net/-vhVeCAGEYQV-ZeRn1_POecgVkIwd3ZOaEzw7Ep4XXg",
+        "voxel_vrm": "https://arweave.net/UGB-9_wPtTa-v9LP6kk1LLBmRotkeyRvYP_G6jwIYbw"
+      },
+      "ardriveFiles": {
+        "models": [
+          "133_CoolBaguette.fbx",
+          "133_CoolBaguette_Voxel.fbx",
+          "133_CoolBaguette_Voxel.vrm",
+          "133_CoolBaguette.vrm"
+        ],
+        "thumbnails": [
+          "133_CoolBaguette_thumbnail.gif"
+        ],
+        "textures": [
+          "133_CoolBaguette_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/s0kQ9XWFgYlFoMPnFqR2z0rcn9NoDaMYRp1c1YVUP-4"
+  },
+  {
+    "id": "1120d70f-b2e6-4d38-9e64-203bc8f4b619",
+    "name": "CoolOrange",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 175: CoolOrange",
+    "model_file_url": "https://arweave.net/VVPTiGLBCtJRbEPRefqgi8cditCJZxKIpjVeMqriCNY",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.492Z",
+    "updated_at": "2025-03-11T16:41:51.492Z",
+    "metadata": {
+      "number": "175",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/ODOEc-DUq1PKz5bxC0PWLQPGdWJ8hozTd7TUi60ezg8",
+        "voxel_vrm": "https://arweave.net/3v5R6ZFGwyA89id9PiuTqNNIxc7sVzk0UNJByXwD21s",
+        "voxel_fbx": "https://arweave.net/R0eiCOqb21mHycESy4LcmTC1VTtN5ICS_D9M8ODSrfA"
+      },
+      "ardriveFiles": {
+        "models": [
+          "175_CoolOrange.fbx",
+          "175_CoolOrange.vrm",
+          "175_CoolOrange_Voxel.vrm",
+          "175_CoolOrange_Voxel.fbx"
+        ],
+        "thumbnails": [
+          "175_CoolOrange_thumbnail.gif"
+        ],
+        "textures": [
+          "175_CoolOrange_Voxel.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/BZo0hb9dlt1HR17N10RZmweiknP-a_vv1Jv2XvCpY5o"
+  },
+  {
+    "id": "9f0f45b6-ef2a-4d25-9840-7dbb05445fb1",
+    "name": "COOLTNT",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 152: COOLTNT",
+    "model_file_url": "https://arweave.net/yXcTXoKAUgJsKaZJ-Ca-ZKi09a4eMQOOq8Jxhfz4SkY",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.492Z",
+    "updated_at": "2025-03-11T16:41:51.492Z",
+    "metadata": {
+      "number": "152",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/QtNT_FvR0kLdOcZht_sOmhWmcUN7lsZgKKGGtLUdnyo",
+        "voxel_vrm": "https://arweave.net/24U_7zS0QV-f6r73YKZdxo-YKiUkGsTOCd1rTg6RBRg",
+        "voxel_fbx": "https://arweave.net/czYs-azvU-ccitGvCuywXyeX7LejjSpTrV6HkgbWzIY"
+      },
+      "ardriveFiles": {
+        "models": [
+          "152_COOLTNT.fbx",
+          "152_COOLTNT.vrm",
+          "152_COOLTNT_Voxel.vrm",
+          "152_COOLTNT_Voxel.fbx"
+        ],
+        "thumbnails": [
+          "152_COOLTNT_thumbnail.gif"
+        ],
+        "textures": [
+          "152_COOLTNT_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/Dqx-0FqkNfIBfgD7zP-U-sY_hiL6H3QnbhifeH2lEtA"
+  },
+  {
+    "id": "c1309f15-b8be-49d6-b08b-877693ff7a48",
+    "name": "CoolBroom",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 166: CoolBroom",
+    "model_file_url": "https://arweave.net/TXpvO5cFOJvXiW5ropN49AhfTuvJ_f4Mp-XzF3PPRSE",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.492Z",
+    "updated_at": "2025-03-11T16:41:51.492Z",
+    "metadata": {
+      "number": "166",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/ipHGtRJ-hlIBRy8jeJu0g6GFX-QSE1iRtJBy-6IOgzA",
+        "fbx": "https://arweave.net/zHgDajMBY7zDsCHNTFmnT-d1jqXYIabqETpVNtDFnyI",
+        "voxel_vrm": "https://arweave.net/CW6VAoJoOpOwHfABIn8P9HNtWUDHRDSrOg1OIogPkJU"
+      },
+      "ardriveFiles": {
+        "models": [
+          "166_CoolBroom_Voxel.fbx",
+          "166_CoolBroom.fbx",
+          "166_CoolBroom.vrm",
+          "166_CoolBroom_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "166_CoolBroom_thumbnail.gif"
+        ],
+        "textures": [
+          "166_CoolBroom_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/aRndDfxjPpIWDrpbyLKa9KR_Rq4E7qk0g0b3gQ1yDU4"
+  },
+  {
+    "id": "72c234f4-8039-4d8a-af03-48cfa0c8f5c5",
+    "name": "CoolBattery",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 126: CoolBattery",
+    "model_file_url": "https://arweave.net/vMHxfpDspDB_Llc8cTTXVdX5d2lvwkcrj5azNNgouoo",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.492Z",
+    "updated_at": "2025-03-11T16:41:51.492Z",
+    "metadata": {
+      "number": "126",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/OtMryRn1tMkCsoHfdMC2jXyEl_oBx9oCVpsIBYz7ZhU",
+        "fbx": "https://arweave.net/lRT0hPzY05Ev_FKlf1qeAuuPj6CcuYVTuNxxXzJC3D8",
+        "voxel_vrm": "https://arweave.net/LATxnR8w0D7GNF92WCNJSGJVx8WVbTSdN7EWQefYM68"
+      },
+      "ardriveFiles": {
+        "models": [
+          "126_CoolBattery_Voxel.fbx",
+          "126_CoolBattery.fbx",
+          "126_CoolBattery.vrm",
+          "126_CoolBattery_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "126_CoolBattery_thumbnail.gif"
+        ],
+        "textures": [
+          "126_CoolBattery_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/tEUNkquNjog83EuLAAKm-j8ognZBjc5n73cEkE1-xNk"
+  },
+  {
+    "id": "a3cf5535-dc4e-4088-8f83-1b6a937dd1f0",
+    "name": "CoolBed",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 183: CoolBed",
+    "model_file_url": "https://arweave.net/YG_a1hFQXlvjhidnvOux29VrV_4ixUu4rjeQUJU4HKc",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.492Z",
+    "updated_at": "2025-03-11T16:41:51.492Z",
+    "metadata": {
+      "number": "183",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/NYcMqBMIkeDeTP2i3VYJ4QEELHlhWtPxmvgBMUJuQMk",
+        "fbx": "https://arweave.net/7bDO6l7ZDehdGMP6NnR9bQ5YMNCWuzJ2cTg_AonWzxA",
+        "voxel_vrm": "https://arweave.net/OUz7zHXbW7BRG9yBCVnKunkmXMwSOULri3PA7A382dk"
+      },
+      "ardriveFiles": {
+        "models": [
+          "183_CoolBed_Voxel.fbx",
+          "183_CoolBed.fbx",
+          "183_CoolBed.vrm",
+          "183_CoolBed_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "183_CoolBed_thumbnail.gif"
+        ],
+        "textures": [
+          "183_CoolBed_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/b5O_UFKZIybKxHh4rg3Qq4-d2lsbVzhMkt8tP3KOqjo"
+  },
+  {
+    "id": "f18830e4-c217-478a-b48d-4b81f4a0fa30",
+    "name": "CoolShield",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 195: CoolShield",
+    "model_file_url": "https://arweave.net/8UCbK8DrNP9y0d8GhYpPVgqMBQHbwxAFiBB6ZMS_1qc",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.492Z",
+    "updated_at": "2025-03-11T16:41:51.492Z",
+    "metadata": {
+      "number": "195",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/RMXlOt_kcs8ufAoYXVYxyuQA0eCOqrk5JXLZA5yiUIk",
+        "fbx": "https://arweave.net/PQASJLFw6l8uhOD0WTathGEMzopB7H0KziV1RONgZdE",
+        "voxel_vrm": "https://arweave.net/5S6JQh7rlJIgSmJp2JwuBwD8ayZKOGVthcrD5WEcWh8"
+      },
+      "ardriveFiles": {
+        "models": [
+          "195_CoolShield_Voxel.fbx",
+          "195_CoolShield.fbx",
+          "195_CoolShield.vrm",
+          "195_CoolShield_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "195_CoolShield_thumbnail.gif"
+        ],
+        "textures": [
+          "195_CoolShield_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/2hd5MQsCCfkkLcQF8Gc2YmkxJ2l0-jsxPnokSH5yuwE"
+  },
+  {
+    "id": "db4390b9-136e-4856-86de-502506095d1c",
+    "name": "LupLup",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 151: LupLup",
+    "model_file_url": "https://arweave.net/LR-_7ewMUBc3fmXH9ein93BmyAiX5xwcXHyKcGDRiS4",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.492Z",
+    "updated_at": "2025-03-11T16:41:51.492Z",
+    "metadata": {
+      "number": "151",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/4kCsYKUGQPUUvHGYtPWn83dp_oP0BpKLUIh0i3XytVk",
+        "voxel_vrm": "https://arweave.net/bgYNMqUtpeeJlqXTW512_ROQg8njW-Baq1po60szTqw",
+        "voxel_fbx": "https://arweave.net/Tf3LNSeVD9BhGopP8rx8ZcyzSOyX8J7Uj3HTLULvzdQ"
+      },
+      "ardriveFiles": {
+        "models": [
+          "151_LupLup.vrm",
+          "151_LupLup.fbx",
+          "151_LupLup_Voxel.vrm",
+          "151_LupLup_Voxel.fbx"
+        ],
+        "thumbnails": [
+          "151_LupLup_thumbnail.gif"
+        ],
+        "textures": [
+          "151_LupLup_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/fyIm5O5iFuIAGLK4YfM2Vs_ZXrGgg3HIb5nfs1jOzLE"
+  },
+  {
+    "id": "328712d2-891f-4cc5-afcb-d0ad73b9f7ec",
+    "name": "Bizdude",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 102: Bizdude",
+    "model_file_url": "https://arweave.net/k-_vw28ADGy2jPwnq02Tc98wC0Ey10Ia3JVYQ8qiaxM",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.492Z",
+    "updated_at": "2025-03-11T16:41:51.492Z",
+    "metadata": {
+      "number": "102",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/caCV4Y_nNiXNfy1BEva7OHPtpF9ypAz7olfkgySBglA",
+        "voxel_fbx": "https://arweave.net/jzFgpmzSyV0x0KO8mUct_QApNFs9xUtftpVMDzdE3Lc",
+        "voxel_vrm": "https://arweave.net/IZvxD2timLuDLirh2QPtUgsuGWC39UCqyonY6q0SeIc"
+      },
+      "ardriveFiles": {
+        "models": [
+          "102_Bizdude.fbx",
+          "102_Bizdude_Voxel.fbx",
+          "102_Bizdude.vrm",
+          "102_Bizdude_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "102_Bizdude_thumbnail.gif"
+        ],
+        "textures": [
+          "102_Bizdude_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/Ji3o5O51UMjtEaqRF15436i5wNhNokosHHcpNjOpj1g"
+  },
+  {
+    "id": "1c158ef6-d1a4-47f7-b959-4952507a81de",
+    "name": "LaloBOT",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 115: LaloBOT",
+    "model_file_url": "https://arweave.net/hA6J7zkS1ex6RzOymlhhJcrxQF9CTxA5eanZ0LmZE98",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.492Z",
+    "updated_at": "2025-03-11T16:41:51.492Z",
+    "metadata": {
+      "number": "115",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/c6VK59WAyCwQlG4-AhEhhhitM8heZhnYCKWT9qxOFFo",
+        "fbx": "https://arweave.net/l7tCFzi9CrTgGS3oQM3q0OVRvuSaZukLsWQSrKUCijI",
+        "voxel_vrm": "https://arweave.net/91f2gdLhWnqVT8N0hsPeeiEN7uZTmFEQTTcJ-N7y4Zs"
+      },
+      "ardriveFiles": {
+        "models": [
+          "115_LaloBOT_Voxel.fbx",
+          "115_LaloBOT.fbx",
+          "115_LaloBOT.vrm",
+          "115_LaloBOT_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "115_LaloBOT_thumbnail.gif"
+        ],
+        "textures": [
+          "115_LaloBOT_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/KDPNQS3cuwbQDTJsu1dS1-c6dkupZ-cwZ4WK9B1xaoo"
+  },
+  {
+    "id": "b32d178d-4034-455c-b207-7bfda283b9a3",
+    "name": "SuperICEPOP",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 158: SuperICEPOP",
+    "model_file_url": "https://arweave.net/Ja5ZLFJ0sV4D7TLEfMcngRR_mwlnYTlGTl0NqGkMD8s",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.492Z",
+    "updated_at": "2025-03-11T16:41:51.492Z",
+    "metadata": {
+      "number": "158",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/AoAwQ_l-gn7qZLCt5dHFozHSsFm8Stk2nwPoxc5nDx8",
+        "fbx": "https://arweave.net/wVDxB_fjA_BcrF99jVVype3PaZJZrE4Lkxrprfi_Auc",
+        "voxel_vrm": "https://arweave.net/gDLHMSEcvQMPcUI1NJuYWjkRQVOeTniVUxH9BkbVN_0"
+      },
+      "ardriveFiles": {
+        "models": [
+          "158_SuperICEPOP_Voxel.fbx",
+          "158_SuperICEPOP.fbx",
+          "158_SuperICEPOP.vrm",
+          "158_SuperICEPOP_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "158_SuperICEPOP_thumbnail.gif"
+        ],
+        "textures": [
+          "158_SuperICEPOP_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/38CEu1BdLEJbkUHMXbCjprs7b8guUyy3-CbNhGUZY5Y"
+  },
+  {
+    "id": "884e1e79-9197-4a89-b42d-35d620e0e265",
+    "name": "Wonkerls",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 147: Wonkerls",
+    "model_file_url": "https://arweave.net/71XTkS9fLPd9vEkBA_Wn8_Q3WjIZpx9_nNgCHwAkl2A",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.492Z",
+    "updated_at": "2025-03-11T16:41:51.492Z",
+    "metadata": {
+      "number": "147",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/-UNpMEio9JEORlB2CbH_eV01Tdp03hOzZGAI3gqo2nE",
+        "fbx": "https://arweave.net/lOvCHAIVzRq-AnNfvqasO9aeXdEwHw-pi4SGnpVabFM",
+        "voxel_vrm": "https://arweave.net/bhbkSXK508PO0-V8kfApAfaNIW3MxhrqNx8bRHJMNzk"
+      },
+      "ardriveFiles": {
+        "models": [
+          "147_Wonkerls_Voxel.fbx",
+          "147_Wonkerls.fbx",
+          "147_Wonkerls.vrm",
+          "147_Wonkerls_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "147_Wonkerls_thumbnail.gif"
+        ],
+        "textures": [
+          "147_Wonkerls_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/mDC1glyoHASX7PS_GjVTXsI52iQ25T6Z7wqRS0W_KCk"
+  },
+  {
+    "id": "bf05896f-b31c-4aad-b45e-df82a58357c9",
+    "name": "Balloony",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 121: Balloony",
+    "model_file_url": "https://arweave.net/GkxAt_m5HTW9yZVSnHimzz5b5MnJzY1s3ZqnQ7VnOlk",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.492Z",
+    "updated_at": "2025-03-11T16:41:51.492Z",
+    "metadata": {
+      "number": "121",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/yr6rKvl_c1PKckTKx-gKw6QEfm5UttCVZN3iTYXoLr0",
+        "fbx": "https://arweave.net/OOgRfSv1so9aQKPvhHHYdikad5m7a_mkMu9XuQbgDtA",
+        "voxel_vrm": "https://arweave.net/2_6w_wQqCA732sh2LcIOrTkAurnnCqKg0XdP5Ifsu2o"
+      },
+      "ardriveFiles": {
+        "models": [
+          "121_Balloony_Voxel.fbx",
+          "121_Balloony.vrm",
+          "121_Balloony.fbx",
+          "121_Balloony_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "121_Balloony_thumbnail.gif"
+        ],
+        "textures": [
+          "121_Balloony_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/SVa5uvWItHXJDuIH5qUDj3y0eUsK7IaCLocouoTkOi4"
+  },
+  {
+    "id": "92413168-5a70-4559-b928-3128d5540acb",
+    "name": "CoolCone",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 169: CoolCone",
+    "model_file_url": "https://arweave.net/_gXn0ivxTLYvJLWl9KZi5zWtiEfB-0UIoRrppSXF3hw",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.492Z",
+    "updated_at": "2025-03-11T16:41:51.492Z",
+    "metadata": {
+      "number": "169",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/ULRPMaMFHqfWhBpfAkHDxbQLgLzYTR8KmIVvxOm-8Go",
+        "voxel_vrm": "https://arweave.net/3rG04FcjKL53DH0TYUqtoKsJetqkbEguszQDF6smsYA",
+        "voxel_fbx": "https://arweave.net/yKmKdD8hVdVfs81OuXdKoUAWjR304SAc-KQi7e5zd0k"
+      },
+      "ardriveFiles": {
+        "models": [
+          "169_CoolCone.vrm",
+          "169_CoolCone.fbx",
+          "169_CoolCone_Voxel.vrm",
+          "169_CoolCone_Voxel.fbx"
+        ],
+        "thumbnails": [
+          "169_CoolCone_thumbnail.gif"
+        ],
+        "textures": [
+          "169_CoolCone_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/9jK-taPDRmJa2HYSBNnoVYlzcx0592l6Bks7KdN0Wjo"
+  },
+  {
+    "id": "a446786c-89ab-4827-9834-ce210f76b663",
+    "name": "EYEFighter",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 168: EYEFighter",
+    "model_file_url": "https://arweave.net/UKa1V7OQhgMve5Gy7KLw-GiwUPylG0gI0rdTRF4mzT0",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.492Z",
+    "updated_at": "2025-03-11T16:41:51.492Z",
+    "metadata": {
+      "number": "168",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/_ac_gdQE2t_HssDwIbx2Lnmmp6nl78nT86Ib23RkvqQ",
+        "voxel_vrm": "https://arweave.net/u9sOZim-XuF-H-UAO6vcY1xftxwIcfs05GRLNyAZ_TI",
+        "voxel_fbx": "https://arweave.net/6Cb5leshbF2z7Hi3LJuNQrvijB2DhKd_Dxu2ioOYKS0"
+      },
+      "ardriveFiles": {
+        "models": [
+          "168_EYEFighter.fbx",
+          "168_EYEFighter.vrm",
+          "168_EYEFighter_Voxel.vrm",
+          "168_EYEFighter_Voxel.fbx"
+        ],
+        "thumbnails": [
+          "168_EYEFighter_thumbnail.gif"
+        ],
+        "textures": [
+          "168_EYEFighter_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/w5PLeaFVxEetfkrL_ru72CoMU-majicqUJC4IulXdDs"
+  },
+  {
+    "id": "949e72b6-d699-45f0-a188-9f4a09b3b9e1",
+    "name": "AlienSkeleton",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 109: AlienSkeleton",
+    "model_file_url": "https://arweave.net/qNQg3kmgnCNS5WHFxC3Kot2D5TPPWO8G7DQaLmUF1_0",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.492Z",
+    "updated_at": "2025-03-11T16:41:51.492Z",
+    "metadata": {
+      "number": "109",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/UOMPUJFwwCGVSv7ZnnhAHjVrUvWWD_iK2OlI9f7OsyY",
+        "fbx": "https://arweave.net/R4i0muof5QtyExQNLO97J2KwSSINAbWuUYHfeIDAeFg",
+        "voxel_vrm": "https://arweave.net/yFiOtSoWZTSgw1ViCOxYtx_y-sEkB0VKjKTXIuMQGbk"
+      },
+      "ardriveFiles": {
+        "models": [
+          "109_AlienSkeleton_Voxel.fbx",
+          "109_AlienSkeleton.fbx",
+          "109_AlienSkeleton.vrm",
+          "109_AlienSkeleton_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "109_AlienSkeleton_thumbnail.gif"
+        ],
+        "textures": [
+          "109_AlienSkeleton_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/rOksMHorvQ_K67vZ_6_jZ-rZX9PZpuzk1gt6LWs7m1A"
+  },
+  {
+    "id": "e848a97f-3360-4977-b1bf-659fca1d1c0b",
+    "name": "CoolDrink",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 159: CoolDrink",
+    "model_file_url": "https://arweave.net/a1o08LUEuc9tIoP0N_VtVTGuDmMH1s2yQBdO8kqOJGo",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.492Z",
+    "updated_at": "2025-03-11T16:41:51.492Z",
+    "metadata": {
+      "number": "159",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/E4JShbhLSoGrx8QmUJEPT51RaJK40MkEggnULtBvnyY",
+        "fbx": "https://arweave.net/-Pse9iAcYoPph9OC21RMCxLAye-glxP3pEYA3pya5PI",
+        "voxel_vrm": "https://arweave.net/-DmM60zmouYIv3trsX5k-YIdyj33Hz-Z2RYpC7E-Nks"
+      },
+      "ardriveFiles": {
+        "models": [
+          "159_CoolDrink_Voxel.fbx",
+          "159_CoolDrink.fbx",
+          "159_CoolDrink.vrm",
+          "159_CoolDrink_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "159_CoolDrink_thumbnail.gif"
+        ],
+        "textures": [
+          "159_CoolDrink_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/39EA5smWfddklmqWY3gxN4UZhV_kuB8kWtVmcgWyFeI"
+  },
+  {
+    "id": "38bad59e-2b03-4dfc-8da5-df939a781d96",
+    "name": "CoolJam",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 127: CoolJam",
+    "model_file_url": "https://arweave.net/ILQZhczBUAY82xBvCDtdrBWzE2k9FzyAZF3U3OC-49I",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.492Z",
+    "updated_at": "2025-03-11T16:41:51.492Z",
+    "metadata": {
+      "number": "127",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/7Q9xUYDdLWEJ-1z7vd4hYHTtvH6AMbSMXyDKm5-7lwc",
+        "fbx": "https://arweave.net/wjbKetqdoWTP5At0z8kRUNQUDiNOwr1GX4Ii1zv20cw",
+        "voxel_vrm": "https://arweave.net/XC6cb9LxUIy5d1UNUyEfS8Zmdx6kyGhtBd4LPxNRnLA"
+      },
+      "ardriveFiles": {
+        "models": [
+          "127_CoolJam_Voxel.fbx",
+          "127_CoolJam.fbx",
+          "127_CoolJam.vrm",
+          "127_CoolJam_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "127_CoolJam_thumbnail.gif"
+        ],
+        "textures": [
+          "127_CoolJam_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/IPRDxjuPbjqxMU6SvpKq_rsKEWzhpYsu6LYKnHe-HDw"
+  },
+  {
+    "id": "7d810752-7736-40fc-bf40-44bcf0f64c70",
+    "name": "CoolMoneyBag",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 199: CoolMoneyBag",
+    "model_file_url": "https://arweave.net/L7PJM-FVEw1YhsrdT92UUAXVTitWMTWRXV_gKc6-sJo",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.492Z",
+    "updated_at": "2025-03-11T16:41:51.492Z",
+    "metadata": {
+      "number": "199",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/VvTa9d-1oyuM1ugvekkegZvhXiMS-hZNhLUrbOlEKgs",
+        "fbx": "https://arweave.net/aCleqKLCBANYKDCYyVhdgzMRUQwqe0GneztPIKyHinM",
+        "voxel_vrm": "https://arweave.net/rBfIuw9XlmlYOUxHijWpsori8Lld_nEVflpqAw_P59g"
+      },
+      "ardriveFiles": {
+        "models": [
+          "199_CoolMoneyBag_Voxel.fbx",
+          "199_CoolMoneyBag.fbx",
+          "199_CoolMoneyBag.vrm",
+          "199_CoolMoneyBag_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "199_CoolMoneyBag_thumbnail.gif"
+        ],
+        "textures": [
+          "199_CoolMoneyBag_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/138xfIfDtaHZFfK9B3MJFcNKvTzQSTLL8GzYb8nZNq0"
+  },
+  {
+    "id": "2042158b-fe35-4cdf-8d16-3ed3725c915d",
+    "name": "CoolGuitar",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 143: CoolGuitar",
+    "model_file_url": "https://arweave.net/-nUIuNXB_FDjc95GvZjby_ijUJcppCquFfB5mGxCruw",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.495Z",
+    "updated_at": "2025-03-11T16:41:51.495Z",
+    "metadata": {
+      "number": "143",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/k2n_gvHOpCmaXu6fxBLAaKK0uo2pJn2exqnqGRA9NW4",
+        "fbx": "https://arweave.net/28j7PUihShGLu3vOuzVb51gFBU1rrDChDUSqGAEw_Ng",
+        "voxel_vrm": "https://arweave.net/Xlno5kO0dKCnqUVAEEJQTQhjgHtZ8BSaV0Ig6Hu9VEg"
+      },
+      "ardriveFiles": {
+        "models": [
+          "143_CoolGuitar_Voxel.fbx",
+          "143_CoolGuitar.fbx",
+          "143_CoolGuitar.vrm",
+          "143_CoolGuitar_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "143_CoolGuitar_thumbnail.gif"
+        ],
+        "textures": [
+          "143_CoolGuitar_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/3MzlPHSjkICIOECSs4m1LvFuhYEEahWkDQ-AksK3_Ks"
+  },
+  {
+    "id": "bec9d19f-f999-4f47-87d1-0e1bed30f534",
+    "name": "HodlerKing",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 125: HodlerKing",
+    "model_file_url": "https://arweave.net/a_Xn2jFh4WN35c5mZi9q7fye_jYadDo7_ubfUbDaUAA",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.495Z",
+    "updated_at": "2025-03-11T16:41:51.495Z",
+    "metadata": {
+      "number": "125",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/FC53OQXHjt68PTIdRAl67nJMrP9q5fJ1baIXquntZqs",
+        "voxel_fbx": "https://arweave.net/8N9CbjAcQp4HfJFRuguhfFKXqaRv4dTG3BZoKJ4tIQ8",
+        "voxel_vrm": "https://arweave.net/EUE9rrXKghpRP36faH9HBSUmdKLcWLhEsqnnUIA8QyA"
+      },
+      "ardriveFiles": {
+        "models": [
+          "125_HodlerKing.fbx",
+          "125_HodlerKing_Voxel.fbx",
+          "125_HodlerKing.vrm",
+          "125_HodlerKing_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "125_HodlerKing_thumbnail.gif"
+        ],
+        "textures": [
+          "125_HodlerKing_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/LIh_ZIrZbcmgO3DTLbyQBLqxvOk9OKIixIgIyUHjt7I"
+  },
+  {
+    "id": "4e8bd287-cadb-44e2-b3b9-684068944686",
+    "name": "CoolSword",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 186: CoolSword",
+    "model_file_url": "https://arweave.net/zS4r8hrqoCPD0NQo88XSLkMHkWFWSC4AMXroiysn7A0",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.495Z",
+    "updated_at": "2025-03-11T16:41:51.495Z",
+    "metadata": {
+      "number": "186",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/1ApcJftcgr7SxYAMmAS3VhRHUzffymYh6lk913JQ5Do",
+        "fbx": "https://arweave.net/8tffh-I2g6LFHDC3MPgHRGHBYw1ppSnYvCCLMV3V0EQ",
+        "voxel_vrm": "https://arweave.net/esei6-8lflObtbTZwcHBHQWZ7Vb0CPeM6gZGFX-hm8w"
+      },
+      "ardriveFiles": {
+        "models": [
+          "186_CoolSword_Voxel.fbx",
+          "186_CoolSword.fbx",
+          "186_CoolSword.vrm",
+          "186_CoolSword_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "186_CoolSword_thumbnail.gif"
+        ],
+        "textures": [
+          "186_CoolSword_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/ptk_yygJ4fDyHEp_VJnZX2L5Jq-J8jUSzprvZNnZfII"
+  },
+  {
+    "id": "e03a71d6-aa72-4d98-a1f1-14fd96e54e60",
+    "name": "Mowchok",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 122: Mowchok",
+    "model_file_url": "https://arweave.net/MKKThEKflv8UXZ14A7qrLDZP6Obl4vOWouWdHt_STPw",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.495Z",
+    "updated_at": "2025-03-11T16:41:51.495Z",
+    "metadata": {
+      "number": "122",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/til9bD27gweme6-u2rew3rINuo6Q4UgHBorSCJItUpk",
+        "fbx": "https://arweave.net/vbQWC2yxDTjXnCPw5LKfVigycbvuew_qGzkZlnk_inQ",
+        "voxel_vrm": "https://arweave.net/VlCpA9NRe1Im1o17XGmzndZSOu8jcl2o-Ddvl4kf3uk"
+      },
+      "ardriveFiles": {
+        "models": [
+          "122_Mowchok_Voxel.fbx",
+          "122_Mowchok.fbx",
+          "122_Mowchok.vrm",
+          "122_Mowchok_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "122_Mowchok_thumbnail.gif"
+        ],
+        "textures": [
+          "122_Mowchok_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/pRFiHLQyP_6hlwN5z0tONSd1hjl9Peh_aQFjt9aHsbM"
+  },
+  {
+    "id": "eb8fc7db-f11d-45e7-a615-6811350e981a",
+    "name": "MoonGirl",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 177: MoonGirl",
+    "model_file_url": "https://arweave.net/m39XL2LTq_7B1kSjjfsiA_DDqFlfs0TOWjFZy-x8Grc",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.495Z",
+    "updated_at": "2025-03-11T16:41:51.495Z",
+    "metadata": {
+      "number": "177",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/3cZwoxxublnR4roeO1XwmdhiiKXr-_o-egHZPUBHv9s",
+        "voxel_fbx": "https://arweave.net/NqgJnhouxLzITfuplS4syHUCXG-AN5rZ32qjqDrEfRQ",
+        "voxel_vrm": "https://arweave.net/fZTaFf8lnMkGkzCuqByRRPAUTQOCS9luXQDq-jg1X5M"
+      },
+      "ardriveFiles": {
+        "models": [
+          "177_MoonGirl.fbx",
+          "177_MoonGirl_Voxel.fbx",
+          "177_MoonGirl.vrm",
+          "177_MoonGirl_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "177_MoonGirl_thumbnail.gif"
+        ],
+        "textures": [
+          "177_MoonGirl_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/lE0qNr1nyImkyMF9JZBcDw28BLQNAn9ipbO8avSPywc"
+  },
+  {
+    "id": "c7c35306-57a2-4c40-aac2-1c4344c589e8",
+    "name": "BubbleBoi",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 140: BubbleBoi",
+    "model_file_url": "https://arweave.net/wkimQ2V_vkSBD-EweZl_9CFtqxHS2hwZx4HDvMxTLNM",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.495Z",
+    "updated_at": "2025-03-11T16:41:51.495Z",
+    "metadata": {
+      "number": "140",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/uRZ4zg7IFMCx3Qk_iWUQCKCtW4u1wncdv6T6h-EXDyI",
+        "fbx": "https://arweave.net/wfSAi4DatCap9uSmlk4l0K_Op-TO7kOqswDEGj2zDbo",
+        "voxel_vrm": "https://arweave.net/DRvg4kqGbY-JN1ZIj9fa3ySpvJR18UOZLRz5S-jWeWs"
+      },
+      "ardriveFiles": {
+        "models": [
+          "140_BubbleBoi_Voxel.fbx",
+          "140_BubbleBoi.fbx",
+          "140_BubbleBoi.vrm",
+          "140_BubbleBoi_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "140_BubbleBoi_thumbnail.gif"
+        ],
+        "textures": [
+          "140_BubbleBoi_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/edqpeWh_27uAgyyL5riDjyCoXe9HRjKhdDYltZK43_4"
+  },
+  {
+    "id": "28481014-ef64-4763-bb15-b9116e548a29",
+    "name": "EYESummoner",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 149: EYESummoner",
+    "model_file_url": "https://arweave.net/pHLSWb6kYL5kArbNCyABbbf23w51s5PfYDF2h46nDgY",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.495Z",
+    "updated_at": "2025-03-11T16:41:51.495Z",
+    "metadata": {
+      "number": "149",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/wIK8xToT1ZE3mdYkxrH66fqif35oSlR1kNE8LxovAgg",
+        "fbx": "https://arweave.net/KwEOZObXPMy3GsR59AiIHkpTqTvz_k079EVUzCdEP6E",
+        "voxel_vrm": "https://arweave.net/mi-wtj-9-fdCunnyv-mLIbzDaLRKbC40jQa7R7g0MUQ"
+      },
+      "ardriveFiles": {
+        "models": [
+          "149_EYESummoner_Voxel.fbx",
+          "149_EYESummoner.fbx",
+          "149_EYESummoner.vrm",
+          "149_EYESummoner_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "149_EYESummoner_thumbnail.gif"
+        ],
+        "textures": [
+          "149_EYESummoner_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/sLLZ_EjlL6ACHRfxJLsBUrP6V7o71IlPM9v77ReGC_A"
+  },
+  {
+    "id": "f964a7b4-e1c0-4b99-b296-bf9a412d9b4a",
+    "name": "CoolPizza",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 103: CoolPizza",
+    "model_file_url": "https://arweave.net/Hjj39JIZpJDMiTWocdjHVnOHMurl3_PkPja7lXpFhII",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.495Z",
+    "updated_at": "2025-03-11T16:41:51.495Z",
+    "metadata": {
+      "number": "103",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/G1EfOTdc7hL3owqMsBpngdqGwMYTEkbQFfUuoZmIuAA",
+        "fbx": "https://arweave.net/cnDODEBsvhPG4i72xe3-0zsdJZhIz0QsF57MjxzHS9I",
+        "voxel_vrm": "https://arweave.net/tq-vu6j10iEDVGGY3nvIIHRl70aEyOsMcpUAP6cl6qw"
+      },
+      "ardriveFiles": {
+        "models": [
+          "103_CoolPizza_Voxel.fbx",
+          "103_CoolPizza.fbx",
+          "103_CoolPizza_Voxel.vrm",
+          "103_CoolPizza.vrm"
+        ],
+        "thumbnails": [
+          "103_CoolPizza_thumbnail.gif"
+        ],
+        "textures": [
+          "103_CoolPizza_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/SqX68Pyto0TrWaOHdSs76n2gIuvpikW8MrrFZQhjMVE"
+  },
+  {
+    "id": "c4cfe1db-e234-4105-82d2-a3b064cafc81",
+    "name": "CoolDoor",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 171: CoolDoor",
+    "model_file_url": "https://arweave.net/DAv08G1k9pBGj-YkGbhDnUj093OL37hPJ8XDQRps_j4",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.495Z",
+    "updated_at": "2025-03-11T16:41:51.495Z",
+    "metadata": {
+      "number": "171",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/JHrBPY7uRAr4QnngJwqNWN0XcHqPDWchyRygQcFDzVQ",
+        "fbx": "https://arweave.net/elkllCMjJ2KJr0WOjAf2yL_BoKH6x5Uqc6Ve15c7nbE",
+        "voxel_vrm": "https://arweave.net/fCLjmJYPWu4flCRhA3xQzp-iGVoJtRKftH6sOpNm5VY"
+      },
+      "ardriveFiles": {
+        "models": [
+          "171_CoolDoor_Voxel.fbx",
+          "171_CoolDoor.fbx",
+          "171_CoolDoor_Voxel.vrm",
+          "171_CoolDoor.vrm"
+        ],
+        "thumbnails": [
+          "171_CoolDoor_thumbnail.gif"
+        ],
+        "textures": [
+          "171_CoolDoor_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/EZJNmcOQ6Ja3tPYH6REcTvZiG4hkEQXB3mrobgKu74w"
+  },
+  {
+    "id": "4956890a-f199-42e7-89a6-da62ff95a2b9",
+    "name": "DOPEScrewdriver",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 178: DOPEScrewdriver",
+    "model_file_url": "https://arweave.net/-n0YisQakCOYPtiwI_TGaqua4Kv4hpotx93cSXEEGDk",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.495Z",
+    "updated_at": "2025-03-11T16:41:51.495Z",
+    "metadata": {
+      "number": "178",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/flxvM9b9cd-yl4J04m3NxoOLdwgQZimb6lCW7yrf3ZY",
+        "fbx": "https://arweave.net/Z-58NtKY7yWJO72CIVS74llBa9-twMNWWuuQGuGRcew",
+        "voxel_vrm": "https://arweave.net/YnmIB-syqzFmxhQAvkkW3kdIZ9wy8n3DAhJzmQMKRvM"
+      },
+      "ardriveFiles": {
+        "models": [
+          "178_DOPEScrewdriver_Voxel.fbx",
+          "178_DOPEScrewdriver.fbx",
+          "178_DOPEScrewdriver.vrm",
+          "178_DOPEScrewdriver_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "178_DOPEScrewdriver_thumbnail.gif"
+        ],
+        "textures": [
+          "178_DOPEScrewdriver_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/ybsSvtOpr1edNX_YXo2iZVabtf2DP2BeLtL_AC43i_Y"
+  },
+  {
+    "id": "a356ef01-49bb-4b72-a37d-32e8090a61bb",
+    "name": "SaltySalt",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 132: SaltySalt",
+    "model_file_url": "https://arweave.net/CMEK3Kj91dkdT_dqMB1Kz6tbV_AwiNts2Xzfu48zwuM",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.495Z",
+    "updated_at": "2025-03-11T16:41:51.495Z",
+    "metadata": {
+      "number": "132",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/akxi0kYcH5kwoy9ZnH63g8QUQJlUeLMcuHoRFCbWLUk",
+        "voxel_fbx": "https://arweave.net/ddnsXzl7xACJ0XHjyNyy_0I35Edal-UKpm9BOmE7saU",
+        "voxel_vrm": "https://arweave.net/7PiEyV4PhBwrM4xGYP5bQnEs1UEWvLDM0jVZuHqe0MQ"
+      },
+      "ardriveFiles": {
+        "models": [
+          "132_SaltySalt.fbx",
+          "132_SaltySalt_Voxel.fbx",
+          "132_SaltySalt.vrm",
+          "132_SaltySalt_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "132_SaltySalt_thumbnail.gif"
+        ],
+        "textures": [
+          "132_SaltySalt_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/KPT7JHDoMYkqHD4HwdD4Qe1V9bzU9bIAGY-7GLgtUN8"
+  },
+  {
+    "id": "104ea3b0-a943-448e-8a8b-7f9f7a6d87b5",
+    "name": "CosmicDweller",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 124: CosmicDweller",
+    "model_file_url": "https://arweave.net/r3nOVHOyNuIM66TZRGhSE7_uUKYQKoRYcfLqoOOjY_k",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "124",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/iMmnSS0W0kJv9CotgESHsQwso5bPbMYJxYIe4PCXyk4",
+        "voxel_fbx": "https://arweave.net/24bIO2hjcRntuyxMx6-lknTWBTYHJ_hyrypbAd-AZeY",
+        "voxel_vrm": "https://arweave.net/iYWYNfPfVEKIJNMrzJvCItfn34dklp9U6D_37RRfZgU"
+      },
+      "ardriveFiles": {
+        "models": [
+          "124_CosmicDweller.fbx",
+          "124_CosmicDweller_Voxel.fbx",
+          "124_CosmicDweller_Voxel.vrm",
+          "124_CosmicDweller.vrm"
+        ],
+        "thumbnails": [
+          "124_CosmicDweller_thumbnail.gif"
+        ],
+        "textures": [
+          "124_CosmicDweller_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/Pdu_a-6V4OyRZaCPxPPRT3ZtPF3iPvpKk_mfIVrq0pM"
+  },
+  {
+    "id": "34bd142f-fafe-4bc6-ae4b-d3ac2afae4e8",
+    "name": "BanHammerDude",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 112: BanHammerDude",
+    "model_file_url": "https://arweave.net/12VA0sJCI9SH-yvdQpl735V-9o-dPM5XbJEyTJPhMg4",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "112",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/fd81UtvvAVAxddYgTVAo4T9CTjbnbf4sCpB9ZTEr_cU",
+        "fbx": "https://arweave.net/t8NjtIBC47-ubEIvPoTIMuP_t-fO5S4XZFXIZ9UYhCE",
+        "voxel_vrm": "https://arweave.net/Ir3KY79bKhoQcdqqltHNFBg5WrG31wmImXdpDKIu4_4"
+      },
+      "ardriveFiles": {
+        "models": [
+          "112_BanHammerDude_Voxel.fbx",
+          "112_BanHammerDude.fbx",
+          "112_BanHammerDude.vrm",
+          "112_BanHammerDude_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "112_BanHammerDude_thumbnail.gif"
+        ],
+        "textures": [
+          "112_BanHammerDude_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/ZzQeKhjvra7ut1r0-gpCK_1VqRMTZOPHFAN41THkY_4"
+  },
+  {
+    "id": "4510181a-2064-4a6b-8b35-0a45dd0f20d7",
+    "name": "CoolEgg",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 189: CoolEgg",
+    "model_file_url": "https://arweave.net/pDhnbF6jpbzAmZejsktm1jipJbMBB_yBMq6JPGPrVIQ",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "189",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/Gfyuo_TeKRE-1ls09z-kk4Qh97zmlWkrjzCylITdAa0",
+        "voxel_fbx": "https://arweave.net/SP9TUiqEuwdTc707ms6odlq5R57hlCLpmLZdNDOkE1c",
+        "voxel_vrm": "https://arweave.net/l5QJkNsJ9Xe_HwS7UzvECyjnY6YXlawW_obre5l45vQ"
+      },
+      "ardriveFiles": {
+        "models": [
+          "189_CoolEgg.fbx",
+          "189_CoolEgg_Voxel.fbx",
+          "189_CoolEgg.vrm",
+          "189_CoolEgg_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "189_CoolEgg_thumbnail.gif"
+        ],
+        "textures": [
+          "189_CoolEgg_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/JkfaQjhUU50ibtuYnEwV-Xunrz7wnb_59XNkxt8MU7M"
+  },
+  {
+    "id": "6626e329-1962-405c-ba24-107207b4b075",
+    "name": "ConeheadBeing",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 172: ConeheadBeing",
+    "model_file_url": "https://arweave.net/l9cfRDnrB-Km54iPY6-uC_jxRwPO7mDu7wBn_dkIgjg",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "172",
+      "series": "R2",
+      "alternateModels": {
+        "fbx": "https://arweave.net/5u4SJiHPl-9ovc8AkP00nWRCr9UdK2T2tvgDL67aRb4",
+        "voxel_vrm": "https://arweave.net/oPHLPzHBc_x_5aGyCIWUsfLIwXbxAGGATIQmaYbOPXs",
+        "voxel_fbx": "https://arweave.net/lPlIzIxkvWguFPzMsS12lIi7SBcuDifP6lK4M27SbLo"
+      },
+      "ardriveFiles": {
+        "models": [
+          "172_ConeheadBeing.fbx",
+          "172_ConeheadBeing.vrm",
+          "172_ConeheadBeing_Voxel.vrm",
+          "172_ConeheadBeing_Voxel.fbx"
+        ],
+        "thumbnails": [
+          "172_ConeheadBeing_thumbnail.gif"
+        ],
+        "textures": [
+          "172_ConeheadBeing_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/Kl6Dlm6DNma0mGgPo27GUHitmzDcZCexGomJgxuoWO8"
+  },
+  {
+    "id": "54bbcd62-aeaa-4dd6-93d5-a02a05aa3948",
+    "name": "FalconDude",
+    "project_id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
+    "description": "Avatar 130: FalconDude",
+    "model_file_url": "https://arweave.net/WjKeQtMs4ZkmIvPADCyMDLW7C2lS_9uYCqge7uFgJ9A",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "130",
+      "series": "R2",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/crCYunZ3ruJm18MGKPVavnMnp5pzxTKpu1fW0IPPuA8",
+        "fbx": "https://arweave.net/2whRtkUFG6AFiqlWSn5umzNXLraNGVTUxR7dd88Groc",
+        "voxel_vrm": "https://arweave.net/sB9HWHzgP4VQZAACOeyxeeSzNoLFlqtudsFHm2KjZ00"
+      },
+      "ardriveFiles": {
+        "models": [
+          "130_FalconDude_Voxel.fbx",
+          "130_FalconDude.fbx",
+          "130_FalconDude_Voxel.vrm",
+          "130_FalconDude.vrm"
+        ],
+        "thumbnails": [
+          "130_FalconDude_thumbnail.gif"
+        ],
+        "textures": [
+          "130_FalconDude_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/_FhrZ-az851ZrK6V1CjwEzpACjwzjD0bkVDNcVl_jbE"
+  }
+]

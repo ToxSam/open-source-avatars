@@ -1,6 +1,8 @@
 # Technical Requirements for Avatars
 
-This guide details the technical requirements for avatars submitted to Open Source Avatars. Following these guidelines ensures compatibility and quality across different platforms.
+This guide details the technical requirements for avatars submitted to Open Source Avatars through a Github discussion.
+
+Following these guidelines ensures compatibility and quality across different platforms.
 
 ## VRM File Requirements
 
@@ -8,8 +10,8 @@ This guide details the technical requirements for avatars submitted to Open Sour
 - **VRM Version**: 0.x or 1.0 (both accepted)
 - **File Size**: Maximum 50MB recommended
 - **Polygon Count**: 
-  - Recommended: Under 70,000 triangles
-  - Maximum: 100,000 triangles
+  - Recommended: Under 17,000 triangles
+  - Maximum: 50,000 triangles
 - **Texture Resolution**:
   - Recommended: 2048x2048 or lower
   - Format: PNG or JPEG
@@ -23,8 +25,8 @@ This guide details the technical requirements for avatars submitted to Open Sour
    - Proper bone orientations
 
 2. **Materials**:
-   - PBR materials recommended
-   - Maximum 8 material slots
+
+   - Maximum 3 material slots
    - Properly configured UV maps
    - No missing textures
 
@@ -38,34 +40,6 @@ This guide details the technical requirements for avatars submitted to Open Sour
    - Proper weight painting
    - No broken vertex deformations
 
-## Metadata Requirements
-
-### Required Fields
-```json
-{
-  "name": "string",
-  "version": "string",
-  "author": "string",
-  "contactInformation": "string",
-  "reference": "string",
-  "title": "string",
-  "license": "string (must be open source)",
-  "otherPermissionUrl": "string",
-  "otherLicenseUrl": "string"
-}
-```
-
-### Optional but Recommended
-```json
-{
-  "thumbnail": "string (URL)",
-  "allowedUserName": "string",
-  "violentUssageName": "string",
-  "sexualUssageName": "string",
-  "commercialUssageName": "string",
-  "otherPermissionUrl": "string"
-}
-```
 
 ## Hosting Requirements
 
@@ -130,30 +104,3 @@ This guide details the technical requirements for avatars submitted to Open Sour
 - Appropriate for all ages
 - No offensive content
 
-## Documentation Requirements
-
-### Required Documentation
-1. **Basic Information**:
-   - Avatar name and version
-   - Creator information
-   - License details
-   - Usage restrictions
-
-2. **Technical Details**:
-   - Polygon count
-   - Texture resolutions
-   - Material count
-   - Bone structure notes
-
-3. **Usage Instructions**:
-   - Setup guide
-   - Known issues
-   - Platform compatibility
-   - Performance notes
-
-## Support
-
-Need help meeting these requirements? We're here to help:
-- Join our [Discord](https://discord.gg/opensourceavatars)
-- Post in [Discussions](https://github.com/ToxSam/open-source-avatars/discussions)
-- Check our [FAQ](../general/faq.md) 

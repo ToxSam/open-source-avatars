@@ -6,7 +6,8 @@
     "description": "The first 100 avatars series (001-100)",
     "is_public": true,
     "created_at": "2025-03-11T16:41:51.487Z",
-    "updated_at": "2025-03-11T16:41:51.487Z"
+    "updated_at": "2025-03-11T16:41:51.487Z",
+    "avatar_data_file": "avatars/100avatars-r1.json"
   },
   {
     "id": "fed7b40b-088c-45aa-b833-2416ae32d2ee",
@@ -15,7 +16,8 @@
     "description": "The second 100 avatars series (101-200)",
     "is_public": true,
     "created_at": "2025-03-11T16:41:51.487Z",
-    "updated_at": "2025-03-11T16:41:51.487Z"
+    "updated_at": "2025-03-11T16:41:51.487Z",
+    "avatar_data_file": "avatars/100avatars-r2.json"
   },
   {
     "id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
@@ -24,6 +26,7 @@
     "description": "The third 100 avatars series (201-300)",
     "is_public": true,
     "created_at": "2025-03-11T16:41:51.487Z",
-    "updated_at": "2025-03-11T16:41:51.487Z"
+    "updated_at": "2025-03-11T16:41:51.487Z",
+    "avatar_data_file": "avatars/100avatars-r3.json"
   }
 ]

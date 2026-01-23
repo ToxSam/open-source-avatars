@@ -38,7 +38,7 @@ VRM is an open standard that works across many platforms and ensures consistent 
 
 ### Q: How can I contribute my avatar?
 1. Prepare your VRM file
-2. Check our [contribution guide](./contributing/README.md)
+2. Check our [contribution guide](./contributing/technical-requirements.md)
 3. Submit through a discussion
 
 ### Q: What are the requirements for submission?

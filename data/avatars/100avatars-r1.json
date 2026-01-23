@@ -1,0 +1,3603 @@
+[
+  {
+    "id": "27ccb24c-1fa1-4931-afed-e182b062c950",
+    "name": "Devil",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 031: Devil",
+    "model_file_url": "https://arweave.net/gfVzs1oH_aPaHVxpQK86HT_rqzyrFPOUKUrDJ30yprs",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.487Z",
+    "updated_at": "2025-03-11T16:41:51.487Z",
+    "metadata": {
+      "number": "031",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/t3xpaO7LFIWYhjZt1x7tAS-rm0uzTPh9eD0az1mx2Sc",
+        "fbx": "https://arweave.net/-a5bUj2LqCDZq4eDPu2LOXLTNP0GZbfpyHnbn4NxuRM",
+        "voxel_vrm": "https://arweave.net/KjeHShYtrG2gwa94z9f4ggRVBjHHbpWY276PPozpqgM"
+      },
+      "ardriveFiles": {
+        "models": [
+          "031_Devil_Voxel.fbx",
+          "031_Devil.fbx",
+          "031_Devil.vrm",
+          "031_Devil_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "031_Devil_thumbnail.gif"
+        ],
+        "textures": [
+          "031_Devil_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/llxwUMPCfar71x4hLTU4f1-pcsYeGDUD4Gxm1dhWaDg"
+  },
+  {
+    "id": "16aaf84a-3b1c-487f-9871-f9daabf4f504",
+    "name": "Polydancer",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 021: Polydancer",
+    "model_file_url": "https://arweave.net/jPOg-G0MPH55ZQmamFhT9f8cHn-hjeAQ0mRO5gWeKMQ",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.487Z",
+    "updated_at": "2025-03-11T16:41:51.487Z",
+    "metadata": {
+      "number": "021",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/i8ujcstCYXQuYvNLmudyQkCK7z9QK-DcaN4TrGTYcMg",
+        "fbx": "https://arweave.net/ZdZ3XTk100wVxCy71QQv4KpJ4s3wvXq-O2gdNX5Trow",
+        "voxel_vrm": "https://arweave.net/cLg-hbZwPd9znp9ws4wSXqLmN4EXLgvlRwkR49IeEtI"
+      },
+      "ardriveFiles": {
+        "models": [
+          "021_Polydancer_Voxel.fbx",
+          "021_Polydancer.fbx",
+          "021_Polydancer.vrm",
+          "021_Polydancer_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "021_Polydancer_thumbnail.gif"
+        ],
+        "textures": [
+          "021_Polydancer_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/SUPfb9dzBeLUUpJaEjGPGDkEE_6PylCs3_wU_Em69LM"
+  },
+  {
+    "id": "8eedc254-88d8-4320-9d96-73acbb7d61cc",
+    "name": "Rose",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 057: Rose",
+    "model_file_url": "https://arweave.net/Ea1KXujzJatQgCFSMzGOzp_UtHqB1pyia--U3AtkMAY",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.487Z",
+    "updated_at": "2025-03-11T16:41:51.487Z",
+    "metadata": {
+      "number": "057",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/U6u_hnFGXN9y0e9XWeFstCykkWft3Y0Xt9R6BNeMpK4",
+        "fbx": "https://arweave.net/DJSQCBKiuVAH5FbfBCA8sD0GKlyLjxvEGd-gX9B2pug",
+        "voxel_vrm": "https://arweave.net/ruDyKXSFmFa0X6xf0OAhzWWAwpu2rOkY_wWjCCgvGNE"
+      },
+      "ardriveFiles": {
+        "models": [
+          "057_Rose_Voxel.fbx",
+          "057_Rose.fbx",
+          "057_Rose.vrm",
+          "057_Rose_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "057_Rose_thumbnail.gif"
+        ],
+        "textures": [
+          "057_Rose_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/MsKV9G8Dvzv1rOfU8aCLlxZ2PtzQ-J9ijkdkFU-ExPo"
+  },
+  {
+    "id": "56b866fc-c6e8-4635-8abb-b587c4c5b5dd",
+    "name": "Robert",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 070: Robert",
+    "model_file_url": "https://arweave.net/gwG7w4bY-A5c3R6A6GOz3xBCgbPvkFQmqPIDtvnNsYI",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.488Z",
+    "updated_at": "2025-03-11T16:41:51.488Z",
+    "metadata": {
+      "number": "070",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/zB59q55gcNSOdkYDX257XBTn8b6MqmIoLi6qRO_9WBk",
+        "fbx": "https://arweave.net/2_oOLdq9OHsrjkdCjAPH8pyIO8gO9u_2QQJEBJH9Eh4",
+        "voxel_vrm": "https://arweave.net/EfONjKqe7uuqkhAtEVgwoOmbpoOGOIQqQDo_qnqRo_g"
+      },
+      "ardriveFiles": {
+        "models": [
+          "070_Robert_Voxel.fbx",
+          "070_Robert.fbx",
+          "070_Robert.vrm",
+          "070_Robert_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "070_Robert_thumbnail.gif"
+        ],
+        "textures": [
+          "070_Robert_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/gaFPebQ9hSZDa_xNHkja8CH0Qde2y41L95VQTtroWNA"
+  },
+  {
+    "id": "718c61cb-32e7-4292-b44c-0c4f6a903968",
+    "name": "Bloody",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 030: Bloody",
+    "model_file_url": "https://arweave.net/VBFMTU6Y26re-WiEtl3FxV5wj0DzYUyjeYPyVrhYkic",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.488Z",
+    "updated_at": "2025-03-11T16:41:51.488Z",
+    "metadata": {
+      "number": "030",
+      "series": "R1",
+      "alternateModels": {
+        "fbx": "https://arweave.net/rGrj2395Ux0q40ZcU1KeW4u3gz7lvJkeMbP7Xr49d28",
+        "voxel_fbx": "https://arweave.net/jNDHUDbvHJxNcdD7GUuie6MKy7AIwv3GGP6MKhsAUKY",
+        "voxel_vrm": "https://arweave.net/DP5c7ICllL5PWa_KHXnpZdePEO876Ysp7xQG8qExJ5c"
+      },
+      "ardriveFiles": {
+        "models": [
+          "030_Bloody.fbx",
+          "030_Bloody.vrm",
+          "030_Bloody_Voxel.fbx",
+          "030_Bloody_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "030_Bloody_thumbnail.gif"
+        ],
+        "textures": [
+          "030_Bloody_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/sbTlKSCyltB4AqOU7W27QDKftwKgHgpSm-79nYKpHyc"
+  },
+  {
+    "id": "8df2b84c-a9ad-41f7-b01a-e73fde7db568",
+    "name": "Rabbit",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 059: Rabbit",
+    "model_file_url": "https://arweave.net/RymRtrmhHx_f9ZDvtvIQb1noTHvILdjoTg5G7L2DR-8",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.488Z",
+    "updated_at": "2025-03-11T16:41:51.488Z",
+    "metadata": {
+      "number": "059",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/l0R39xLGTMGS0TIR53j4wXWxnpB0rfgoJK97hyoR9es",
+        "fbx": "https://arweave.net/csgTsW1fprSo9wTUDRgCTb8CFBhB8V53Fd95MhxTTFI",
+        "voxel_vrm": "https://arweave.net/vkihnCOW5X_BHzsVGxUXq3Z02BtgVpee50QQCy2fEHs"
+      },
+      "ardriveFiles": {
+        "models": [
+          "059_Rabbit_Voxel.fbx",
+          "059_Rabbit.fbx",
+          "059_Rabbit.vrm",
+          "059_Rabbit_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "059_Rabbit_thumbnail.gif"
+        ],
+        "textures": [
+          "059_Rabbit_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/wBqJHzcXuHV0NpFcbtcBB4O2kHqdVN0Zv2QO0jHNkdI"
+  },
+  {
+    "id": "e82a8a1f-7dda-4fc3-9ff8-6d41e1648300",
+    "name": "Eggplant",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 090: Eggplant",
+    "model_file_url": "https://arweave.net/64v_-jGcqFc4q_1ao0sjcXnhqkrtnjSSBotZoN2DDmc",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.488Z",
+    "updated_at": "2025-03-11T16:41:51.488Z",
+    "metadata": {
+      "number": "090",
+      "series": "R1",
+      "alternateModels": {
+        "fbx": "https://arweave.net/wYWOsA_uqiNqK6zYulvxAnDIgFa69LNapmp_TmWrFfc",
+        "voxel_fbx": "https://arweave.net/riKHXlV4_LqIvinfC34q7_uVHQys9N4pmyF2pi48IOo",
+        "voxel_vrm": "https://arweave.net/IvHQVefBYlyBkun6nEOKSWS04HJ4w1xUzV56jmJhmkk"
+      },
+      "ardriveFiles": {
+        "models": [
+          "090_Eggplant.fbx",
+          "090_Eggplant_Voxel.fbx",
+          "090_Eggplant.vrm",
+          "090_Eggplant_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "090_Eggplant_thumbnail.gif"
+        ],
+        "textures": [
+          "090_Eggplant_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/qNKlp6Up82OixiqIAJP5k2QZzWskhB735oMoABpunKI"
+  },
+  {
+    "id": "98b2e431-9953-4ee7-9e0a-5ccc16bd85b6",
+    "name": "Bullidan",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 028: Bullidan",
+    "model_file_url": "https://arweave.net/uMDSdp_ENC77sR802M7hTFtigxLs0dRuzmkKlLEAa9U",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.488Z",
+    "updated_at": "2025-03-11T16:41:51.488Z",
+    "metadata": {
+      "number": "028",
+      "series": "R1",
+      "alternateModels": {
+        "fbx": "https://arweave.net/L8JqXnqZDdgWx7hHGmZJC9FTh_5hDT7r0BxcVBQC4gQ",
+        "voxel_fbx": "https://arweave.net/mC-wyQMne2aOM8BE7Qbs5oWFEHb_IYISElQEuTAui4U",
+        "voxel_vrm": "https://arweave.net/Yr_c704IS6agNHwT8HBmaxNItml1kjztgKkdO645VWI"
+      },
+      "ardriveFiles": {
+        "models": [
+          "028_Bullidan.fbx",
+          "028_Bullidan_Voxel.fbx",
+          "028_Bullidan.vrm",
+          "028_Bullidan_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "028_Bullidan_thumbnail.gif"
+        ],
+        "textures": [
+          "028_Bullidan_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/Y8nxgSYUFZyANI9I2dcVJCs6Ag8q5CyCBgkOJsZQ_wA"
+  },
+  {
+    "id": "3282fb07-86e6-4a10-b95b-bc85d886138c",
+    "name": "Mikel",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 072: Mikel",
+    "model_file_url": "https://arweave.net/-eJyDjujQRvakRImdvulg-1dKQkPwMeQv-55IbKqLh4",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.488Z",
+    "updated_at": "2025-03-11T16:41:51.488Z",
+    "metadata": {
+      "number": "072",
+      "series": "R1",
+      "alternateModels": {
+        "fbx": "https://arweave.net/Gn2YfQoptXPaUeHlLczU8d19fvUE6hmq1LBaQryJ8l4",
+        "voxel_fbx": "https://arweave.net/wGqMJYrf0oXnpUReZw6voj05rb2k-8sC-nJhyqkrG04",
+        "voxel_vrm": "https://arweave.net/cYan1-yrHzqk-pqwcoIuQyAvkC6ENlrsCd_1kr9d1i0"
+      },
+      "ardriveFiles": {
+        "models": [
+          "072_Mikel.fbx",
+          "072_Mikel_Voxel.fbx",
+          "072_Mikel.vrm",
+          "072_Mikel_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "072_Mikel_thumbnail.gif"
+        ],
+        "textures": [
+          "072_Mikel_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/t_QkyGz6d1_mY312l7lt_-8VGL9QlkwmyPbvdmkpN8U"
+  },
+  {
+    "id": "c47d2c68-80ae-4131-802a-b1bf12f30398",
+    "name": "CoolBanana",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 024: CoolBanana",
+    "model_file_url": "https://arweave.net/o4gWzn4PPzYo2KPm-wFXnvBC7KrN6N_R0NNfg1yPPeM",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.488Z",
+    "updated_at": "2025-03-11T16:41:51.488Z",
+    "metadata": {
+      "number": "024",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/NdgV7y3hp-kUEmKVwMA5SJO9QMM1GZ9lLTAhyFLHn64",
+        "fbx": "https://arweave.net/_mq4pramC4BBimaeMNpeD05x-bfu9I4Qf4X3EVnGrWE",
+        "voxel_vrm": "https://arweave.net/Zbdcfn6dN95gvAH-N6IwsAM3vTKmmNn2dCAelm6KXuA"
+      },
+      "ardriveFiles": {
+        "models": [
+          "024_CoolBanana_Voxel.fbx",
+          "024_CoolBanana.fbx",
+          "024_CoolBanana_Voxel.vrm",
+          "024_CoolBanana.vrm"
+        ],
+        "thumbnails": [
+          "024_CoolBanana_thumbnail.gif"
+        ],
+        "textures": [
+          "024_CoolBanana_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/4X1LoMeFmjPx8gMrJn4NQv0U59CHKCiw1z7ZY4aYYHw"
+  },
+  {
+    "id": "79d66c3e-9bee-4c39-a9d3-aeb96124805c",
+    "name": "Skull",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 005: Skull",
+    "model_file_url": "https://arweave.net/oiwKG3vW0dVdUNWaidyQS8ZOxN3V_Qrz8__FW-SBwLc",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.488Z",
+    "updated_at": "2025-03-11T16:41:51.488Z",
+    "metadata": {
+      "number": "005",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/JWNrRMr0CsF_dII2N2u91-yAl4nv6kr3OfDyhYo78rs",
+        "voxel_vrm": "https://arweave.net/su974Cncq7QXjEQmDiTc0jFgeldx_OmtsZuqcU2cCHY",
+        "fbx": "https://arweave.net/7fPdFvlBT5dKsStitHWrURk6LePYsr9QThhaVg8jf3o"
+      },
+      "ardriveFiles": {
+        "models": [
+          "005_Skull_Voxel.fbx",
+          "005_Skull.vrm",
+          "005_Skull_Voxel.vrm",
+          "005_Skull.fbx"
+        ],
+        "thumbnails": [
+          "005_Skull_thumbnail.gif"
+        ],
+        "textures": [
+          "005_Skull_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/w2tx7t1-2zvmlx4Zk1004RE1WrP7TlB9YygDWIe9wYM"
+  },
+  {
+    "id": "a082deff-650e-4f8e-97b1-e0ef305c9228",
+    "name": "Observer",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 007: Observer",
+    "model_file_url": "https://arweave.net/bDb0wMAxPHGbhirVjHi-7GF1QL6HrwD8SuKFEF5Sx2M",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.488Z",
+    "updated_at": "2025-03-11T16:41:51.488Z",
+    "metadata": {
+      "number": "007",
+      "series": "R1",
+      "alternateModels": {
+        "fbx": "https://arweave.net/7GUWu_5-_1WgzGMfXejSAkCeQr7bHV11PedciZ6zx8I",
+        "voxel_fbx": "https://arweave.net/giH4uA62YfasRqibkMqhf_2Rq153A7Cw0PrHP60U-2o",
+        "voxel_vrm": "https://arweave.net/BXrElOXshKpEz8niqiu-7AbSoN_37cYnElYYyCZuxEo"
+      },
+      "ardriveFiles": {
+        "models": [
+          "007_Observer.fbx",
+          "007_Observer_Voxel.fbx",
+          "007_Observer.vrm",
+          "007_Observer_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "007_Observer_thumbnail.gif"
+        ],
+        "textures": [
+          "007_Observer_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/Wn_uMx09PDRvQ8JN69QHpQSCECTSOf-NASm72ZOm5fY"
+  },
+  {
+    "id": "18db71ff-703c-4ebe-aace-7a57c592ac84",
+    "name": "Nightmare",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 015: Nightmare",
+    "model_file_url": "https://arweave.net/aFMgc8_TJx3PxDiqE_5dS6lwqQusm1260WpmSwK3FCc",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.488Z",
+    "updated_at": "2025-03-11T16:41:51.488Z",
+    "metadata": {
+      "number": "015",
+      "series": "R1",
+      "alternateModels": {
+        "fbx": "https://arweave.net/xr_iziJff9R0KoEPjOWuVyAFK5jKbb8bd79HQkjrx34",
+        "voxel_fbx": "https://arweave.net/Jzz6ldPq19kkYVTM54V-1U-jvFqvk8v4MR46zRNOG-8",
+        "voxel_vrm": "https://arweave.net/WbqqBu5MQreidVBo6_KSnPD05n7YEk6rIQZRFkCEW-c"
+      },
+      "ardriveFiles": {
+        "models": [
+          "015_Nightmare.fbx",
+          "015_Nightmare_Voxel.fbx",
+          "015_Nightmare.vrm",
+          "015_Nightmare_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "015_Nightmare_thumbnail.gif"
+        ],
+        "textures": [
+          "015_Nightmare_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/QmuZvdR4uJZhzb5LhMo0iShurvupDd9jottgugHvckI"
+  },
+  {
+    "id": "d5b25951-1564-411f-b441-5b5470687c40",
+    "name": "Amazonas",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 061: Amazonas",
+    "model_file_url": "https://arweave.net/fqZDwToo41u1a7VnHhZX1BTK5lktXpK_H6H20MVbPqQ",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.488Z",
+    "updated_at": "2025-03-11T16:41:51.488Z",
+    "metadata": {
+      "number": "061",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/4I78cQKmXnzT3VnYDhUES-UE6lByp76E1sNI2ybSCrI",
+        "fbx": "https://arweave.net/sRfMyArQWCUYyFZMssceapojLHkSoCD4Z8035dq_NpA",
+        "voxel_vrm": "https://arweave.net/cYWDTaKWbIMVJVYfR3mkQTsXBoGdE2IB-KSaZCjZKw0"
+      },
+      "ardriveFiles": {
+        "models": [
+          "061_Amazonas_Voxel.fbx",
+          "061_Amazonas.fbx",
+          "061_Amazonas.vrm",
+          "061_Amazonas_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "061_Amazonas_thumbnail.gif"
+        ],
+        "textures": [
+          "061_Amazonas_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/AYDFnRtBRJSxZ_dYs23O53RvJfbhgnult2NrPBO_2kY"
+  },
+  {
+    "id": "a9556209-f3c4-4c34-909f-39aee67128e4",
+    "name": "Cookieman",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 098: Cookieman",
+    "model_file_url": "https://arweave.net/x6i1T2qSesIvbRZnp6evtOW1awF8_m2oUH4VnYmW4gI",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.488Z",
+    "updated_at": "2025-03-11T16:41:51.488Z",
+    "metadata": {
+      "number": "098",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/2uAbNqQG5GbrVimWGTjPFJnM5d5LVEqJmNVKpeOhsPc",
+        "fbx": "https://arweave.net/oXzui5WQ8YsXCH1VR9E4yEdJnAbyDiHO8-cLqH2G2h0",
+        "voxel_vrm": "https://arweave.net/Ux_vnNgXccOOLR6Ymz79YbYiGmFEJFmPGz_xrjpVSWQ"
+      },
+      "ardriveFiles": {
+        "models": [
+          "098_Cookieman_Voxel.fbx",
+          "098_Cookieman.fbx",
+          "098_Cookieman_Voxel.vrm",
+          "098_Cookieman.vrm"
+        ],
+        "thumbnails": [
+          "098_Cookieman_thumbnail.gif"
+        ],
+        "textures": [
+          "098_Cookieman_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/9_94Q1v77EHdwoSmtF7HazeIlPOekB9a1lBWSuwa_CU"
+  },
+  {
+    "id": "f53d6074-f71d-49b9-9f1f-26d7b71c7c9b",
+    "name": "DinoKid",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 045: DinoKid",
+    "model_file_url": "https://arweave.net/T1gkB95XKXAZl_VmU1ozg5Txm--o9nY0Nge3s8zNoBs",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.488Z",
+    "updated_at": "2025-03-11T16:41:51.488Z",
+    "metadata": {
+      "number": "045",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/p-utUblYtjuhFwoaeqYKmhnfwOOPJKMz6n9u_zKoyhw",
+        "fbx": "https://arweave.net/7_v7JFp2tzHAbSeyEwQ9kFLkF53GPlPpf8Ept5I_XB8",
+        "voxel_vrm": "https://arweave.net/rptZoKSGb-xUoY7mpSI3izTFlRRj_OP9qoG77BELpkg"
+      },
+      "ardriveFiles": {
+        "models": [
+          "045_DinoKid_Voxel.fbx",
+          "045_DinoKid.fbx",
+          "045_DinoKid.vrm",
+          "045_DinoKid_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "045_DinoKid_thumbnail.gif"
+        ],
+        "textures": [
+          "045_DinoKid_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/qRNTQjqGS9WiZUr-_dpKOBPyM9a6ucbBpRq_5yiz9lY"
+  },
+  {
+    "id": "bd87c2d4-2dcd-435b-90a7-7617bb20f36d",
+    "name": "Chad",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 079: Chad",
+    "model_file_url": "https://arweave.net/s15TxeRcxamOZ0qDfjME1Bl2Ku7Vs4IQs8RthpxYjOQ",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.488Z",
+    "updated_at": "2025-03-11T16:41:51.488Z",
+    "metadata": {
+      "number": "079",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/wyedo1-0PsGjmHoEGyasOKKDIDaIhlaCsLVtu6Nf2PU",
+        "voxel_vrm": "https://arweave.net/c_Y2OjhJ_YGd0Fb7pFqRWXEiWGrLzV4fm-6sNmDloEI",
+        "fbx": "https://arweave.net/gC_mXbsCFm7_cV13AjtsPGK6G2QmwtU5PmUtacl9B7E"
+      },
+      "ardriveFiles": {
+        "models": [
+          "079_Chad_Voxel.fbx",
+          "079_Chad.vrm",
+          "079_Chad_Voxel.vrm",
+          "079_Chad.fbx"
+        ],
+        "thumbnails": [
+          "079_Chad_thumbnail.gif"
+        ],
+        "textures": [
+          "079_Chad_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/CunA7AqeUljg1OBXtIURtIFVJIJFXGxz69xMZk8rh8s"
+  },
+  {
+    "id": "3a015e7a-58ff-4bb6-b51e-1dcd5359d392",
+    "name": "Clown",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 032: Clown",
+    "model_file_url": "https://arweave.net/pICFDWCb9lHSvhpBkoCXNdG3VngvYhvvi20lK51uwyA",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.488Z",
+    "updated_at": "2025-03-11T16:41:51.488Z",
+    "metadata": {
+      "number": "032",
+      "series": "R1",
+      "alternateModels": {
+        "fbx": "https://arweave.net/0ywM1krsZVJbuI-Z_PqC14V4ZfkH3QXJzPMNlF7YZpA",
+        "voxel_fbx": "https://arweave.net/DG7qJrIg1g6D3xPKPj30atDPhcI17AbEsmBicdCcyvw",
+        "voxel_vrm": "https://arweave.net/0Nn6xqAKLf0Vd5ml8bLs5StvvQmXcIzdO9JpHTe_FHU"
+      },
+      "ardriveFiles": {
+        "models": [
+          "032_Clown.fbx",
+          "032_Clown_Voxel.fbx",
+          "032_Clown.vrm",
+          "032_Clown_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "032_Clown_thumbnail.gif"
+        ],
+        "textures": [
+          "032_Clown_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/ImbhmtcReMW_MVqqsPXfwLoAu5DceVuNdAeYKUxIgv0"
+  },
+  {
+    "id": "1a26fefc-3e3c-4d37-8b0a-f97260da02a3",
+    "name": "Chill",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 012: Chill",
+    "model_file_url": "https://arweave.net/JCzmV7mgqDGNDu8YkdSMeJApOA09CCL2i71BqvJKCVs",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "012",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/biolsNz2ylVP1lifNpZlG9AGWZ2WmXLfmXnBYAnaaA0",
+        "fbx": "https://arweave.net/kMKBg_vAg3o724Ub5BybqsTPUqPNOumd4A8OiNubdZc",
+        "voxel_vrm": "https://arweave.net/Qi_PM6Kg9INSp-U2ZJYYYcRfHceSjlSEpVZFnGyrD-Q"
+      },
+      "ardriveFiles": {
+        "models": [
+          "012_Chill_Voxel.fbx",
+          "012_Chill.vrm",
+          "012_Chill.fbx",
+          "012_Chill_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "012_Chill_thumbnail.gif"
+        ],
+        "textures": [
+          "012_Chill_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/Gz2Lwo5DL3_6GttFePNwNwIZYzXnQXxKvcEM6bLIcKM"
+  },
+  {
+    "id": "4239c466-c3c1-4f97-ba56-a871f361ed84",
+    "name": "Olivia",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 056: Olivia",
+    "model_file_url": "https://arweave.net/MgsNlTetzAoVEC6E-lswj65vp7StkOZXXd5OjjqzYZI",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "056",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/PZ3kT7ZCcz99BkzApAsmF89gQWLcjI2DWYu1FbTCcGw",
+        "fbx": "https://arweave.net/gDEghYBT9lnnSR4SwgMtJ0J9vXREqi3ZT8G7yRMyaE8",
+        "voxel_vrm": "https://arweave.net/Mz3ORkDHyWmKLLIT-IkUcodOdRPKIgtJ6ec4MKCL03c"
+      },
+      "ardriveFiles": {
+        "models": [
+          "056_Olivia_Voxel.fbx",
+          "056_Olivia.fbx",
+          "056_Olivia.vrm",
+          "056_Olivia_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "056_Olivia_thumbnail.gif"
+        ],
+        "textures": [
+          "056_Olivia_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/5wQlWAKsJjepBJacFSYjF72M0b5lbCOqWwDgoPZ8Hhw"
+  },
+  {
+    "id": "560dae4f-0a0a-420c-9bb5-759ecd371ccd",
+    "name": "Sticker",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 040: Sticker",
+    "model_file_url": "https://arweave.net/y9IXVbhB3QjHN8Iep329h0QEWDl7yMKfvH9p_QxkD0M",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "040",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/eFCbn8qehI7iJc7WxX-4uFN2nPec6_tmDUlZVgg25Co",
+        "fbx": "https://arweave.net/rXXET2PNNZ2XhyzOqyhxmCb9P8Xd7M_cUcuWEjTQDU4",
+        "voxel_vrm": "https://arweave.net/DjKHKNimUGXcqbsp4kxJQmBjPcYQfcwniPJemQkFLSQ"
+      },
+      "ardriveFiles": {
+        "models": [
+          "040_Sticker_Voxel.fbx",
+          "040_Sticker.vrm",
+          "040_Sticker.fbx",
+          "040_Sticker_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "040_Sticker_thumbnail.gif"
+        ],
+        "textures": [
+          "040_Sticker_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/vv670fu9B42r-bTN8mYYXCe9agY6oJ6wxSwH8BB65rs"
+  },
+  {
+    "id": "4917f167-2f2e-47c8-8be9-975d206ecd05",
+    "name": "Zombie",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 044: Zombie",
+    "model_file_url": "https://arweave.net/hM8199iDasTM_hlX6RykOToEiNHWxAUc8EegeTsjAuE",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "044",
+      "series": "R1",
+      "alternateModels": {
+        "fbx": "https://arweave.net/92Fb9BuoT_BnBUyK9MZOvkVgBHOeXKESQSEZeGSwTRM",
+        "voxel_fbx": "https://arweave.net/yIul2lhUKExRCg0n9sKWUMjkuoJobqDEi-UfrgEuzMM",
+        "voxel_vrm": "https://arweave.net/ZE0YJfNH5x0O0XaTZin_W_mOVp0KoSyLkMYeEOJZ8tk"
+      },
+      "ardriveFiles": {
+        "models": [
+          "044_Zombie.fbx",
+          "044_Zombie_Voxel.fbx",
+          "044_Zombie.vrm",
+          "044_Zombie_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "044_Zombie_thumbnail.gif"
+        ],
+        "textures": [
+          "044_Zombie_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/6XkMKFXDh7B-C1GFe_oZOqK7p9fYX_SsQ6RVT6AgpJY"
+  },
+  {
+    "id": "2492b104-ec88-4932-9326-2f5a8ad03bc8",
+    "name": "Astrodisco",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 027: Astrodisco",
+    "model_file_url": "https://arweave.net/uS4wvZn6sURMWJuwWzWnCqGaqDtZSiQQdTwci0f6hmM",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "027",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/1BtGnqvtk1ToANUvv7EzXcc_oZCMQyZWl2yQPZ4MiJw",
+        "fbx": "https://arweave.net/ZKyYNzNHnOGsx6UABMQAm6uz6V8-vsigBtrwbD3TU9w",
+        "voxel_vrm": "https://arweave.net/WCKSUmI0sCE26qW5ye7HnJDg1oJpTS_0cDAxL7gT4f8"
+      },
+      "ardriveFiles": {
+        "models": [
+          "027_Astrodisco_Voxel.fbx",
+          "027_Astrodisco.fbx",
+          "027_Astrodisco.vrm",
+          "027_Astrodisco_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "027_Astrodisco_thumbnail.gif"
+        ],
+        "textures": [
+          "027_Astrodisco_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/MSz3KAwK4h4pY7g8EMOqDNW6YmKgk34LvbtkZeaWHXk"
+  },
+  {
+    "id": "66bbb692-ca42-4886-8c3e-a16f0f1d4a3b",
+    "name": "Udom",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 026: Udom",
+    "model_file_url": "https://arweave.net/VZmDI9KtGRQQziDEURsw0a7cdkbPilVaAnMn3Eck0fg",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "026",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/lRjVirY7hamVU2x2ZMqf1KEwDQAdLp3vQHHeYx-4oIg",
+        "voxel_vrm": "https://arweave.net/tViMD45DLsr11D6XfeHSm4VqzLpsbqdKmXxc02omIIs",
+        "fbx": "https://arweave.net/8zf7FIydPj73h56paoDVrXFzllL1NlVp8kgt30ID6Fg"
+      },
+      "ardriveFiles": {
+        "models": [
+          "026_Udom_Voxel.fbx",
+          "026_Udom.vrm",
+          "026_Udom_Voxel.vrm",
+          "026_Udom.fbx"
+        ],
+        "thumbnails": [
+          "026_Udom_thumbnail.gif"
+        ],
+        "textures": [
+          "026_Udom_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/pOm6lO7LfuIzVItozfPQn6JyZzIMfQOhL-2KSSE5DhQ"
+  },
+  {
+    "id": "dd705f7c-1abe-4f4d-8c8e-7668fe633d40",
+    "name": "Fungus",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 055: Fungus",
+    "model_file_url": "https://arweave.net/8I0PA7uqsEBChnWB9dEmOXwLf1bnk2G-Z_AZZrlqwYc",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "055",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/hCIBH-eI2TiK7Q-TUfEWbHPmnVf366hsWGdFT1SwqNM",
+        "fbx": "https://arweave.net/VtcodIPLUqGLOmm8A5-q_IJP-PtmiM9XGWEjhBISPCg",
+        "voxel_vrm": "https://arweave.net/yHGccUefd8BDkFHnlaATTGEw5bF99WLSxxGDXQ_ALos"
+      },
+      "ardriveFiles": {
+        "models": [
+          "055_Fungus_Voxel.fbx",
+          "055_Fungus.fbx",
+          "055_Fungus_Voxel.vrm",
+          "055_Fungus.vrm"
+        ],
+        "thumbnails": [
+          "055_Fungus_thumbnail.gif"
+        ],
+        "textures": [
+          "055_Fungus_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/s9K1QCTffDsj2beT54jzu8xpXjiDacyQN-eFfFFTjjs"
+  },
+  {
+    "id": "a878f2be-2f1b-4ded-9b98-9362f729a41b",
+    "name": "CoolChoco",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 094: CoolChoco",
+    "model_file_url": "https://arweave.net/hre4rgFOAWthLKTcgQgf5MRp5VcjFBYOofbsPhVqOew",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "094",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/28weEuyb07Fsd4KpqxaUR9c0gH-4r5HBEgQZrNcMYVs",
+        "voxel_vrm": "https://arweave.net/4Z62df56jjfWbI0EX3iwUxjwGZrWc-PRF-yNaF7poYg",
+        "fbx": "https://arweave.net/JmLjxW5mPy9qPEaWVkTDT6I_YqdP0YxxQWiCuNsJf1Q"
+      },
+      "ardriveFiles": {
+        "models": [
+          "094_CoolChoco_Voxel.fbx",
+          "094_CoolChoco.vrm",
+          "094_CoolChoco_Voxel.vrm",
+          "094_CoolChoco.fbx"
+        ],
+        "thumbnails": [
+          "094_CoolChoco_thumbnail.gif"
+        ],
+        "textures": [
+          "094_CoolChoco_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/HTcuOnRhzrGxLTxk4Y2RxAu4SEEGIr97kK6vUQphQow"
+  },
+  {
+    "id": "e77c6b30-8cd4-45cc-ba6f-ae4bfb52511e",
+    "name": "Polybot",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 051: Polybot",
+    "model_file_url": "https://arweave.net/DUR8v-IugXppdMBxPdE1rDO2dZCJJ7ZgBTXSRgPJFNo",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "051",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/udNV6biPA9v9jM72Iwhst5h01Fx8hRPYP2VSFeZ-XQ0",
+        "fbx": "https://arweave.net/EYMetMUSCtzpgWtwddUuns9lx15c1N8SLhJosoZYWX0",
+        "voxel_vrm": "https://arweave.net/cGtxyF6RcKPfoCOi0C5M18tLLCY89l72c2V29Lnk-Wo"
+      },
+      "ardriveFiles": {
+        "models": [
+          "051_Polybot_Voxel.fbx",
+          "051_Polybot.fbx",
+          "051_Polybot.vrm",
+          "051_Polybot_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "051_Polybot_thumbnail.gif"
+        ],
+        "textures": [
+          "051_Polybot_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/PJ-ovenhR5xdQPv_Z1NkujIpPWjfD_7XENdf7yzHZ_0"
+  },
+  {
+    "id": "40cf2651-f725-41a7-ade7-f94aa01aad3e",
+    "name": "Ferk",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 067: Ferk",
+    "model_file_url": "https://arweave.net/-RwzCgnqAniy41JEYP-dGbgGnZJ7GFqEGwliEFHCHaI",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "067",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/rhjF3Qr_dD5lIQ2EjFol_LDzsmZOhpnqun230UrHLiI",
+        "voxel_vrm": "https://arweave.net/7iwnW25dITmfMuPNLUUX2T4wqCPHwn2ZOxDEP6jKMV8",
+        "fbx": "https://arweave.net/JxR0XAa-sBx06GWhv2fHNssStL5ygORjJT_ANj-GfBI"
+      },
+      "ardriveFiles": {
+        "models": [
+          "067_Ferk_Voxel.fbx",
+          "067_Ferk.vrm",
+          "067_Ferk_Voxel.vrm",
+          "067_Ferk.fbx"
+        ],
+        "thumbnails": [
+          "067_Ferk_thumbnail.gif"
+        ],
+        "textures": [
+          "067_Ferk_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/jLYEkvUeqg3Cj5yDg_ygBmIBDkLsiJanjZLIq-9v-qE"
+  },
+  {
+    "id": "f6c50bbf-b41a-470e-84b8-bb3a12efc902",
+    "name": "Erika",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 053: Erika",
+    "model_file_url": "https://arweave.net/GZkfa0SNnrBWluRL_pXpakg7T3K3d4l87__wR4mD3UM",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "053",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/0u82t7aQwHelscgwnXLD5IQG35gshZnGiPyeO8l54i4",
+        "fbx": "https://arweave.net/dpLqLWT6ndJcqMYGbs0iRq6r-cg8SGNuQEtuQhofyHE",
+        "voxel_vrm": "https://arweave.net/WR4tHjx3T1r73dPQjFKBA2mdmgDixiAsUI6W8ZcbEqg"
+      },
+      "ardriveFiles": {
+        "models": [
+          "053_Erika_Voxel.fbx",
+          "053_Erika.fbx",
+          "053_Erika.vrm",
+          "053_Erika_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "053_Erika_thumbnail.gif"
+        ],
+        "textures": [
+          "053_Erika_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/C3HkA5xa9jXxSySEJCZEhtrFkrCyccD4RR25QfXIpyE"
+  },
+  {
+    "id": "88fc50d9-4416-46e0-b839-cfd0a77209b1",
+    "name": "Mummy",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 036: Mummy",
+    "model_file_url": "https://arweave.net/JGv7n-LkirsjzCDI5iNnw8SLlpw5_Q7LPw0Ni8RZ8vk",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "036",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/YAjgvI1zz8LhJs-l_6ME7u1KXrVA2SalOm8VYup9SiA",
+        "voxel_vrm": "https://arweave.net/O-z7kOe4hcQ6EhKpsoSOKdN85D3WJ2ls5FqMxUuiEOI",
+        "fbx": "https://arweave.net/Re1HKoY5wNgmPC6L1--3PCsqWEZqMPFVpQ1stPqN4B4"
+      },
+      "ardriveFiles": {
+        "models": [
+          "036_Mummy_Voxel.fbx",
+          "036_Mummy.vrm",
+          "036_Mummy_Voxel.vrm",
+          "036_Mummy.fbx"
+        ],
+        "thumbnails": [
+          "036_Mummy_thumbnail.gif"
+        ],
+        "textures": [
+          "036_Mummy_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/bgwEm3PB6yqpVQipatGEki8betYQi8RvKpQmfKpw730"
+  },
+  {
+    "id": "bf659356-ff0f-409a-a2cd-a6def10572aa",
+    "name": "Carrot",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 023: Carrot",
+    "model_file_url": "https://arweave.net/S3t6KT5lUoO1LUZe0iP8VtO_SVW7IVOHM9QMHEHEl64",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "023",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/xnbHETqVwdLV3DkGigYpewUis_Puq1K8177DDn2QJOo",
+        "voxel_vrm": "https://arweave.net/ZPNXuX_xp4dn48zrF2TvSYpOfqyewBgAnJ6buGACA6o",
+        "fbx": "https://arweave.net/3zpURZDJcRScLE6J37c6y_eN-WS9tUB35kHJ0TmyZx8"
+      },
+      "ardriveFiles": {
+        "models": [
+          "023_Carrot_Kid_Voxel.fbx",
+          "023_Carrot_Kid.vrm",
+          "023_Carrot_Kid.fbx",
+          "023_Carrot_Kid_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "023_Carrot_Kid_thumbnail.gif"
+        ],
+        "textures": [
+          "023_Carrot_KidTexture.png",
+          "023_Carrot_Kid_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/DpfmZS-KWzZcx79wYBDMkEr8zg5nhdofK8xNOrF5zJc"
+  },
+  {
+    "id": "47309163-deb3-4b83-90b4-5222ac4afbc3",
+    "name": "Lydia",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 054: Lydia",
+    "model_file_url": "https://arweave.net/x48D7v037irPQYG7e0vZLDV1E3x5-KookbP9-vaXvYE",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "054",
+      "series": "R1",
+      "alternateModels": {
+        "fbx": "https://arweave.net/m4xk6PCZvfLmVYDrt5DJW4RUzkBO6ArrOP616Yb9a9s",
+        "voxel_fbx": "https://arweave.net/zjYp45GTJdo-f8QQ5YrQlZifPnflNZDAKqGlbx8oYLM",
+        "voxel_vrm": "https://arweave.net/RzKiLy3POJEWrvn7XWgwCDc5cmd9ZOm_H9toSD0vpmk"
+      },
+      "ardriveFiles": {
+        "models": [
+          "054_Lydia.fbx",
+          "054_Lydia_Voxel.fbx",
+          "054_Lydia.vrm",
+          "054_Lydia_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "054_Lydia_thumbnail.gif"
+        ],
+        "textures": [
+          "054_Lydia_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/DgPsMxXBXBxREc7Wq_w-L0Z2MFiM9E7T5s0yV0c4PJg"
+  },
+  {
+    "id": "0a4d60d8-a355-4302-9a9a-fa4dff5b8422",
+    "name": "Retroman",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 018: Retroman",
+    "model_file_url": "https://arweave.net/N7Ps0Ad5RNr8JVyTFr0YM5tzlUJvAxeJ362XNn1j86E",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "018",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/4rZ3965r4L66gpTYcqGiswaPs2bU8HcRjh7mJu1Gm1Q",
+        "fbx": "https://arweave.net/x4ixguK0rur1d7jMpv5GyGnR2B2KE6o2i_o0fB4v7aA",
+        "voxel_vrm": "https://arweave.net/R3rnR2oiuqxKv120BeCTIt8ztA1JJBYmWFXHbtyJbvY"
+      },
+      "ardriveFiles": {
+        "models": [
+          "018_Retroman_Voxel.fbx",
+          "018_Retroman.fbx",
+          "018_Retroman.vrm",
+          "018_Retroman_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "018_Retroman_thumbnail.gif"
+        ],
+        "textures": [
+          "018_Retroman_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/bSXmDVe_7HWfOXJTdhGmTCnvhPn_0MVpLRUwKDZrvms"
+  },
+  {
+    "id": "3e809bae-2f81-4d4a-ae68-f115933af527",
+    "name": "Snowy",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 097: Snowy",
+    "model_file_url": "https://arweave.net/Mqs8hdg-1hpeGq8Jl_LCmhTGdydglPm2V2OGc8jJ5DY",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "097",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/rdgmd8sYZCQhlPYrBJF2F_Ak55PuM1i8n3-1T4GWDX0",
+        "fbx": "https://arweave.net/WDxPg3NTwNixAcNI34ed8KspRC7qWX2pQ-PSP0nTXRg",
+        "voxel_vrm": "https://arweave.net/Fqro5uAHIPLUWugYyPTBPkdbdSqDqCgq7jtTONLbRx8"
+      },
+      "ardriveFiles": {
+        "models": [
+          "097_Snowy_Voxel.fbx",
+          "097_Snowy.vrm",
+          "097_Snowy.fbx",
+          "097_Snowy_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "097_Snowy_thumbnail.gif"
+        ],
+        "textures": [
+          "097_Snowy_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/pg0GBa3xRqupz_fZmfzEu5vka1IU5gnWW1NB_ZCXsls"
+  },
+  {
+    "id": "f0d49b06-cdf6-4e09-9057-2c1f77ad56eb",
+    "name": "Coffee",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 080: Coffee",
+    "model_file_url": "https://arweave.net/JxV2leixFtpOsscIyelJzK6OSA84hnyrWZs7LAMfU8c",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "080",
+      "series": "R1",
+      "alternateModels": {
+        "fbx": "https://arweave.net/skGPDPDpPB7acdl_14FXgso2_u3wghd7zt0U7IK8nkM",
+        "voxel_fbx": "https://arweave.net/vb1_A2NNDW9E0-806_UA1b5wC4UpBXyWcMy7PoC3MdY",
+        "voxel_vrm": "https://arweave.net/DtOrRDTXhZcZnifzO7VlQLBV3RORP8Dr26flgc06pZg"
+      },
+      "ardriveFiles": {
+        "models": [
+          "080_Coffee.fbx",
+          "080_Coffee.vrm",
+          "080_Coffee_Voxel.fbx",
+          "080_Coffee_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "080_Coffee_thumbnail.gif"
+        ],
+        "textures": [
+          "080_Coffee_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/bzT14eOgmZy5k9YW5fa6jBZ1J5Pfrr9OfZ1SSv77T_E"
+  },
+  {
+    "id": "0d5724c3-b7aa-4db0-a235-115eb546dc71",
+    "name": "Ro",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 017: Ro",
+    "model_file_url": "https://arweave.net/6S5a74z2s5aZrTE71nJR1a1j9x5v46mPy3MKJZMylwg",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "017",
+      "series": "R1",
+      "alternateModels": {
+        "fbx": "https://arweave.net/-_mkogG0vkUMtlZvMAl_ww4h8dnTafLfzHkXrSg7C8k",
+        "voxel_fbx": "https://arweave.net/Ii_maKhT2Lmv9A_KDnsD0ki6_5MFY8ah4CR2Jpm3TQQ",
+        "voxel_vrm": "https://arweave.net/UWEip3lIDtg-GdfdJpGFO97oegeFRNE4ZPvhckWYBE4"
+      },
+      "ardriveFiles": {
+        "models": [
+          "017_Ro.vrm",
+          "017_Ro.fbx",
+          "017_Ro_Voxel.fbx",
+          "017_Ro_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "017_Ro_thumbnail.gif"
+        ],
+        "textures": [
+          "017_Ro_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/AanE-OXPp9NMntsz5RggKc4CQ4E_NSBmaZM60XZBbTw"
+  },
+  {
+    "id": "75d554d1-3ea5-4cd0-b4d9-a7580f5f6710",
+    "name": "Samuela",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 050: Samuela",
+    "model_file_url": "https://arweave.net/4VjBzmk3iDQS0-013pUMFpFYbKGNTL4qcQ-PVwADxk4",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "050",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/9DEB8bZgw2FnjD6e4mvXVXRlM_KSf6bQ42EHHFN1CP4",
+        "fbx": "https://arweave.net/g7SyvFwfGN9K5gq8QEVSXBbRfCKuLHlr2SaPBDT6ZMo",
+        "voxel_vrm": "https://arweave.net/oE2q88fzEBN0rdPUAi494JNxqeum0TZZmjYxtGlWoKQ"
+      },
+      "ardriveFiles": {
+        "models": [
+          "050_Samuela_Voxel.fbx",
+          "050_Samuela.fbx",
+          "050_Samuela.vrm",
+          "050_Samuela_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "050_Samuela_thumbnail.gif"
+        ],
+        "textures": [
+          "050_Samuela_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/IcM8jehLXCuW088P8GACx39noyVRY9OFU69BLQM3GI4"
+  },
+  {
+    "id": "1f88bcba-10d0-4b07-8921-f08670982dc8",
+    "name": "Anchor",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 014: Anchor",
+    "model_file_url": "https://arweave.net/GhML2d0T_lBZvRA_S28LWVg9wFCWJWqc0cFsVulQQlo",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "014",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/b7v3g4VYs3QFO1vtlT88Azbjtqh5_yOm6TCJy2juFPA",
+        "fbx": "https://arweave.net/6T6mw4DxD-6003MQHn_QWfMYkubdfrR6uubiV1ooeJE",
+        "voxel_vrm": "https://arweave.net/CJBLX5VWhgyhlpkKHYtmx10VEYn_9T0tmkwLLmxRsR8"
+      },
+      "ardriveFiles": {
+        "models": [
+          "014_Anchor_Voxel.fbx",
+          "014_Anchor.fbx",
+          "014_Anchor.vrm",
+          "014_Anchor_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "014_Anchor_thumbnail.gif"
+        ],
+        "textures": [
+          "014_Anchor_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/K6A-nGVw0vGNnP11CPJguTkcHRGzuKVCr6dY2K_fW5I"
+  },
+  {
+    "id": "72909392-0ce2-429c-bd6f-9405aa992536",
+    "name": "Teddy",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 011: Teddy",
+    "model_file_url": "https://arweave.net/KbaYR3YmtjweLgEcJAWekeh3MNAlF9ZWOYJkbNfi8MM",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "011",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/4a21w_JViY5s_31FrHL_3MBzDLx9OfOiE2LKXEgW2oQ",
+        "fbx": "https://arweave.net/pUTlvOxsV3BIf3OZKrg6OzE5fVMkE7j7GSkg5ozzc7M",
+        "voxel_vrm": "https://arweave.net/FwbuLuEGhpHfPEltLRbKtytpLptkOH_Hi-bMKLmUxy4"
+      },
+      "ardriveFiles": {
+        "models": [
+          "011_Teddy_Voxel.fbx",
+          "011_Teddy.fbx",
+          "011_Teddy.vrm",
+          "011_Teddy_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "011_Teddy_thumbnail.gif"
+        ],
+        "textures": [
+          "011_Teddy_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/RshgOJaFyAdcmupiH7pUl9-WdC-flIEM0NrPqZEtyfU"
+  },
+  {
+    "id": "46c3e045-2b63-44e2-87b9-d2d8f4b03560",
+    "name": "SaintClaus",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 100: SaintClaus",
+    "model_file_url": "https://arweave.net/u6ob7CuUnZ5SRgU1TB8W3RMgG5kajclNZbJoLhR-_8A",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "100",
+      "series": "R1",
+      "alternateModels": {
+        "fbx": "https://arweave.net/5AWlbirf3s0W6QuEfBmDfsrmxIu0rm3mrNac2DSgWLY",
+        "voxel_fbx": "https://arweave.net/YTweUQvn-YPzjvmpKl6mqysMtEcB46t_7EIdaU5FC_o",
+        "voxel_vrm": "https://arweave.net/9LnnBK6kziIQ8IGACDQ6n1QI-ZdwlI-g3dRxmSk-sv4"
+      },
+      "ardriveFiles": {
+        "models": [
+          "100_SaintClaus.fbx",
+          "100_SaintClaus.vrm",
+          "100_SaintClaus_Voxel.fbx",
+          "100_SaintClaus_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "100_SaintClaus_thumbnail.gif"
+        ],
+        "textures": [
+          "100_SaintClaus_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/XczwkIAbl2_s9Bs13dsWgPbASVWh5mJGAIclW_vqFrw"
+  },
+  {
+    "id": "15dce553-3d3c-4288-8c03-c69c65167447",
+    "name": "Milk",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 084: Milk",
+    "model_file_url": "https://arweave.net/X3NJlq8p9AsiUIqZhsmByDssKQGYeAZxnFNI0fSULMI",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "084",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/F1I0qMKzRLVFBZmf5bWdcIgptM6E8bEvG8v_BAW4byE",
+        "voxel_vrm": "https://arweave.net/aiaVsHqwT6xleveiXKERzIhhoY5UxOej0koa1-aveBc",
+        "fbx": "https://arweave.net/3Lj-p-Mh2k8UYbip5EUlQrtWkXdicoWW2RFdwv2d1cw"
+      },
+      "ardriveFiles": {
+        "models": [
+          "084_Milk_Voxel.fbx",
+          "084_Milk.vrm",
+          "084_Milk_Voxel.vrm",
+          "084_Milk.fbx"
+        ],
+        "thumbnails": [
+          "084_Milk_thumbnail.gif"
+        ],
+        "textures": [
+          "084_Milk_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/C5r_C82cPUwxHxPCL2_ZQC6Gr3owsvbQ2Um3Pkb5_sk"
+  },
+  {
+    "id": "b26d918b-102b-4149-9347-347c0a4a51e5",
+    "name": "Cucumber",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 085: Cucumber",
+    "model_file_url": "https://arweave.net/CI15ScQv7owEU6VPq9zJTRizjwxggGk0nCdz7r1uy58",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "085",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/6ytt2sezBEbjrkCBWkJ5j-BZ-j8PZwIgfglncZ6yzNQ",
+        "voxel_vrm": "https://arweave.net/RQFhMb8j_nm2ikeo-L-Ssc-34IeBUwmpmXTiwbZClXo",
+        "fbx": "https://arweave.net/H04JIIKVsDk5G16EGYGWfDQyL_yQ7hTZKdd4zUvlw1U"
+      },
+      "ardriveFiles": {
+        "models": [
+          "085_Cucumber_Voxel.fbx",
+          "085_Cucumber.vrm",
+          "085_Cucumber_Voxel.vrm",
+          "085_Cucumber.fbx"
+        ],
+        "thumbnails": [
+          "085_Cucumber_thumbnail.gif"
+        ],
+        "textures": [
+          "085_Cucumber_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/AG1EkJle34gqRjzLdTLorHsMNnW8m4Ek8Bikcx767zg"
+  },
+  {
+    "id": "e69fd8b9-d6ae-44ca-84e0-be4bb075d426",
+    "name": "Astronaut",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 048: Astronaut",
+    "model_file_url": "https://arweave.net/T0c0z_XEPQHy3vyXz31XB22s_6JTqHdnau8exq_I8tI",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "048",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/k__RyeHO3uYV4i1H8jbkvGm-HLGSnO672UGZDooOZDM",
+        "fbx": "https://arweave.net/7_DJ1gimz5TqBjS-54RP0fZTsbEkfpTAF-WBC7gSMuk",
+        "voxel_vrm": "https://arweave.net/pwjLSVjDciZRlv4GBl7kq_KKkNXzaG6Ohm8Gw1UwiK4"
+      },
+      "ardriveFiles": {
+        "models": [
+          "048_Astronaut_Voxel.fbx",
+          "048_Astronaut.fbx",
+          "048_Astronaut.vrm",
+          "048_Astronaut_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "048_Astronaut_thumbnail.gif"
+        ],
+        "textures": [
+          "048_Astronaut_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/Qo512sj7GqyM2wvlubg4aPyA-Hl_VTxRGYiDZ0A4Wx4"
+  },
+  {
+    "id": "db1c0a1c-b30f-434b-a27e-86ee02764b19",
+    "name": "OldMoustache",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 004: OldMoustache",
+    "model_file_url": "https://arweave.net/li-q3WXvBik3A1aYyp7azx7Mwce3taHx6OSOE1pHdKk",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "004",
+      "series": "R1",
+      "alternateModels": {
+        "fbx": "https://arweave.net/vn_bhKIi6TS3Ydh2ZIe6K-r-ab9jH5GX9h6VffpQFpc",
+        "voxel_fbx": "https://arweave.net/tuSBFzcqIkgJyNiZWuDFA8pInWNSPKjbIjknMTj8F_E",
+        "voxel_vrm": "https://arweave.net/bTtBhxm4HlduC1NaNs_tDYBZP8Y4DNMiSDdBv1xLVDo"
+      },
+      "ardriveFiles": {
+        "models": [
+          "004_OldMoustache.fbx",
+          "004_OldMoustache.vrm",
+          "004_OldMoustache_Voxel.fbx",
+          "004_OldMoustache_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "004_OldMoustache_thumbnail.gif"
+        ],
+        "textures": [
+          "004_OldMoustache_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/86Jv562helX2jUBUPGwRiiCNYQZeYIhNRUIrSYNSGaQ"
+  },
+  {
+    "id": "829a7d51-c90f-4318-8e75-b50cb8a31328",
+    "name": "Expol",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 075: Expol",
+    "model_file_url": "https://arweave.net/rN6r9zV-eDV1Gf7x8Vt9v-HId117AG2arg8BO3uUvtQ",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "075",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/Va3TvxHaDadwyChXbKab2fOOFVBrtpZCcpiV0hwKqZs",
+        "fbx": "https://arweave.net/BM16xQ_8zsn1aq0XVsYeFzH0OMlixj7s5yc2KwlTwU0",
+        "voxel_vrm": "https://arweave.net/FZ66NneWiOkqm4ys1N5iEKmbARGAT9m035Xot29cRTY"
+      },
+      "ardriveFiles": {
+        "models": [
+          "075_Expol_Voxel.fbx",
+          "075_Expol.fbx",
+          "075_Expol.vrm",
+          "075_Expol_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "075_Expol_thumbnail.gif"
+        ],
+        "textures": [
+          "075_Expol_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/y2mYUdKmfWIzGTGgD6Y-eKk6OHyOPqWY1RHlWIlSLVA"
+  },
+  {
+    "id": "7c18c121-2e2a-4023-a34d-c01686e11019",
+    "name": "Ghost",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 034: Ghost",
+    "model_file_url": "https://arweave.net/fSy4hx9L9SqiQIKzjhRLhXzDZpQEJA5izCcDej_WJi8",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "034",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/jN0yngdbI0Ikng7jXsbYH3pk2jNv9pReE1ywvJsxFQQ",
+        "fbx": "https://arweave.net/z1RNCmbkclwVUTKku2OPOJGZnKnT7lwAvNE1dNaMM3I",
+        "voxel_vrm": "https://arweave.net/8UNzZT7ZyjFZzm0CVhxNsMUKBeHCEKhgjV0DI_IhwZw"
+      },
+      "ardriveFiles": {
+        "models": [
+          "034_Ghost_Voxel.fbx",
+          "034_Ghost.vrm",
+          "034_Ghost.fbx",
+          "034_Ghost_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "034_Ghost_thumbnail.gif"
+        ],
+        "textures": [
+          "034_Ghost_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/Q2FpwQkrMJTlpbM8ZoB-vgRni9VIXMW2CZfnSqtdJlw"
+  },
+  {
+    "id": "00df253c-4665-4cbf-b420-761a1cc4f9dd",
+    "name": "Witch",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 039: Witch",
+    "model_file_url": "https://arweave.net/0YLwWzDkvVWn9ttv2RAdc8bvWcCBjvYPpu7fpjpHYU0",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "039",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/-8kjeHjs_q7kXFKJvYGjbtv2pa8bYFZMYBofu2JqebM",
+        "fbx": "https://arweave.net/wUXYaRBMLmDjoZU0MwnojQO0omjadBkmFXkYbcur4Wo",
+        "voxel_vrm": "https://arweave.net/JZaKwUy6Y0wMPbT9Yxt8Iqu0KXYfkvZs9u8eqDHRITk"
+      },
+      "ardriveFiles": {
+        "models": [
+          "039_Witch_Voxel.fbx",
+          "039_Witch.fbx",
+          "039_Witch.vrm",
+          "039_Witch_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "039_Witch_thumbnail.gif"
+        ],
+        "textures": [
+          "039_Witch_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/ZxofC0CRXIB40r26MqyHK7tVAjoYs1a6SYBaxeqruwM"
+  },
+  {
+    "id": "0a04d13c-0e04-45ee-98d1-ca6a293e4650",
+    "name": "Mafiossini",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 046: Mafiossini",
+    "model_file_url": "https://arweave.net/MRYB-qSnrV11_Sa6BwMOqTEpH7n_bczN_pNY_1q7DOs",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "046",
+      "series": "R1",
+      "alternateModels": {
+        "fbx": "https://arweave.net/SbxyfTmQunajMoWdmk-tgktVeUm9NPHUkfKjdeDMAEc",
+        "voxel_fbx": "https://arweave.net/wk47h8HLU-j55PAt87AwKNr_jthqHiYbS441ISEtlv0",
+        "voxel_vrm": "https://arweave.net/rM79J0myu1ZNgdYQR6IaUgKai5jF1mB7iX6uqRXh4iE"
+      },
+      "ardriveFiles": {
+        "models": [
+          "046_Mafiossini.fbx",
+          "046_Mafiossini_Voxel.fbx",
+          "046_Mafiossini.vrm",
+          "046_Mafiossini_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "046_Mafiossini_thumbnail.gif"
+        ],
+        "textures": [
+          "046_Mafiossini_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/qq7kEj88GKEqLnzrHOXmoIIwU8q5xtm4w3TFPaIbWSg"
+  },
+  {
+    "id": "40f83f57-513c-49c1-9681-65c8c7be6cbe",
+    "name": "Watermelon",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 089: Watermelon",
+    "model_file_url": "https://arweave.net/PBumF47DE0ARjiZXj5p5h9YLfkrkd0MNk5K_FMBnEc8",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "089",
+      "series": "R1",
+      "alternateModels": {
+        "fbx": "https://arweave.net/Wz2m2pvIHzMQqeRPEjicXspDxKIqJuWj9D9gA_c6tYw",
+        "voxel_fbx": "https://arweave.net/TLeA0Zu7SAtukeB-tYc32w1DvcZId5RkYP_3tetmZIA",
+        "voxel_vrm": "https://arweave.net/_H7tg1d1swGlqUmzOryQzKEIEaMG1sFqczE2MIddx0U"
+      },
+      "ardriveFiles": {
+        "models": [
+          "089_Watermelon.fbx",
+          "089_Watermelon_Voxel.fbx",
+          "089_Watermelon_Voxel.vrm",
+          "089_Watermelon.vrm"
+        ],
+        "thumbnails": [
+          "089_Watermelon_thumbnail.gif"
+        ],
+        "textures": [
+          "089_Watermelon_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/D7qY9j3Spfk8QUjk4Wj6-EjYIQHV2ZdjvDFtiNh4cUs"
+  },
+  {
+    "id": "3d842fb6-29f5-494a-a696-d9ab10a0257d",
+    "name": "Kate",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 038: Kate",
+    "model_file_url": "https://arweave.net/1q4IQwLQXJVS0JGSpeXlRdazmZYdwJbmLbTv7o0s5Y8",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "038",
+      "series": "R1",
+      "alternateModels": {
+        "fbx": "https://arweave.net/TdtSH3Uej-R6GlotLMUpQVa6-TpqKXEIxamq7QbkhDY",
+        "voxel_fbx": "https://arweave.net/pns2xAGwfiWSADrTpcYTI5cc-f0sTby57P5hHPAy14E",
+        "voxel_vrm": "https://arweave.net/gdt3_b1Xj8kP7Jh4NS9kVUkwmgz_rQzZaQ_Sxv5xlcw"
+      },
+      "ardriveFiles": {
+        "models": [
+          "038_Kate.fbx",
+          "038_Kate_Voxel.fbx",
+          "038_Kate.vrm",
+          "038_Kate_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "038_Kate_thumbnail.gif"
+        ],
+        "textures": [
+          "038_Kate_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/ZRZbxFWEXmD7VkMDaGp8RTCrJgZE72kEAnnMqFrwS7I"
+  },
+  {
+    "id": "17b46529-4308-493c-a35f-dbf00a771f34",
+    "name": "CoolAlien",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 002: CoolAlien",
+    "model_file_url": "https://arweave.net/FB3g343NrNmQrr4V0191V93pbzOVwTiQWF3PEcL4MNg",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "002",
+      "series": "R1",
+      "alternateModels": {
+        "fbx": "https://arweave.net/9LirqfKW1l1JznIjFBnl_3TnrWsYvyU9owH3pqek-QM",
+        "voxel_fbx": "https://arweave.net/2kywmvMDjToW1gchZL9r7T46EaPCx3XImKVfwYTdg7c",
+        "voxel_vrm": "https://arweave.net/dy0exmHtg6wikxsjaQVRivwAKRovjbPp-p46zjJL_pI"
+      },
+      "ardriveFiles": {
+        "models": [
+          "002_CoolAlien.fbx",
+          "002_CoolAlien_Voxel.fbx",
+          "002_CoolAlien.vrm",
+          "002_CoolAlien_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "002_CoolAlien_thumbnail.gif"
+        ],
+        "textures": [
+          "002_CoolAlien_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/wOVOC-UMUDiRkoOI3gPq8CRMIFrC1-cxKRqi5wOEUTE"
+  },
+  {
+    "id": "c01d25e2-991d-46a2-ae05-82298e900ec4",
+    "name": "Chilli",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 092: Chilli",
+    "model_file_url": "https://arweave.net/vyjPW0lPmim3NkQbVvnhSTvjMBys3sp5bzbIhRnPHRQ",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "092",
+      "series": "R1",
+      "alternateModels": {
+        "fbx": "https://arweave.net/LfAJCAjZn2FrBHQoolyk4PBi7Rj8_p89eJBrHaBQIAg",
+        "voxel_fbx": "https://arweave.net/4TTw5oaVyf3iaMxV8u6XCyxMj0-s4mZglYnimf3Wjl0",
+        "voxel_vrm": "https://arweave.net/Yl7eOmdsrpqeBhgyXzwYo82v83uKQ3L1qSiJJkkQtBw"
+      },
+      "ardriveFiles": {
+        "models": [
+          "092_Chilli.fbx",
+          "092_Chilli_Voxel.fbx",
+          "092_Chilli.vrm",
+          "092_Chilli_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "092_Chilli_thumbnail.gif"
+        ],
+        "textures": [
+          "092_Chilli_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/4Q8dvmXB5U1I13y2kXVB5NKdr6ZgPiQPGbBvhLud11A"
+  },
+  {
+    "id": "4b7a1c36-e76a-47f1-8de7-eb1a5012f6e5",
+    "name": "ToiletPaper",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 086: ToiletPaper",
+    "model_file_url": "https://arweave.net/SQ9ZFJIjR6ek3dU76sZmeobQXOzRGYkweKa4CGrpkvg",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "086",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/uWPqNrI3sxR7-WGrgf21Ttd-Ut0AywhCDyceJClKyRk",
+        "voxel_vrm": "https://arweave.net/npaOdYaXWWDybRjzWoueTxWHquU9Po1MgCb77zWLctI",
+        "fbx": "https://arweave.net/duZv6dPPyYflSa-U0xSOhuY4hDL03WcO3cxnOFniM_8"
+      },
+      "ardriveFiles": {
+        "models": [
+          "086_ToiletPaper_Voxel.fbx",
+          "086_ToiletPaper.vrm",
+          "086_ToiletPaper_Voxel.vrm",
+          "086_ToiletPaper.fbx"
+        ],
+        "thumbnails": [
+          "086_ToiletPaper_thumbnail.gif"
+        ],
+        "textures": [
+          "086_ToiletPaper_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/-LO1VTx66ioS9HmexYTn3e3vrwRF8mVedszpklVjTMo"
+  },
+  {
+    "id": "6e36690d-c4a4-45d5-83a4-04751e1d4e43",
+    "name": "GoodTomato",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 082: GoodTomato",
+    "model_file_url": "https://arweave.net/-rMMln4TQxnrC7_Mh_5IFZpzspPjQQNGH3qdPHphDGI",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "082",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/MUYy3gw1nvjaQQrtwqwhPn_eYCzoTJwz0XNQGuz9vGc",
+        "voxel_vrm": "https://arweave.net/NjTMU_TekCVlcw4W7IE_HPL5PSCLOxTUwEFjvjsFveI",
+        "fbx": "https://arweave.net/f4BTTPm9DS2pBqprlIIRBMyi52kiKKFq_OvmxVnHTj4"
+      },
+      "ardriveFiles": {
+        "models": [
+          "082_GoodTomato_Voxel.fbx",
+          "082_GoodTomato.vrm",
+          "082_GoodTomato_Voxel.vrm",
+          "082_GoodTomato.fbx"
+        ],
+        "thumbnails": [
+          "082_GoodTomato_thumbnail.gif"
+        ],
+        "textures": [
+          "082_GoodTomato_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/SbSLaOiBFVPWq82ByW56Py-2Xg17Ddws1EHx2SRa5GY"
+  },
+  {
+    "id": "bdb44645-897f-4b89-9cd9-7c54952c23f0",
+    "name": "XmasTree",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 096: XmasTree",
+    "model_file_url": "https://arweave.net/XDn7Py0hCML4VSgAeIVNBgtPdXzSN8bGX1Y2Mn4M8es",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "096",
+      "series": "R1",
+      "alternateModels": {
+        "fbx": "https://arweave.net/6U2fHaDzTd1Mwfk1FCeM7i3h9Tz7NxmBH4uILijg6tk",
+        "voxel_fbx": "https://arweave.net/6sCrIX24gZsDrrz6VrI0SVOxfb7WwPY4llrBkv0M65I",
+        "voxel_vrm": "https://arweave.net/3A1xHiU7S32Mffp8eqqhbhbmp3kX0c0CxFHg4sZbtE8"
+      },
+      "ardriveFiles": {
+        "models": [
+          "096_XmasTree.fbx",
+          "096_XmasTree_Voxel.fbx",
+          "096_XmasTree.vrm",
+          "096_XmasTree_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "096_XmasTree_thumbnail.gif"
+        ],
+        "textures": [
+          "096_XmasTree_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/CsoITcSnqvJY2P4wGfH_Zsmnzk4qu_MCnh422wRHosk"
+  },
+  {
+    "id": "477ff4b9-2d90-4222-bfea-8f512151627c",
+    "name": "Wizzir",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 019: Wizzir",
+    "model_file_url": "https://arweave.net/iGoRAUsB8kVP6pBNajVEDaspCPcvEKFEtnIdruVHyBw",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "019",
+      "series": "R1",
+      "alternateModels": {
+        "fbx": "https://arweave.net/jjC2UCljw5DephXQDYHVI-GbvwdOjHPw8QS4RAt_7C0",
+        "voxel_fbx": "https://arweave.net/UpuIOsB2NJPr7KQ8GtitgWA5u3ZHjd22YuqbNs8IF0g",
+        "voxel_vrm": "https://arweave.net/Kx1Zj5Yi1OcnP2Rqlz9PedjAYDxeH_ppgxojg69n0WQ"
+      },
+      "ardriveFiles": {
+        "models": [
+          "019_Wizzir.fbx",
+          "019_Wizzir_Voxel.fbx",
+          "019_Wizzir.vrm",
+          "019_Wizzir_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "019_Wizzir_thumbnail.gif"
+        ],
+        "textures": [
+          "019_Wizzir_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/7YDXQ5zWmL0R6WMVGa474oTO5oSxU6jnv8VGhyvVFsw"
+  },
+  {
+    "id": "ba0cc801-97f8-4c11-8916-144c560f8064",
+    "name": "Skelly",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 029: Skelly",
+    "model_file_url": "https://arweave.net/3qGxPjmrwuHxuiT5v4LaR_PVoJ9XYLXLM_N7fdxiF_M",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "029",
+      "series": "R1",
+      "alternateModels": {
+        "fbx": "https://arweave.net/EtAxVmNQNXz1uyauPbCPBsA6WS3Q8Cu3IVASGXu25z8",
+        "voxel_fbx": "https://arweave.net/SHmz-PGron_bXGEzaukxBmmD0oPztLbnmbeLBOAlcZk",
+        "voxel_vrm": "https://arweave.net/UPhqIbhzQbXBgXlFaWdacoHWo2g8PAhR1oK3i951u2k"
+      },
+      "ardriveFiles": {
+        "models": [
+          "029_Skelly.fbx",
+          "029_Skelly_Voxel.fbx",
+          "029_Skelly_Voxel.vrm",
+          "029_Skelly.vrm"
+        ],
+        "thumbnails": [
+          "029_Skelly_thumbnail.gif"
+        ],
+        "textures": [
+          "029_Skelly_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/L4roz__VkpKXMFpFdMpfqL7ME79-PW7-mysfDp-Ovfo"
+  },
+  {
+    "id": "9775db0f-67a4-4319-ba59-7dcb4b257f6f",
+    "name": "Hotdog",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 087: Hotdog",
+    "model_file_url": "https://arweave.net/_MEKNKYt5jsr3ifVbQKAvjipGop7ZW0cpVyIork6Uy4",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "087",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/8IZ8gp6R0u-62neBoS2jw9NWQhAunJ5jznb0iW4jKTQ",
+        "fbx": "https://arweave.net/G8-L3W4X3I6FUSyLMJy5rMvXz3-IXEtj4ZVKvwFTVTQ",
+        "voxel_vrm": "https://arweave.net/danZSrvojsZvlxrgD7mOy7LnByplCJdg_s3DZ8BD9Sg"
+      },
+      "ardriveFiles": {
+        "models": [
+          "087_Hotdog_Voxel.fbx",
+          "087_Hotdog.fbx",
+          "087_Hotdog.vrm",
+          "087_Hotdog_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "087_Hotdog_thumbnail.gif"
+        ],
+        "textures": [
+          "087_Hotdog_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/sGKiCyIbM6TpUHeS5AhiTIeo2lIgfdZGn6fYsvkIam0"
+  },
+  {
+    "id": "5cb67fba-5b27-48e5-b309-afced2f995fb",
+    "name": "Eyelids",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 037: Eyelids",
+    "model_file_url": "https://arweave.net/rAV7_CLsR6IGp472AvzVabjJ9A-GYLdpLhCjPnodFUc",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.489Z",
+    "updated_at": "2025-03-11T16:41:51.489Z",
+    "metadata": {
+      "number": "037",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/FxHP0608Bk9B-xWAXp-91Cwlc6fv4BQFqKH4ZdYKzUs",
+        "fbx": "https://arweave.net/-t5m8Ab-8K4wc1tDdVhDSiWkMzE37LOSPJKb52VQ-SU",
+        "voxel_vrm": "https://arweave.net/IjK-cYfK5mZvGRWgFXRpINf0JYvB4OzjqMm_hc0EhZM"
+      },
+      "ardriveFiles": {
+        "models": [
+          "037_Eyelids_Voxel.fbx",
+          "037_Eyelids.fbx",
+          "037_Eyelids.vrm",
+          "037_Eyelids_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "037_Eyelids_thumbnail.gif"
+        ],
+        "textures": [
+          "037_Eyelids_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/RyFdIvK3lGR-XC3xF2TbRvakrMHwhF8pfALECxpqpWU"
+  },
+  {
+    "id": "ee7f2a28-c2a9-419a-a8e3-84064d48ab16",
+    "name": "Froggy",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 010: Froggy",
+    "model_file_url": "https://arweave.net/0iS8IZahQQDqY27djsEsshpDmWJHEoOSfxwYVJ1Opys",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "010",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/Nnmi81YAc1qaslNr_ZrskC1dfP9XINkHgXsjDMiijMw",
+        "fbx": "https://arweave.net/-wC12Sh9oMV0unuWaaS_vu-lvsmAPSyF6UIv7A7HdNw",
+        "voxel_vrm": "https://arweave.net/A3QDk2VOeBkjhb4dFLC_P7hQxGG3ni63-yBmUsKDgog"
+      },
+      "ardriveFiles": {
+        "models": [
+          "010_Froggy_Voxel.fbx",
+          "010_Froggy.fbx",
+          "010_Froggy.vrm",
+          "010_Froggy_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "010_Froggy_thumbnail.gif"
+        ],
+        "textures": [
+          "010_Froggy_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/mn3R1Dl5pYmNlA7r1VqLqlMifdbbF6lf2D2C5o6bVc8"
+  },
+  {
+    "id": "6c808fbd-8c20-4cb1-becd-fce97e709fc5",
+    "name": "Baldman",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 074: Baldman",
+    "model_file_url": "https://arweave.net/ZInk8IWljp96ivF7KI3GR49WyLPdI1zretRcEZ8NYyM",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "074",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/ZnDtRILNYaCwZ5r_NVlrG1AgmDgmp8ThOuJKRDaZZYI",
+        "fbx": "https://arweave.net/BTTKeQPeaeDiAUxw5nfx51hwpCjz5mBcPim4LCO30e4",
+        "voxel_vrm": "https://arweave.net/rO10Qcg6fDYywFwmSdmfgjenSGf6KWGd7Ww2_XNi5ZQ"
+      },
+      "ardriveFiles": {
+        "models": [
+          "074_Baldman_Voxel.fbx",
+          "074_Baldman.vrm",
+          "074_Baldman.fbx",
+          "074_Baldman_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "074_Baldman_thumbnail.gif"
+        ],
+        "textures": [
+          "074_Baldman_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/U-0FO35XONsDwzKW4bLWB5-JLcZSFJ_S2q1jVs0ZsWc"
+  },
+  {
+    "id": "9207f66b-05e3-4ab6-a0ae-8c38a8c573a5",
+    "name": "Dracula",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 043: Dracula",
+    "model_file_url": "https://arweave.net/KJjpv51m0PwGZIt8ibASjhEGM12FkSLu5tjSS6NyYRg",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "043",
+      "series": "R1",
+      "alternateModels": {
+        "fbx": "https://arweave.net/Chj0gtFKsGB73QRHvhzHXOAOLQpLWIBeR6sfrIJbhDQ",
+        "voxel_fbx": "https://arweave.net/7KnMwwXquIRNBfh3NcLh6CHZHuqAWOQ-qJCqhh_ccuw",
+        "voxel_vrm": "https://arweave.net/6AnPseuKNCbhMnV4pmnT2b5UTmE325WxLKZxmZNadnc"
+      },
+      "ardriveFiles": {
+        "models": [
+          "043_Dracula.fbx",
+          "043_Dracula_Voxel.fbx",
+          "043_Dracula.vrm",
+          "043_Dracula_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "043_Dracula_thumbnail.gif"
+        ],
+        "textures": [
+          "043_Dracula_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/QPP0pkLKHnWbhtncKa0_raexwlqVblg85S5QbdiuGj0"
+  },
+  {
+    "id": "874ac7ff-c2a3-44d5-a9e3-0d02f297d3b0",
+    "name": "Shiro",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 058: Shiro",
+    "model_file_url": "https://arweave.net/7skrWhSd_4mrqe-tiqMfCL746xu8UWghRh1dZm7irzM",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "058",
+      "series": "R1",
+      "alternateModels": {
+        "fbx": "https://arweave.net/YMLxnlUzFEILIGCTLZXrm0dAMcmrmBp2_ADWEY_Xhmk",
+        "voxel_fbx": "https://arweave.net/l12kH9dr78K_M3mLUOg7KAb3Xa7c-7y2S7JlBDyAKFQ",
+        "voxel_vrm": "https://arweave.net/T7Q_wKq6xDV_Aeqlu9v779hzp9_5m7rzv_0v-2ZLke4"
+      },
+      "ardriveFiles": {
+        "models": [
+          "058_Shiro.vrm",
+          "058_Shiro.fbx",
+          "058_Shiro_Voxel.fbx",
+          "058_Shiro_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "058_Shiro_thumbnail.gif"
+        ],
+        "textures": [
+          "058_Shiro_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/HmtLjh8ccSN7S33LvCuuqoKel5LrXGqT5GzgJmlsVVs"
+  },
+  {
+    "id": "d3973be1-5e66-46cb-991f-95ba1f876154",
+    "name": "Pipe",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 078: Pipe",
+    "model_file_url": "https://arweave.net/V3m91yQbbd5HVVeRs2LajZKLN3yLY37NXbr_7CnrwQ8",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "078",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/vuh95yJi4qhwoTfjV2teS9X-r4gefEq62xNqs8FwV9s",
+        "fbx": "https://arweave.net/eHDJJxc4Z4lHggsRyAQz0e_vg4GtJTZ_hQKBqaHJo_w",
+        "voxel_vrm": "https://arweave.net/yrldWdnFSbu_1XWYosYyc2rlq0PCOPiR1ZRRsjFXHWc"
+      },
+      "ardriveFiles": {
+        "models": [
+          "078_Pipe_Voxel.fbx",
+          "078_Pipe.fbx",
+          "078_Pipe.vrm",
+          "078_Pipe_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "078_Pipe_thumbnail.gif"
+        ],
+        "textures": [
+          "078_Pipe_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/UE8EGbFPoD4tpcOay1lHdGIHFWiaCf8xF0YEniIVprc"
+  },
+  {
+    "id": "ab966521-df9b-4546-a746-c5ad0f67b201",
+    "name": "AlwaysWatching",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 068: AlwaysWatching",
+    "model_file_url": "https://arweave.net/K_E7RQHvk3xyNQldXTzPb1x_4Ws9WVXKIbuXpCXczYQ",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "068",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/ZP6BF_d0B99b7aWsMiy9z0colhAG11E39WzqdGsZYko",
+        "voxel_vrm": "https://arweave.net/f_nnKVZDSW0Fhw-Wfy_PbEslTo95AEyEf3lYnWU6Gl4",
+        "fbx": "https://arweave.net/6u4lxu9jtTzFCBoWjh0lPo6jJTJtoC4WqitbE8AEPEk"
+      },
+      "ardriveFiles": {
+        "models": [
+          "068_AlwaysWatching_Voxel.fbx",
+          "068_AlwaysWatching_Voxel.vrm",
+          "068_AlwaysWatching.vrm",
+          "068_AlwaysWatching.fbx"
+        ],
+        "thumbnails": [
+          "068_AlwaysWatching_thumbnail.gif"
+        ],
+        "textures": [
+          "068_AlwaysWatching_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/kuvMqwse5cMuizmbKcGN3sGZ-VcuTAtr1cAVbUqObaY"
+  },
+  {
+    "id": "a651a392-bf0c-4c5a-9e26-f88abc2b83c3",
+    "name": "Wolfman",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 035: Wolfman",
+    "model_file_url": "https://arweave.net/wGhrzz7gMTxVeu8SeinAox3FO57BjQ09xjjcO4bOR9I",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "035",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/Iscms4jVTEErqMQuMwf2Y3Iwv1P2WhpeGu3KkIMBOgg",
+        "fbx": "https://arweave.net/AfLqzD3AclxcFO1n2SVQw0Yz_PnuhXy3zZyL-rh9gDo",
+        "voxel_vrm": "https://arweave.net/Sa9Q068QDdnfc7zsIaCgNVd0qLqaKizprF8ueVv9__k"
+      },
+      "ardriveFiles": {
+        "models": [
+          "035_Wolfman_Voxel.fbx",
+          "035_Wolfman.fbx",
+          "035_Wolfman.vrm",
+          "035_Wolfman_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "035_Wolfman_thumbnail.gif"
+        ],
+        "textures": [
+          "035_Wolfman_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/RTrjeoVf81PJR_T4Et5jNTQz_Dwrfpf3R-UH3PgqCHI"
+  },
+  {
+    "id": "52bc7727-c0a3-4b9f-8792-8ba888e83633",
+    "name": "Angry",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 060: Angry",
+    "model_file_url": "https://arweave.net/g3xaZFRmx1O4gT-4equ6pmUMmR2HWRdbc_iFB3-m7ug",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "060",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/Oh2Gl-szWfjUq_NvYJL0JY7N2RLHDLa_CzVpvRFTd70",
+        "fbx": "https://arweave.net/-iqH0JDPd7JBCYfUIYCwlyTsrtsknSPwFEnMyyykdGY",
+        "voxel_vrm": "https://arweave.net/_JR927P6ewNzCRuiEXUYDdJpYc0PkKSsREyDjceMVr4"
+      },
+      "ardriveFiles": {
+        "models": [
+          "060_Angry_Voxel.fbx",
+          "060_Angry.fbx",
+          "060_Angry.vrm",
+          "060_Angry_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "060_Angry_thumbnail.gif"
+        ],
+        "textures": [
+          "060_Angry_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/3qXUEyQfX2q1aguMhcSKOWWdgF4mtQhsgnRyTDyX9e4"
+  },
+  {
+    "id": "bbc3034b-ef3d-414e-8df0-33b81a51fd1c",
+    "name": "Jennifer",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 052: Jennifer",
+    "model_file_url": "https://arweave.net/LKp1uJLAZFmncdCNSZ8oopU7ZElXTvn4BmM4CUcFclc",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "052",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/jxPr6alYBNn_KwC5rztSV-8OiGeRah3QIajCOW0Ohts",
+        "fbx": "https://arweave.net/dEbSWnUvPnafRGqDuXzXxiakuxWEDdQU8LWCnk4jsao",
+        "voxel_vrm": "https://arweave.net/OFgCqtx9RyOGPCFBfk3iyuHgcupXq1Hl-ZBihdqC404"
+      },
+      "ardriveFiles": {
+        "models": [
+          "052_Jennifer_Voxel.fbx",
+          "052_Jennifer.fbx",
+          "052_Jennifer.vrm",
+          "052_Jennifer_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "052_Jennifer_thumbnail.gif"
+        ],
+        "textures": [
+          "052_Jennifer_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/5DKYpuaEX8Fal3eONiT3AZdzz4sKF2-Uv0HOnk5ks-8"
+  },
+  {
+    "id": "7e01ceae-7ead-4f3a-a9d1-90b5e23f1c0b",
+    "name": "Muscary",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 076: Muscary",
+    "model_file_url": "https://arweave.net/JCPq_-G5ipvtYBQKC0GRKQ-_lOrZ_LYw_jZji8_-sL4",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "076",
+      "series": "R1",
+      "alternateModels": {
+        "fbx": "https://arweave.net/71JUl5PP1J8TvThY5xBXT2_uS_euqdQHyhmMUCjCa8A",
+        "voxel_fbx": "https://arweave.net/hns1qA7YA1X4vyjPpSeFFROyJptkNpM23OYHWHC9uQo",
+        "voxel_vrm": "https://arweave.net/sHs1FYzzeKnstmLD40sjym4_Io7ksGCmE2NteE-GyxY"
+      },
+      "ardriveFiles": {
+        "models": [
+          "076_Muscary.fbx",
+          "076_Muscary_Voxel.fbx",
+          "076_Muscary.vrm",
+          "076_Muscary_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "076_Muscary_thumbnail.gif"
+        ],
+        "textures": [
+          "076_Muscary_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/J6WsDafkRPu3tJAfjj-IEeWMqhkJ0w10YYe-Nz4aijc"
+  },
+  {
+    "id": "fa97c4c8-2845-41f3-bf34-09d9f4dd9dfb",
+    "name": "CaptainLobster",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 049: CaptainLobster",
+    "model_file_url": "https://arweave.net/N-wQWvd1GJQt4L4XA53kVI9r5bqNJWyoSvOH7FVp0Uk",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "049",
+      "series": "R1",
+      "alternateModels": {
+        "fbx": "https://arweave.net/OQSDrYMMkKDaIVe8MkdKI5e7yzSQRcrAW1BFkmo4gaU",
+        "voxel_fbx": "https://arweave.net/p2SvhcXlZiOVW8ptQVeemKvDRrhvAKmhB5oVe67yv5g",
+        "voxel_vrm": "https://arweave.net/burxssegKeDB2eQND8F0aabuJeo9mHYMBQR7d-o3nAo"
+      },
+      "ardriveFiles": {
+        "models": [
+          "049_CaptainLobster.fbx",
+          "049_CaptainLobster_Voxel.fbx",
+          "049_CaptainLobster_Voxel.vrm",
+          "049_CaptainLobster.vrm"
+        ],
+        "thumbnails": [
+          "049_CaptainLobster_thumbnail.gif"
+        ],
+        "textures": [
+          "049_CaptainLobster_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/zIT-x8eTpoXCbpWdkOwNdtAJw32bSuiClcpb9BIchLY"
+  },
+  {
+    "id": "19cc8ab4-81ce-4fcf-9d11-dcd2a0cb2cb4",
+    "name": "IceCream",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 093: IceCream",
+    "model_file_url": "https://arweave.net/lIgaKYrtBKdPXsUzdOgTpaUGjaGTxUR10hdZmMOEDZE",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "093",
+      "series": "R1",
+      "alternateModels": {
+        "fbx": "https://arweave.net/JUY718-S0wMbD7h44DKYTaHrbjMjMsWDP6OofHgu98g",
+        "voxel_fbx": "https://arweave.net/zcD-ooDESeQD3EsUEDdqe29wOj1C5XZBfLXrLLRLgcs",
+        "voxel_vrm": "https://arweave.net/VnfumC0fXKJ7ZjdCw9e6GDePaUSeHwqU-gW0PyPH2BA"
+      },
+      "ardriveFiles": {
+        "models": [
+          "093_IceCream.fbx",
+          "093_IceCream_Voxel.fbx",
+          "093_IceCream.vrm",
+          "093_IceCream_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "093_IceCream_thumbnail.gif"
+        ],
+        "textures": [
+          "093_IceCream_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/B-FLMYZMYoTcDUo8dwOcW-GIoMaR7QR5r09lxmONRGw"
+  },
+  {
+    "id": "a9c61d08-d5f0-4975-964e-68ce6a8592da",
+    "name": "Cappy",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 006: Cappy",
+    "model_file_url": "https://arweave.net/nj5MQRsykjZVzRifNkrrbYz5i8rdmYLPDy70NjFuaco",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "006",
+      "series": "R1",
+      "alternateModels": {
+        "fbx": "https://arweave.net/6mCMx5lxF6oznxhgNeym2bSJmQ6F_Ip_BJ1x50SH8ds",
+        "voxel_fbx": "https://arweave.net/V7TqdqDYWvMlNFgVl8tGCDnj7Uvb21apEDO9Yc7dBmE",
+        "voxel_vrm": "https://arweave.net/3toRlbVGJhoxycpLdHvAEmc7yPjmylWP3W128pLNR2Y"
+      },
+      "ardriveFiles": {
+        "models": [
+          "006_Cappy.fbx",
+          "006_Cappy_Voxel.fbx",
+          "006_Cappy.vrm",
+          "006_Cappy_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "006_Cappy_thumbnail.gif"
+        ],
+        "textures": [
+          "006_Cappy_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/P8A6sgpEOhH8RpjxNYeHzWE9R52x0wVpY9vDT_7y5J8"
+  },
+  {
+    "id": "4827f43b-7f1b-4961-a65f-76d6cbaba2fc",
+    "name": "DisturbingEyes",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 065: DisturbingEyes",
+    "model_file_url": "https://arweave.net/rjTcCws60Zmwn9Sx2B4Xg0Bjp8z2lag8QELnGUDgSUM",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "065",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/YC_CT8zW2CS44zT8FROxbiWm1b4zyuPA-JqJ1p6B2kU",
+        "fbx": "https://arweave.net/XkGPVz_xIwuBFiJkYv1T4TbRvqUM4HtGl-KdFvVLP2M",
+        "voxel_vrm": "https://arweave.net/-3nPbunMIa1vjsEo6Bk4lVriDjT4em1ccCR2o-rnYlI"
+      },
+      "ardriveFiles": {
+        "models": [
+          "065_DisturbingEyes_Voxel.fbx",
+          "065_DisturbingEyes.fbx",
+          "065_DisturbingEyes.vrm",
+          "065_DisturbingEyes_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "065_DisturbingEyes_thumbnail.gif"
+        ],
+        "textures": [
+          "065_DisturbingEyes_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/5ncgN3VipkoGV_NZXjO8OIrYc1Hg4ZaCkF51eEr0wbc"
+  },
+  {
+    "id": "4696225a-d6db-4e9b-90a5-ae7fdd607ff1",
+    "name": "Aesthetica",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 062: Aesthetica",
+    "model_file_url": "https://arweave.net/orNIoMYKafN-EyZRft2No1ZQsPNl3XUcMXhfT2rKQVc",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "062",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/GjzynV5Stm11HUsZhv4M9OCVsc9YblaSp1SMw-KHhzc",
+        "fbx": "https://arweave.net/gllvjSdaWyNAaBVNSC_RqgLrVYdIUi68o3_dCqtphlY",
+        "voxel_vrm": "https://arweave.net/2kU0dp--J7i-P30gXPVomPvAZYROLovc0Z59aBb14PY"
+      },
+      "ardriveFiles": {
+        "models": [
+          "062_Aesthetica_Voxel.fbx",
+          "062_Aesthetica.fbx",
+          "062_Aesthetica.vrm",
+          "062_Aesthetica_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "062_Aesthetica_thumbnail.gif"
+        ],
+        "textures": [
+          "062_Aesthetica_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/6JEJBy6DCUIod5rkM19DaC3Fo1HVF28g7kvfIgkCEkE"
+  },
+  {
+    "id": "6bad547c-3840-4ec9-8ecc-605d27eee313",
+    "name": "LilBro",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 071: LilBro",
+    "model_file_url": "https://arweave.net/ekXWzK3wj4Yhw6ztUKGLyJ3Lr4amZELjA4w__K-svMg",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "071",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/c3N-9LTM76vzhnzB5c2RClA-kCLFbLvLbnPuDz4TZi0",
+        "fbx": "https://arweave.net/dJowmq1cQlc83sWFzcaCbFxMcpxbsOFPAC1JovjpK8g",
+        "voxel_vrm": "https://arweave.net/GD9Hc9vuIdYvZ0jGp1Xi479QKNV_6emnnq1W8GGK0uQ"
+      },
+      "ardriveFiles": {
+        "models": [
+          "071_LilBro_Voxel.fbx",
+          "071_LilBro.fbx",
+          "071_LilBro.vrm",
+          "071_LilBro_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "071_LilBro_thumbnail.gif"
+        ],
+        "textures": [
+          "071_LilBro_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/_TG0lqPlE6Dzdp5oA-rdRsSm_nFlmvLv_Ax2pz0DpYo"
+  },
+  {
+    "id": "66f333d3-00ab-4f95-b9d0-06fad2320cf6",
+    "name": "Present",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 099: Present",
+    "model_file_url": "https://arweave.net/6FIVV-fpxolzreu6VMNNasBzomahHR7-dFDaV172YCs",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "099",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/mbW4nki2lm1XoTkBzHpp_6b9olyLG9OimCmW9Ry_mK0",
+        "voxel_vrm": "https://arweave.net/km7mJzDNprgfvp3E9haPt-LE-_cucJBVycsa0zsFgQ4",
+        "fbx": "https://arweave.net/sQ7RbUq582dywhC5UqlfDPiKMB-NnMTgcAtlSEU2Y2c"
+      },
+      "ardriveFiles": {
+        "models": [
+          "099_Present_Voxel.fbx",
+          "099_Present.vrm",
+          "099_Present_Voxel.vrm",
+          "099_Present.fbx"
+        ],
+        "thumbnails": [
+          "099_Present_thumbnail.gif"
+        ],
+        "textures": [
+          "099_Present_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/rZI63JPTb_UUhobg9v-ChKEo-_rhmCTh_XZChyl2fL4"
+  },
+  {
+    "id": "6aa2b8a8-76a0-4798-9e33-bc7d2a607764",
+    "name": "Jimmy",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 003: Jimmy",
+    "model_file_url": "https://arweave.net/mmPA7zxvHTEEmKEAnMPX7jnaT1MD4dqUj8mTPenSAiw",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "003",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/F92X_6sKVuyPLfZnXp_JFZjaI7W0aD4Sv01eRb880rk",
+        "fbx": "https://arweave.net/XsUWQq9e3FH2iTl72JGAcNl1pmQTPVvrhzeeB0_TEDM",
+        "voxel_vrm": "https://arweave.net/luq-PpmdMz-vkOnTbVUJ--orp8EhtWUzG282z3ZW9rs"
+      },
+      "ardriveFiles": {
+        "models": [
+          "003_Jimmy_Voxel.fbx",
+          "003_Jimmy.fbx",
+          "003_Jimmy.vrm",
+          "003_Jimmy_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "003_Jimmy_thumbnail.gif"
+        ],
+        "textures": [
+          "003_Jimmy_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/BzBAmOXelXBP3i2Xb7mbnsOkW-zq-Hjr6jzcGYGeI24"
+  },
+  {
+    "id": "ee386706-7ff1-4289-82aa-683316b9f574",
+    "name": "Kyle",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 069: Kyle",
+    "model_file_url": "https://arweave.net/0E5wEEVl5VGCcuGVQylq3dpC3TClLR3JhuhEyhYh7NQ",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "069",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/ZzDOJMVInZ9GWwpZVS9YLut6_JLx9S4Q-86xWsggOhs",
+        "fbx": "https://arweave.net/QzvFrcGmqYiF84Ysx7tV7nrbMr4nc5rg5PDc4Gm5MBY",
+        "voxel_vrm": "https://arweave.net/oDJoRLH18XEnaXYGMXfgyZwqu--6TzuJkxaYz4bQsTQ"
+      },
+      "ardriveFiles": {
+        "models": [
+          "069_Kyle_Voxel.fbx",
+          "069_Kyle.fbx",
+          "069_Kyle.vrm",
+          "069_Kyle_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "069_Kyle_thumbnail.gif"
+        ],
+        "textures": [
+          "069_Kyle_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/108xQGJhxn0IT8ySox3ZJovhSLKf_txhI4UTe6Kq0N0"
+  },
+  {
+    "id": "61fd9426-8533-4f45-85c9-7bc4f49efc8c",
+    "name": "Pepo",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 073: Pepo",
+    "model_file_url": "https://arweave.net/QaH2oH3i77UCBQZKJuYjn12xqe3huxVVYe3cVt5pEH8",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "073",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/Dyl_6lwtPUO4-5rlFgiHNMl0Bx4mLSsKaaSDrMv4n_E",
+        "fbx": "https://arweave.net/2ascTCe5nPWMzJeVg-uJJfTvZJLLtGuymoEWJ5kZ5wE",
+        "voxel_vrm": "https://arweave.net/W-fW0YqQELgFVLhX0HGlJl9ITad9uHL_CypSpO4luKU"
+      },
+      "ardriveFiles": {
+        "models": [
+          "073_Pepo_Voxel.fbx",
+          "073_Pepo.fbx",
+          "073_Pepo.vrm",
+          "073_Pepo_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "073_Pepo_thumbnail.gif"
+        ],
+        "textures": [
+          "073_Pepo_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/abB9dhBFJK73YVq2V3hw9sm9EjNfmJJrWl9LvbGQgjg"
+  },
+  {
+    "id": "93bf02b8-7056-4c7e-8402-ab3b9788492d",
+    "name": "Hugo",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 008: Hugo",
+    "model_file_url": "https://arweave.net/iYaEdMdq8faogyRdgF4plnZIq40oOERENie94XmEdvQ",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "008",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/GFHHA9uReoUihHs5bUCq71EB_Zt9MWhmbNrCNvqIJDg",
+        "fbx": "https://arweave.net/fY_mCL2mCm-wHNVLSFVMSe5V7h0ethWa6b5HMXQl_8o",
+        "voxel_vrm": "https://arweave.net/b4f_vZQmWzAs95G9HSCJ0lDt5Mc1Bg_61YqfPQD3bcQ"
+      },
+      "ardriveFiles": {
+        "models": [
+          "008_Hugo_Voxel.fbx",
+          "008_Hugo.fbx",
+          "008_Hugo.vrm",
+          "008_Hugo_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "008_Hugo_thumbnail.gif"
+        ],
+        "textures": [
+          "008_Hugo_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/B8nvqenkiQMEtPgzAT3tXAGd9So2PzXkrVG3qm45-MM"
+  },
+  {
+    "id": "b2204a07-767a-4e75-99c1-b443b92cdf52",
+    "name": "Butter",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 083: Butter",
+    "model_file_url": "https://arweave.net/A6-htjkKLc1zwkKgwBzJDdWwF88r4leGz9KnN66WeX8",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "083",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/gpWYy4xN1br9vevdh1mheY5lOnyGYfOXwh3cUBGhVjA",
+        "fbx": "https://arweave.net/Kbx7DQz-MD71tEFy188qYtWB7LolMiz2WAxeXBzscko",
+        "voxel_vrm": "https://arweave.net/JDUDazDy4-CVMNF2cNAhaL3XWzMwk9gy2bsGj_tBEp8"
+      },
+      "ardriveFiles": {
+        "models": [
+          "083_Butter_Voxel.fbx",
+          "083_Butter.fbx",
+          "083_Butter.vrm",
+          "083_Butter_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "083_Butter_thumbnail.gif"
+        ],
+        "textures": [
+          "083_Butter_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/D1YCiKLyoPhhvOHd5dl-QbbI7kA7_aBzE7Xhz6s6xl0"
+  },
+  {
+    "id": "2e443c20-48ec-455e-936a-55903e58541e",
+    "name": "HorrorNurse",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 041: HorrorNurse",
+    "model_file_url": "https://arweave.net/-0bKfdGsrtYAOdxaLhOkI9suGi9fibAh7d_wwiWd0-M",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "041",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/gkYrNF81NWDnfzNY9DNjZffvtgE9Fs-WD43mI_zwQ0c",
+        "fbx": "https://arweave.net/9lb3_JCtxVGNvTtLPNo1LQ9p702YfDDia88vNartQtU",
+        "voxel_vrm": "https://arweave.net/kZ6qVr3J98kYrX1_dM7Mwk6MsNz-Z2MfPgJYsYcbp-Y"
+      },
+      "ardriveFiles": {
+        "models": [
+          "041_HorrorNurse_Voxel.fbx",
+          "041_HorrorNurse.fbx",
+          "041_HorrorNurse.vrm",
+          "041_HorrorNurse_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "041_HorrorNurse_thumbnail.gif"
+        ],
+        "textures": [
+          "041_HorrorNurse_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/dmwAlGu8_wE8KwfLjATC5EPXa5zPz0ub13o_GwTGAUw"
+  },
+  {
+    "id": "64a9b474-54c4-4a4c-8702-3c8241861fb2",
+    "name": "Scarecrow",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 042: Scarecrow",
+    "model_file_url": "https://arweave.net/cx3fHafcbD9fukDYD7nJjCRlb1DBKZb40uR17GSVgrI",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "042",
+      "series": "R1",
+      "alternateModels": {
+        "fbx": "https://arweave.net/GTmzsTZqSetjrUVnVX9TQ8HuIy0B3Ws_fnaTCbZePxM",
+        "voxel_fbx": "https://arweave.net/bL0TNwOxU8BF40GlC9LwkSGWFKWoyvWXdKqVmw3wKnY",
+        "voxel_vrm": "https://arweave.net/1SyjtyeABbeAj_DY_aGkD3o2LJ4ZGY8l1AeSRhQvq2I"
+      },
+      "ardriveFiles": {
+        "models": [
+          "042_Scarecrow.fbx",
+          "042_Scarecrow_Voxel.fbx",
+          "042_Scarecrow.vrm",
+          "042_Scarecrow_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "042_Scarecrow_thumbnail.gif"
+        ],
+        "textures": [
+          "042_Scarecrow_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/BkM7YdZ9J8DNv3InschJHETzbnVNkUiOMqmqcEWSJYw"
+  },
+  {
+    "id": "26919c37-74d2-4157-9a9c-c34bee639e21",
+    "name": "Mushy",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 025: Mushy",
+    "model_file_url": "https://arweave.net/KNYMbc1rBDNyTabacORmdjtl3erO6HJTVXkQOl1GDrc",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "025",
+      "series": "R1",
+      "alternateModels": {
+        "fbx": "https://arweave.net/R8euvQC2uuUi4JW0eqKaEgO56YLLbgyns2A0FWndubk",
+        "voxel_fbx": "https://arweave.net/P20uJyaMnuvzoE9TcR5dLVM_Xj2xU0qWZGbOyS434m4",
+        "voxel_vrm": "https://arweave.net/Yylpm15cJBF1KGPPcZHn3fnQ3fH_nFHGA63YB-tsCWk"
+      },
+      "ardriveFiles": {
+        "models": [
+          "025_Mushy.fbx",
+          "025_Mushy_Voxel.fbx",
+          "025_Mushy.vrm",
+          "025_Mushy_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "025_Mushy_thumbnail.gif"
+        ],
+        "textures": [
+          "025_Mushy_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/i24V4c12ztEOWFgEYdP-mLY_PGHAEKgpC3LYYpZVSAg"
+  },
+  {
+    "id": "aeea5263-6db6-4834-a6cb-065d035e8d72",
+    "name": "Bacondude",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 066: Bacondude",
+    "model_file_url": "https://arweave.net/EpG7Vg9qiwzIEyhiuVHNm-7ZJS24YDKt7EZJs6qbXdg",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "066",
+      "series": "R1",
+      "alternateModels": {
+        "fbx": "https://arweave.net/VHqBjA4QUFT6FBXfR0KXC7jxUXgPyMJlAsl-duLLM-E",
+        "voxel_fbx": "https://arweave.net/raMIt7AzS6aYktb6Qysgdo3ZNYnLXBBkFzCI_w66ng8",
+        "voxel_vrm": "https://arweave.net/l6Nf3arbI0iyPqyM7DzRwPXFHWM1YcIqzyu73uLaGk0"
+      },
+      "ardriveFiles": {
+        "models": [
+          "066_Bacondude.fbx",
+          "066_Bacondude_Voxel.fbx",
+          "066_Bacondude.vrm",
+          "066_Bacondude_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "066_Bacondude_thumbnail.gif"
+        ],
+        "textures": [
+          "066_Bacondude_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/-uF4ubYRoiCShztyDm2P2Z4pWPQZuzOFEaZNiXUFiy4"
+  },
+  {
+    "id": "beab28de-739d-4407-8c9c-17633a657cc5",
+    "name": "BigBro",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 091: BigBro",
+    "model_file_url": "https://arweave.net/7crmR-srbxx-GwAN-P9_8737cxKoBjV7Ie5tEqS4aXc",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "091",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/3aDd9SCiBSzYK6kQPrkGzM2NjP1GpRK1rU1P2m9zBxE",
+        "fbx": "https://arweave.net/dJowmq1cQlc83sWFzcaCbFxMcpxbsOFPAC1JovjpK8g",
+        "voxel_vrm": "https://arweave.net/Z37Hp_pFOy7uIrMlfmUoo5ps0NYYxW3Yrxv0YD8fxGc"
+      },
+      "ardriveFiles": {
+        "models": [
+          "091_BigBro_Voxel.fbx",
+          "091_BigBro.fbx",
+          "091_BigBro.vrm",
+          "091_BigBro_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "091_BigBro_thumbnail.gif"
+        ],
+        "textures": [
+          "091_BigBro_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/qpaQ3vMJUZZ6GgdlLpySPvPm6D4ZlFTAgEk4AnQIQR4"
+  },
+  {
+    "id": "b4c469c6-07d6-4eba-b887-4396530538c7",
+    "name": "Avocado",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 088: Avocado",
+    "model_file_url": "https://arweave.net/rKxIFDbQcCr2C4qzCG4zktUW1IjBlk8PbYG49ZqbFOE",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "088",
+      "series": "R1",
+      "alternateModels": {
+        "fbx": "https://arweave.net/cgukRE1Ms1TCADgRDOpT_urOCGX9bHNzQUh6WAsShgk",
+        "voxel_fbx": "https://arweave.net/6RgYD6UHFKaiIpv2TKjqHGSx2G1cY-HjLIZm4Bvzft4",
+        "voxel_vrm": "https://arweave.net/bJThOMxb_5UtThi1nXCJ4YYANsLPWwXrIeHCeOx4ovg"
+      },
+      "ardriveFiles": {
+        "models": [
+          "088_Avocado.fbx",
+          "088_Avocado_Voxel.fbx",
+          "088_Avocado.vrm",
+          "088_Avocado_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "088_Avocado_thumbnail.gif"
+        ],
+        "textures": [
+          "088_Avocado_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/tSGRuObxgqX79oefTRp4YcCa5z6QXQ1sIu0uQPOTUaA"
+  },
+  {
+    "id": "fe7a9a69-a98a-4c39-8461-ea876d23a260",
+    "name": "CactusBoy",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 009: CactusBoy",
+    "model_file_url": "https://arweave.net/a8viI5kiNYc1BZLNMhuRVD61My8mC3MJe5hCeQdgMfs",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "009",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/VHLlwLMZvf5qrw8Aj6k06rtwgtVMscuDjKZXe4MbSMs",
+        "fbx": "https://arweave.net/SX7Bh-Yv54634eWCBOrCykunLGdHEbA0ZzyEG3m4ptQ",
+        "voxel_vrm": "https://arweave.net/Duw2dtWhVwFqMD9sr-mW7M5B__sRNSF7TRKPsRJ0zTU"
+      },
+      "ardriveFiles": {
+        "models": [
+          "009_CactusBoy_Voxel.fbx",
+          "009_CactusBoy.fbx",
+          "009_CactusBoy.vrm",
+          "009_CactusBoy_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "009_CactusBoy_thumbnail.gif"
+        ],
+        "textures": [
+          "009_CactusBoy_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/NaYJ4SqWsRWPCEC8JJFQSXE8GSHUVtSrGvNrlIENjf4"
+  },
+  {
+    "id": "540246b8-eba6-4d61-9526-4422df588714",
+    "name": "David",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 047: David",
+    "model_file_url": "https://arweave.net/H3cBhsOEoiQ8XZiwG31SyCUtiDewBZRccxIDztyHfSY",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "047",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/SspU5zxwzuFZ0CKpfUG-PAovL6YK0z-C7u8eb02n9A0",
+        "voxel_vrm": "https://arweave.net/xzVjgbHuvY5i9EUBz7uC4Dh5lGEb9gTn5zQ3DajAbfc",
+        "fbx": "https://arweave.net/7MLkLfldUMr3LcNPyPiYCNKuggMYPXZOuGW1kT0Nacw"
+      },
+      "ardriveFiles": {
+        "models": [
+          "047_David_Voxel.fbx",
+          "047_David.vrm",
+          "047_David_Voxel.vrm",
+          "047_David.fbx"
+        ],
+        "thumbnails": [
+          "047_David_thumbnail.gif"
+        ],
+        "textures": [
+          "047_David_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/QNxPdQp-_ZN0KTNCCpVjD-XZi2-528NGvTH31qIkxU0"
+  },
+  {
+    "id": "0cfef0e0-227b-49d2-9b37-2601f23aa955",
+    "name": "CandyCane",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 095: CandyCane",
+    "model_file_url": "https://arweave.net/0clQqWP5Ivl8UcxT3_42GLv9-NXNMpTrBaBVQBRAmv4",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "095",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/tX6cQD5zcTKJZNcnb8et-PxFBX2mIGxxkcKY55u_Svg",
+        "fbx": "https://arweave.net/IhlSOEqd3ZVQF1HpLT05qtPVOZs6LyYI5MtS2p21iaE",
+        "voxel_vrm": "https://arweave.net/F5KGsVhEF9TW-eSgeO6liOmm1SJ3ECMZJdv7wJaDR60"
+      },
+      "ardriveFiles": {
+        "models": [
+          "095_CandyCane_Voxel.fbx",
+          "095_CandyCane.fbx",
+          "095_CandyCane.vrm",
+          "095_CandyCane_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "095_CandyCane_thumbnail.gif"
+        ],
+        "textures": [
+          "095_CandyCane_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/zbXj5aw9mAqWkS_NcaV1UZxnMTV7qJX5D5Pla3p814o"
+  },
+  {
+    "id": "8f5f1090-66cf-4aeb-bf24-2a0da3d80676",
+    "name": "Franky",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 033: Franky",
+    "model_file_url": "https://arweave.net/fjqAvKlSAakAmFbblSdvBnA09GpwFl9xrGdeCdEfP_g",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "033",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/R3JrVy6BZshcEyWSCS9Fm1aQm6mW_7sDZlqEP6C6ldc",
+        "fbx": "https://arweave.net/kKb4U9e5uIFU-T5zeJVGPjauDIP1Z7DRvJtuAjR_AOk",
+        "voxel_vrm": "https://arweave.net/dEFbtTQHcnY3LSZS9AsMD_QZ4LcZvcOcp_KhWrd4i-8"
+      },
+      "ardriveFiles": {
+        "models": [
+          "033_Franky_Voxel.fbx",
+          "033_Franky.fbx",
+          "033_Franky.vrm",
+          "033_Franky_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "033_Franky_thumbnail.gif"
+        ],
+        "textures": [
+          "033_Franky_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/evnv_aq40qPlbm-xNIKAuLuDYBpbarF2ZyAcXifNVPw"
+  },
+  {
+    "id": "d1ba4803-413f-452e-9d62-1a6e37c59f60",
+    "name": "WireFriend",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 022: WireFriend",
+    "model_file_url": "https://arweave.net/W897b2tkHB_NulVq2Rwn4ER_MSz8CD62oT9Zvr1VHDA",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "022",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/JQcXlg8HB9NFjSrhQNAaGb5YAr5qmipHhlFQLSiC6tE",
+        "fbx": "https://arweave.net/b3qMnNojGsGZyWkqa1QcZdKt7s7hrPMxBtkfv8VvPOk",
+        "voxel_vrm": "https://arweave.net/XvY4YV9lJXUwtgcghVZ3bmdysPoA9oTH-es_DMwxRoY"
+      },
+      "ardriveFiles": {
+        "models": [
+          "022_WireFriend_Voxel.fbx",
+          "022_WireFriend.fbx",
+          "022_WireFriend.vrm",
+          "022_WireFriend_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "022_WireFriend_thumbnail.gif"
+        ],
+        "textures": [
+          "022_WireFriend_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/mZBduz1muoINfHXY9_9pLL64AhwVUokReasecq4B5eA"
+  },
+  {
+    "id": "4c3942d1-6b67-434f-889c-138c81f7d79e",
+    "name": "Crimsom",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 001: Crimsom",
+    "model_file_url": "https://arweave.net/DUHQfXxfFPjlMzBoCyYD0Kuz7vwD7eZkT-9eOIJByzY",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "001",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/Sa3BtBp4conCNxq3fJh9s5zTel62UGSDmOdsPKORPRE",
+        "fbx": "https://arweave.net/NE0CQE2CiSDdiCtnVvEt3OhwEm9VxjYR1VUdNWWNr70",
+        "voxel_vrm": "https://arweave.net/4OcAZ0WyWxEz-kwMO0bqMaCAZKGCxVN3Lfdc0nTkxg0"
+      },
+      "ardriveFiles": {
+        "models": [
+          "001_Crimsom_Voxel.fbx",
+          "001_Crimsom.fbx",
+          "001_Crimsom.vrm",
+          "001_Crimsom_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "001_Crimsom_thumbnail.gif"
+        ],
+        "textures": [
+          "001_Crimsom_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/sTBkCTk1gyMaLZoqnm-98pUiDCq72D26aCEClOx_PEs"
+  },
+  {
+    "id": "fe81a7ff-287d-4b97-8e81-3a5a72016294",
+    "name": "Confirmed",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 064: Confirmed",
+    "model_file_url": "https://arweave.net/j_EKBbW5kREwZiktSMKExaijt8mtjIJLbI_dKqVX7_8",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "064",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/fOyy3jCkXehYuMIOCW7j5ojPlW714Lf9gWB527T9FDQ",
+        "voxel_vrm": "https://arweave.net/95IynMQtyHaM7el-ZnJrJXl1YJASTlyzpCYQfg9NHXo",
+        "fbx": "https://arweave.net/yuPGbLt18d0IhT1_bsg_H0meg6bJTXGpigURcEji9Iw"
+      },
+      "ardriveFiles": {
+        "models": [
+          "064_Confirmed_Voxel.fbx",
+          "064_Confirmed_Voxel.vrm",
+          "064_Confirmed.vrm",
+          "064_Confirmed.fbx"
+        ],
+        "thumbnails": [
+          "064_Confirmed_thumbnail.gif"
+        ],
+        "textures": [
+          "064_Confirmed_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/tnZ6exmqDJ6-Ssg071L7WkSOnkw-MpYklpAqhTx3pPQ"
+  },
+  {
+    "id": "c8ba0374-dc84-4a4e-8a36-1b92f509b4b0",
+    "name": "Wambo",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 020: Wambo",
+    "model_file_url": "https://arweave.net/Z3ixNUKHWV4ur7FBk5wAOYmQgAbsx0vnU0XlNEJgK90",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "020",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/Z14UDD7gRGtUCbxXPw7rZzTHtboXBjmmIHS9XciN5RQ",
+        "voxel_vrm": "https://arweave.net/bgjxTMkRpiEbfQsZiluwKsU62o71TkRj4rgCNlYUKF0",
+        "fbx": "https://arweave.net/U7diBBZwuJyaRutXm8-tLYmFTteGEZ3OfGecgK371Ds"
+      },
+      "ardriveFiles": {
+        "models": [
+          "020_Wambo_Voxel.fbx",
+          "020_Wambo.vrm",
+          "020_Wambo_Voxel.vrm",
+          "020_Wambo.fbx"
+        ],
+        "thumbnails": [
+          "020_Wambo_thumbnail.gif"
+        ],
+        "textures": [
+          "020_Wambo_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/R9i_5jGQ02s003KB9bHDiYyiyGqOuO2U9ob7ES31u_U"
+  },
+  {
+    "id": "4877abd5-b8f5-4f06-a24d-b6006834f330",
+    "name": "Toothpaste",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 081: Toothpaste",
+    "model_file_url": "https://arweave.net/A5L5mRZbyQoLveZt8sFFiepEdd3A1VbB-yTlltq2lP8",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "081",
+      "series": "R1",
+      "alternateModels": {
+        "fbx": "https://arweave.net/ZBZkuqc1g9jOLGM4FU3eWGb9A7XXmqDGfTfR3OLmCOM",
+        "voxel_fbx": "https://arweave.net/cpldJaob6F8BXgrkejB2VZtD0TuIi0cnNdN1Wr0bT8Q",
+        "voxel_vrm": "https://arweave.net/lqG7oFldVbRW58fcnLtw1ny-DntdZXqeoh2IxqrKzdk"
+      },
+      "ardriveFiles": {
+        "models": [
+          "081_Toothpaste.fbx",
+          "081_Toothpaste_Voxel.fbx",
+          "081_Toothpaste.vrm",
+          "081_Toothpaste_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "081_Toothpaste_thumbnail.gif"
+        ],
+        "textures": [
+          "081_Toothpaste_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/fV5ZWfBSozq_frCKP2W6Ei7993JaTghLYSGzelYyxBk"
+  },
+  {
+    "id": "d2db8a59-012a-461c-9e45-0db040025ec4",
+    "name": "WeirdFlexButOk",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 077: WeirdFlexButOk",
+    "model_file_url": "https://arweave.net/SLR0PvjqsNa3K_Mj9hXYFdA6v0tn92tZuhDShd2ggaI",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "077",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/mLNHcJxxCo89C7tkM4iCj4O9_dGWUHvIdPcNkgAG8pc",
+        "fbx": "https://arweave.net/8lFoz58HkW1agXhEdBMY_iJ-9GtDZ--ATUEPALme-TI",
+        "voxel_vrm": "https://arweave.net/c4rkoZyJWv33VLbk02f5DPvsaCoweW23Ob9ayQsY6lM"
+      },
+      "ardriveFiles": {
+        "models": [
+          "077_WeirdFlexButOk_Voxel.fbx",
+          "077_WeirdFlexButOk.fbx",
+          "077_WeirdFlexButOk.vrm",
+          "077_WeirdFlexButOk_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "077_WeirdFlexButOk_thumbnail.gif"
+        ],
+        "textures": [
+          "077_WeirdFlexButOk_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/PpNTLLU8o_aXuWtmSakIB0lgDsXf-Dmq99am8FY0huo"
+  },
+  {
+    "id": "44bc039f-2309-4822-bb7e-0d0d88df523d",
+    "name": "Cubiq",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 063: Cubiq",
+    "model_file_url": "https://arweave.net/uSxcgRAzAfy_-5UecafH4_Ep-WkFTord23z3sQ84dTo",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "063",
+      "series": "R1",
+      "alternateModels": {
+        "voxel_fbx": "https://arweave.net/O5ru6eRCev2OhXsF3tQltL2aju7lfxzHlMFYKzHg_w0",
+        "fbx": "https://arweave.net/LGpCV5Dxx8r2LmGbgY-sasd_E9-oK3O66rUfjmDUMyg",
+        "voxel_vrm": "https://arweave.net/nQ0UAqiEGomjA2I3aMlSnN6vjA_FCAKQLIwvYYthDFU"
+      },
+      "ardriveFiles": {
+        "models": [
+          "063_Cubiq_Voxel.fbx",
+          "063_Cubiq.fbx",
+          "063_Cubiq.vrm",
+          "063_Cubiq_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "063_Cubiq_thumbnail.gif"
+        ],
+        "textures": [
+          "063_Cubiq_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/Q0Caq5yVgyAw1WdzgAjcNfYvkqUGZe9SKj-Svb_CzFU"
+  },
+  {
+    "id": "58eea2bf-85db-4e1a-998c-6bf601f40910",
+    "name": "Mint",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 013: Mint",
+    "model_file_url": "https://arweave.net/gI9WgoQpjVwk-FmZg3oh2Uo_kreYrfOvjIrE_9JjL4o",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "013",
+      "series": "R1",
+      "alternateModels": {
+        "fbx": "https://arweave.net/e8rxwfJjun62PLdVbW5QBNW-zM-DGzXdYrjfK28C9q4",
+        "voxel_fbx": "https://arweave.net/PzyAqENmxt4wRto0COYCYK06TjaEzoOwxzQEH9m4IuI",
+        "voxel_vrm": "https://arweave.net/eZ16vwtpOezZ23hFBGAl8jzZxKRhUs7Veu4Ka2eSH2U"
+      },
+      "ardriveFiles": {
+        "models": [
+          "013_Mint.fbx",
+          "013_Mint_Voxel.fbx",
+          "013_Mint.vrm",
+          "013_Mint_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "013_Mint_thumbnail.gif"
+        ],
+        "textures": [
+          "013_Mint_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/XJINAoLE7fGHPcl72qSYTuH0q6Iz1f74R9rtfMk_t4I"
+  },
+  {
+    "id": "a07005b6-5df0-4657-b428-2514f175894e",
+    "name": "Pumpkin",
+    "project_id": "7dd289fc-c98a-4224-a5a7-74a9aef751a8",
+    "description": "Avatar 016: Pumpkin",
+    "model_file_url": "https://arweave.net/f9dR81jI8dmPEm2jFcKEL3y5dtdq7fUwUmPUNrEFLu4",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.490Z",
+    "updated_at": "2025-03-11T16:41:51.490Z",
+    "metadata": {
+      "number": "016",
+      "series": "R1",
+      "alternateModels": {
+        "fbx": "https://arweave.net/lnZ1X_azVhdyjYHvR5zTPpBQYYIuGgJRgdWa_vxvSVM",
+        "voxel_fbx": "https://arweave.net/2jOrCNoBXjytdM-pgH5HYzA3pHhfwo6wDZlUkuea_bQ",
+        "voxel_vrm": "https://arweave.net/y17bYY-if9uaIlxhK1TsxdPTH-PC-wcGletwkADlSTQ"
+      },
+      "ardriveFiles": {
+        "models": [
+          "016_Pumpkin.fbx",
+          "016_Pumpkin_Voxel.fbx",
+          "016_Pumpkin.vrm",
+          "016_Pumpkin_Voxel.vrm"
+        ],
+        "thumbnails": [
+          "016_Pumpkin_thumbnail.gif"
+        ],
+        "textures": [
+          "016_Pumpkin_Voxel_Texture.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/Owz0eyYBZclcS4F2DEpjaYVYCn3aLaJQJivKxcljyQk"
+  }
+]

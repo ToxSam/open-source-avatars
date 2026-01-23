@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "fcd73da7-6c89-46fe-8467-3eb4873248fa",
+    "name": "CoolTiger",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 283: CoolTiger",
+    "model_file_url": "https://arweave.net/2EQ5wsstsJaFOG9LXq_gVFKKgM8bnfPa3axYJ-VS1ug",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "283",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "283_CoolTiger.vrm"
+        ],
+        "thumbnails": [
+          "283_CoolTiger_Icon.png",
+          "283_CoolTiger_FullBody.png"
+        ],
+        "textures": [
+          "283_CoolTiger_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/ykIvWqlTvC66lekANOqTgr7bqujwgOqrlmSzzLHhkJw"
+  },
+  {
+    "id": "27a62fa6-d1c8-4505-998b-e07e3e135187",
+    "name": "Jenny",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 281: Jenny",
+    "model_file_url": "https://arweave.net/kgTirc4OvUWbJhIKC2CB3_pYsYuB62KTj90IdE8s3sk",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "281",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "281_Jenny.vrm"
+        ],
+        "thumbnails": [
+          "281_Jenny_Icon.png",
+          "281_Jenny_FullBody.png"
+        ],
+        "textures": [
+          "281_Jenny_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/4a6_AfH-PHvFMXqja7V42pF9hCn9ceIj5z5NAsK2SSs"
+  },
+  {
+    "id": "1dff88a2-f853-4c72-954f-6bc9badc7171",
+    "name": "WeirdCat",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 227: WeirdCat",
+    "model_file_url": "https://arweave.net/pPaWwgWt8Gu7hJyHo_wG45lxPVV8ka8zBJJKSQD8Ngs",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "227",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "227_WeirdCat.vrm"
+        ],
+        "thumbnails": [
+          "227_WeirdCat_Icon.png",
+          "227_WeirdCat_FullBody.png"
+        ],
+        "textures": [
+          "227_WeirdCat_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/pcyGmQz5zpR89iNtIdeyVd0_hOFbenA8u8Eedt6YAoY"
+  },
+  {
+    "id": "cf118095-0c9a-4c13-9bfd-b6d7045ea34d",
+    "name": "PetalDude",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 244: PetalDude",
+    "model_file_url": "https://arweave.net/IUrUx8QMcaZDWLSOPWz8UiM5bq-sR3dXAQwwmIeiOBE",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "244",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "244_PetalDude.vrm"
+        ],
+        "thumbnails": [
+          "244_PetalDude_Icon.png",
+          "244_PetalDude_FullBody.png"
+        ],
+        "textures": [
+          "244_PetalDude_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/rCNiCp4lKqER0apNMjGNNWgbexhlWip2mmpuXXfDZUg"
+  },
+  {
+    "id": "812c9c6a-0100-49f9-9ea8-0aa511d5c306",
+    "name": "StonksReporter",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 247: StonksReporter",
+    "model_file_url": "https://arweave.net/EgFSDc6Kbh0lrNWARVqwg7PxqrxfK1wluuxzLWFsNLM",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "247",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "247_StonksReporter.vrm"
+        ],
+        "thumbnails": [
+          "247_StonksReporter_FullBody.png",
+          "247_StonksReporter_Icon.png"
+        ],
+        "textures": [
+          "247_StonksReporter_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/0VsRdsr7PfqXsAYDalexeU6f87DB5fHD3FOjKv2fCSM"
+  },
+  {
+    "id": "4d6482f6-541c-4aab-98d7-8021eff445e9",
+    "name": "PitcherDude",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 273: PitcherDude",
+    "model_file_url": "https://arweave.net/x5nj6rhSvNnEIFGo7UDuL_HyNpPDD3xPhRJtzrRG6Po",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "273",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "273_PitcherDude.vrm"
+        ],
+        "thumbnails": [
+          "273_PitcherDude_FullBody.png",
+          "273_PitcherDude_Icon.png"
+        ],
+        "textures": [
+          "273_PitcherDude_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/yGKzU0LxaEZ-3PUtpitD_fu1G6LiYRKuzzd10v1P3S8"
+  },
+  {
+    "id": "4d79d1a4-b248-4b32-afb7-ebb71174906e",
+    "name": "BaoSamurai",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 209: BaoSamurai",
+    "model_file_url": "https://arweave.net/wmTy-SEXxmlp847i1U1m2GziSGp-4T8qrZ77A32LlY8",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "209",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "209_BaoSamurai.vrm"
+        ],
+        "thumbnails": [
+          "209_BaoSamurai_FullBody.png",
+          "209_BaoSamurai_Icon.png"
+        ],
+        "textures": [
+          "209_BaoSamurai_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/L0jvuJwteYJ6QI66tTi_yRJKUS_v6xKV-LZxwEd0iYU"
+  },
+  {
+    "id": "2b0813c7-854a-475c-a1f4-967440f286dd",
+    "name": "SnailKid",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 293: SnailKid",
+    "model_file_url": "https://arweave.net/K6205Pm4AlC-S_QCOD4V4AaCqf6zqZfG5YQdt1ejNRs",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "293",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "293_SnailKid.vrm"
+        ],
+        "thumbnails": [
+          "293_SnailKid_Icon.png",
+          "293_SnailKid_FullBody.png"
+        ],
+        "textures": [
+          "293_SnailKid_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/ZrKhsLHpajITfbat5kCfbSj0qesD5io41ni8i91HGj8"
+  },
+  {
+    "id": "5413c80b-8017-4168-bb1e-dcba99256f98",
+    "name": "DogoBurger",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 266: DogoBurger",
+    "model_file_url": "https://arweave.net/qKrAwFf60cT1348kvQc7S5Nzn3fO0aNvJ8ybMx5Lu04",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "266",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "266_DogoBurger.vrm"
+        ],
+        "thumbnails": [
+          "266_DogoBurger_Icon.png",
+          "266_DogoBurger_FullBody.png"
+        ],
+        "textures": [
+          "266_DogoBurger_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/ACJ5aRaOVmhhcXsqpgdm7lkSeHXqK6vXZCX67mwNoec"
+  },
+  {
+    "id": "24f4407f-55d4-4765-bdce-5de065c2cd3e",
+    "name": "SnakeBot",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 212: SnakeBot",
+    "model_file_url": "https://arweave.net/fzLqHKoPkSWHAg5cPUjqDGrg50jzh7b3UVzs83hd6DU",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "212",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "212_SnakeBot.vrm"
+        ],
+        "thumbnails": [
+          "212_SnakeBot_Icon.png",
+          "212_SnakeBot_FullBody.png"
+        ],
+        "textures": [
+          "212_SnakeBot_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/0LA8uy35ccFiqME5oavKQ1X1T3jVfJ1dWUxAOOPQmMg"
+  },
+  {
+    "id": "c8398931-9243-4778-aa9c-4729f0925b03",
+    "name": "LeafBoy",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 248: LeafBoy",
+    "model_file_url": "https://arweave.net/U-506llBsdnnXn3uslKggDw5Qt-sdDlQAY4KLKvZsuU",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "248",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "248_LeafBoy.vrm"
+        ],
+        "thumbnails": [
+          "248_LeafBoy_FullBody.png",
+          "248_LeafBoy_Icon.png"
+        ],
+        "textures": [
+          "248_LeafBoy_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/ETEjeooyYc4NSqAxMskRz8rmwmto1AzGtPHSRWXSyHc"
+  },
+  {
+    "id": "97f06e78-7ffc-4cb4-972d-316e7632bbc4",
+    "name": "EvilPendra",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 259: EvilPendra",
+    "model_file_url": "https://arweave.net/bpgbtgi23JECF3VkU-F-DpzNbYhX_VNDVgRGYCb2lY8",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "259",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "259_EvilPendra.vrm"
+        ],
+        "thumbnails": [
+          "259_EvilPendra_Icon.png",
+          "259_EvilPendra_FullBody.png"
+        ],
+        "textures": [
+          "259_EvilPendra_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/Yj4JUUXTXyqBJvPUOjzmdxHwXLJ5WUGc1LXRXBuIjxs"
+  },
+  {
+    "id": "5bcf9b1f-1865-462f-86bc-44a485e5dfdc",
+    "name": "BeachKing",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 234: BeachKing",
+    "model_file_url": "https://arweave.net/uKhDMselhdUyeJKjelpuVsL8s-a9v_Wqq75TQfCfnos",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "234",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "234_BeachKing.vrm"
+        ],
+        "thumbnails": [
+          "234_BeachKing_FullBody.png",
+          "234_BeachKing_Icon.png"
+        ],
+        "textures": [
+          "234_BeachKing_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/EGCdxkfTjjmNS4RGiAT_or17mG3717qnZ7R1EnZxLg8"
+  },
+  {
+    "id": "3d3b5747-44a9-452f-96e1-eef7740a3bff",
+    "name": "BotBunny",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 297: BotBunny",
+    "model_file_url": "https://arweave.net/4aox7v4AJVWR5oVxIMcqHbreKDDDHFnePhhPpVwkqnc",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "297",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "297_BotBunny.vrm"
+        ],
+        "thumbnails": [
+          "297_BotBunny_Icon.png",
+          "297_BotBunny_FullBody.png"
+        ],
+        "textures": [
+          "297_BotBunny_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/C_FHoVEdlCdGZHEGDXzV_i5D-BPfE7djIid2989z4wk"
+  },
+  {
+    "id": "8467a91e-5d8f-43c3-9c9a-18941c4b4b4a",
+    "name": "ToxicGuy",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 235: ToxicGuy",
+    "model_file_url": "https://arweave.net/8a-3jL8BU_Nxy3qQyNQoc0xKqpXcf2V0KtxQsgyFcLg",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "235",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "235_ToxicGuy.vrm"
+        ],
+        "thumbnails": [
+          "235_ToxicGuy_Icon.png",
+          "235_ToxicGuy_FullBody.png"
+        ],
+        "textures": [
+          "235_ToxicGuy_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/L0LZ_Ggq1et1qffTChcEf0YaBW6SD_lnYtovmAKquDU"
+  },
+  {
+    "id": "54a80dd6-c629-4206-8ffc-fe0f0ef271a0",
+    "name": "Juanita",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 252: Juanita",
+    "model_file_url": "https://arweave.net/nyMyZZx5lN2DXsmBgbGQSnt3PuXYN7AAjz9QJrjitLo",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "252",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "252_Juanita.vrm"
+        ],
+        "thumbnails": [
+          "252_Juanita_FullBody.png",
+          "252_Juanita_Icon.png"
+        ],
+        "textures": [
+          "252_Juanita_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/5RHeIXD9fezkpuFJS1TRtGkNIVfTKZP7Rkmh9pDmaTs"
+  },
+  {
+    "id": "65923be1-9f21-4907-a606-a7d57baa0821",
+    "name": "Psichonaut",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 210: Psichonaut",
+    "model_file_url": "https://arweave.net/k5VyFaeU0FicUnP0NE0FFeVClZfICdEiz1C9-CCNYkk",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "210",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "210_Psichonaut.vrm"
+        ],
+        "thumbnails": [
+          "210_Psichonaut_Icon.png",
+          "210_Psichonaut_FullBody.png"
+        ],
+        "textures": [
+          "210_Psichonaut_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/iebf1Z4z6mOHXeRZC1r7X4hSdmIZoncYqE_Xnbbe8YE"
+  },
+  {
+    "id": "11f787e7-28d6-49a0-bf7d-693a3b48f232",
+    "name": "SportTV",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 298: SportTV",
+    "model_file_url": "https://arweave.net/ISYr7xBXT_s4tLddbhFB3PpUhWg-H_BYs2UZhVLF1hA",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "298",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "298_SportTV.vrm"
+        ],
+        "thumbnails": [
+          "298_SportTV_FullBody.png",
+          "298_SportTV_Icon.png"
+        ],
+        "textures": [
+          "298_SportTV_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/_Qic8KV5P5mo5wJ2N3lbqX0iGVxtVDn4CxCUiM5-Qcg"
+  },
+  {
+    "id": "966f2787-64e3-4489-9c22-e29a7f3188f6",
+    "name": "CoolCroissant",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 256: CoolCroissant",
+    "model_file_url": "https://arweave.net/_LU7wiRSosMIxex6HPj5HP2pc0zYgg1MxgPpOOiHrLg",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "256",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "256_CoolCroissant.vrm"
+        ],
+        "thumbnails": [
+          "256_CoolCroissant_FullBody.png",
+          "256_CoolCroissant_Icon.png"
+        ],
+        "textures": [
+          "256_CoolCroissant_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/gDb-H8HgG-fX5v57e_ss8HLBgRppD9BzaXfhzqfCu-o"
+  },
+  {
+    "id": "a1e071e0-f9c9-4e77-b4b2-831a1784812d",
+    "name": "PirateBot",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 207: PirateBot",
+    "model_file_url": "https://arweave.net/f6VUW6sCyJcjErrBWSu_MVlYMkmAx5CRpyNGedUNxHM",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "207",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "207_PirateBot.vrm"
+        ],
+        "thumbnails": [
+          "207_PirateBot_Icon.png",
+          "207_PirateBot_FullBody.png"
+        ],
+        "textures": [
+          "207_PirateBot_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/Ux83EJOk2ZN8QkhsdKm9kjkd_foX8Wmek5wBfJJWTr0"
+  },
+  {
+    "id": "4cfd7776-ee83-4e4f-860d-f8b586ac0224",
+    "name": "GoatGhost",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 221: GoatGhost",
+    "model_file_url": "https://arweave.net/cedA3Is8tZhL86D0Bq5JGVMXtFQXdmqY-xLcd_CuhNY",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "221",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "221_GoatGhost.vrm"
+        ],
+        "thumbnails": [
+          "221_GoatGhost_Icon.png",
+          "221_GoatGhost_FullBody.png"
+        ],
+        "textures": [
+          "221_GoatGhost_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/2ftMOX6ZVqqqfbnTAJnFpRvR2_NAC9vhZkbIHq6gTk8"
+  },
+  {
+    "id": "4531fbf8-0569-4e7a-bc94-95954fd2e67f",
+    "name": "CoolUdon",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 245: CoolUdon",
+    "model_file_url": "https://arweave.net/-ZmZDpcrrc8o5mc1sTclqfznHxpdUolfnwe6_TTRHT0",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "245",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "245_CoolUdon.vrm"
+        ],
+        "thumbnails": [
+          "245_CoolUdon_Icon.png",
+          "245_CoolUdon_FullBody.png"
+        ],
+        "textures": [
+          "245_CoolUdon_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/m1blVRvQ5MBwSuVZQCMVOyGKwUuiOMJrhGZmTXB9OPA"
+  },
+  {
+    "id": "46dcd439-e8b8-4cff-97b1-11aed72d0621",
+    "name": "LadyKoi",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 255: LadyKoi",
+    "model_file_url": "https://arweave.net/t3aTp6AhxfdLcq5I3HZx29wK8MFQGmDC9wPwXrHQoW0",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "255",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "255_LadyKoi.vrm"
+        ],
+        "thumbnails": [
+          "255_LadyKoi_FullBody.png",
+          "255_LadyKoi_Icon.png"
+        ],
+        "textures": [
+          "255_LadyKoi_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/9Whp1HAubA9UjT0Bvq1d-M2QD-XOT_U2tvr3xNqHcME"
+  },
+  {
+    "id": "157a7341-d652-475c-9e86-dbf036c08b1e",
+    "name": "CherryBros",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 240: CherryBros",
+    "model_file_url": "https://arweave.net/0o1sL5UKrtgVpAGeRhbNRR55n3WlTgd0t9sGRXwJnw8",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "240",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "240_CherryBros.vrm"
+        ],
+        "thumbnails": [
+          "240_CherryBros_Icon.png",
+          "240_CherryBros_FullBody.png"
+        ],
+        "textures": [
+          "240_CherryBros_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/EJmcKb0OBj6y7VlNnUAJ9IFSAeGrDJ43Fn7Kz37ryG0"
+  },
+  {
+    "id": "abb834ce-86b0-410c-9f05-639fd367837a",
+    "name": "CoolBomb",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 236: CoolBomb",
+    "model_file_url": "https://arweave.net/UCr970KVI0DoEqG8BvCkWPthB-jTk8wXaObPUI-H-EI",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "236",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "236_CoolBomb.vrm"
+        ],
+        "thumbnails": [
+          "236_CoolBomb_Icon.png",
+          "236_CoolBomb_FullBody.png"
+        ],
+        "textures": [
+          "236_CoolBomb_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/BB1fSsUF2MJUaz5h7V7-SzjNDBKGJhLhB46o107pDSI"
+  },
+  {
+    "id": "c4b17286-7dc6-4ec0-9375-b875de22dae3",
+    "name": "GoodKnight",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 202: GoodKnight",
+    "model_file_url": "https://arweave.net/GssJhnk0HJsS6u3ZNN6fTk4TEL7g4AbVGoCztUgjAu0",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "202",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "202_GoodKnight.vrm"
+        ],
+        "thumbnails": [
+          "202_GoodKnight_Icon.png",
+          "202_GoodKnight_FullBody.png"
+        ],
+        "textures": [
+          "202_GoodKnight_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/0WM_fXQMgOIjmeHgFOSDxbrI454sfJE4-kMrJIf-aBk"
+  },
+  {
+    "id": "37100d1d-8f7e-4eb7-8fdd-dab267523468",
+    "name": "CoolWaffle",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 224: CoolWaffle",
+    "model_file_url": "https://arweave.net/ZnGFTLeAlRG1RuSMpt9s7sSQ6I3lzd40PDqUxYYvwCE",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "224",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "224_CoolWaffle.vrm"
+        ],
+        "thumbnails": [
+          "224_CoolWaffle_Icon.png",
+          "224_CoolWaffle_FullBody.png"
+        ],
+        "textures": [
+          "224_CoolWaffle_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/gU37oosBGgUclqnOEMT0eA88G4EThu4BXNH4182-Bew"
+  },
+  {
+    "id": "a9655360-a911-4b50-9280-5ea2e558df8c",
+    "name": "LilTeddy",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 277: LilTeddy",
+    "model_file_url": "https://arweave.net/-3bfp6YgXDn6Qb5u463PFouqbsBzcceFKY57WU6Z-xM",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "277",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "277_LilTeddy.vrm"
+        ],
+        "thumbnails": [
+          "277_LilTeddy_FullBody.png",
+          "277_LilTeddy_Icon.png"
+        ],
+        "textures": [
+          "277_LilTeddy_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/a_g9g73fqYBw50dcO5H7zDLtcBnxzFWDkXRbLg681r8"
+  },
+  {
+    "id": "06171444-8e64-4bb2-b42f-047b52be7bcd",
+    "name": "CoolCyclops",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 258: CoolCyclops",
+    "model_file_url": "https://arweave.net/dVZVjP1on9_PCNJW5BT5c2-zorD9G2vlZ3HeEdDutmU",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "258",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "258_CoolCyclops.vrm"
+        ],
+        "thumbnails": [
+          "258_CoolCyclops_Icon.png",
+          "258_CoolCyclops_FullBody.png"
+        ],
+        "textures": [
+          "258_CoolCyclops_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/lAs7zac83RhzK1z47XQaUrQCsrR3_DWJ6mlYU06rnmg"
+  },
+  {
+    "id": "1002de97-039a-47ac-92a5-86ccab9046e0",
+    "name": "LilRam",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 285: LilRam",
+    "model_file_url": "https://arweave.net/_eI-DUur3aGVxAulG0nYICJ1TflufnEiwN9keLmEIXE",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "285",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "285_LilRam.vrm"
+        ],
+        "thumbnails": [
+          "285_LilRam_Icon.png",
+          "285_LilRam_FullBody.png"
+        ],
+        "textures": [
+          "285_LilRam_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/rfTb2rXwIjDC_fDMq9oEuRUSkvWP3vpH5i-5P-5bfeQ"
+  },
+  {
+    "id": "bf5fb574-fd21-47d7-a4ae-6ea8d2ed3339",
+    "name": "BrainDude",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 299: BrainDude",
+    "model_file_url": "https://arweave.net/DorgAeeb3W73JVFCEfrllDoRbxzOCuvsOvarZSc-iV8",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "299",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "299_BrainDude.vrm"
+        ],
+        "thumbnails": [
+          "299_BrainDude_Icon.png",
+          "299_BrainDude_FullBody.png"
+        ],
+        "textures": [
+          "299_BrainDude_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/OMnrpcIef41fndk_lTMAsrmio9Vb7-wryd8b6INsQTU"
+  },
+  {
+    "id": "5880cdd6-ca5f-4e04-ad3f-187ce5612271",
+    "name": "Ranchu",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 288: Ranchu",
+    "model_file_url": "https://arweave.net/8X5rbty2z91hlPByVkLIRTS9pxMyZc6KXOsHdQARUiU",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "288",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "288_Ranchu.vrm"
+        ],
+        "thumbnails": [
+          "288_Ranchu_Icon.png",
+          "288_Ranchu_FullBody.png"
+        ],
+        "textures": [
+          "288_Ranchu_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/gcpUfgSP0VSon2sIJeieqDhD39BSD6cPCfPMB2Nili4"
+  },
+  {
+    "id": "0c5d4dbf-1ac3-4f67-b763-f108eaf5c353",
+    "name": "MushroomFairy",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 220: MushroomFairy",
+    "model_file_url": "https://arweave.net/ULlu6wg-zCwLokTXxbXzFlJzugVW_yp2pssEKJbvwx8",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "220",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "220_MushroomFairy.vrm"
+        ],
+        "thumbnails": [
+          "220_MushroomFairy_Icon.png",
+          "220_MushroomFairy_FullBody.png"
+        ],
+        "textures": [
+          "220_MushroomFairy_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/TW9dlMBYAo8nVMSaqQXf5Zzh1ntZ572fW_OgOQowckM"
+  },
+  {
+    "id": "e3a8379b-6f52-4133-9c07-534ddbcfb72f",
+    "name": "Two-Tails",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 284: Two-Tails",
+    "model_file_url": "https://arweave.net/JE2Ix9bF-9x6r4ovLKsgMoNf6QJQf_NbmTLSq9Hp_OM",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "284",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "284_Two-Tails.vrm"
+        ],
+        "thumbnails": [
+          "284_Two-Tails_Icon.png",
+          "284_Two-Tails_FullBody.png"
+        ],
+        "textures": [
+          "284_Two-Tails_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/jqMh-TpnpIDlC3UtLQnaSJAUhOj77qWVsXEq3h5MFYU"
+  },
+  {
+    "id": "bc8391ee-5b3d-4c75-b7ad-6fe5fd46f5d7",
+    "name": "Blob",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 238: Blob",
+    "model_file_url": "https://arweave.net/rEZ1Guj30FACK2jqZ3hPsd6tDBrka2Ws2qmT8xZ1skk",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "238",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "238_Blob.vrm"
+        ],
+        "thumbnails": [
+          "238_Blob_Icon.png",
+          "238_Blob_FullBody.png"
+        ],
+        "textures": [
+          "238_Blob_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/1YgZYjRutHRzInidi53vPrswmosk3QOKSq1Q2_tJ0SA"
+  },
+  {
+    "id": "61022f67-d4a8-4cab-8613-c1b06282473a",
+    "name": "CoolSnake",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 268: CoolSnake",
+    "model_file_url": "https://arweave.net/GAAQYRWWqjn1dYYC8EU47yhT1CKGIjydeJgzVjq4oJo",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "268",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "268_CoolSnake.vrm"
+        ],
+        "thumbnails": [
+          "268_CoolSnake_FullBody.png",
+          "268_CoolSnake_Icon.png"
+        ],
+        "textures": [
+          "268_CoolSnake_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/qtsS25rJZP1mQqZDwG0RgSBPcTj3d4dGwtO8jw4t5T0"
+  },
+  {
+    "id": "5bb03b12-bf87-44b6-acc6-fb385e1d502e",
+    "name": "Agnes",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 243: Agnes",
+    "model_file_url": "https://arweave.net/c8mrbRq29sfQdovW1l_D2JYGOaCNF3JxTaUsmHTSNAg",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "243",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "243_Agnes.vrm"
+        ],
+        "thumbnails": [
+          "243_Agnes_Icon.png",
+          "243_Agnes_FullBody.png"
+        ],
+        "textures": [
+          "243_Agnes_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/3tfu9NtwHFFrjZdw539J862UwKGc6yBsaL1b7z9sSOg"
+  },
+  {
+    "id": "4786bb21-9fa9-4b75-820c-200f04a7f579",
+    "name": "Crowley",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 230: Crowley",
+    "model_file_url": "https://arweave.net/U5J00CQ4NHUkXH7rrM4DTt4Oi3JqkTXKzC2z4oX67qs",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "230",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "230_Crowley.vrm"
+        ],
+        "thumbnails": [
+          "230_Crowley_Icon.png",
+          "230_Crowley_FullBody.png"
+        ],
+        "textures": [
+          "230_Crowley_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/mroYoaBTAJVTVHpL4KMIwT-jFQqbusCmhMumP42Zawc"
+  },
+  {
+    "id": "b0d074d2-004f-4e2f-994a-39847f9f9cef",
+    "name": "Buffedwolf",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 217: Buffedwolf",
+    "model_file_url": "https://arweave.net/dtI-JA5uSmbJVa7w7294T_9AJ_jvfZVQx4QWFzYdvdQ",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "217",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "217_Buffedwolf.vrm"
+        ],
+        "thumbnails": [
+          "217_Buffedwolf_Icon.png",
+          "217_Buffedwolf_FullBody.png"
+        ],
+        "textures": [
+          "217_Buffedwolf_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/x1rPLwMioYN8Wb2NZgepcljcdFlt8t_uEfyh0GPTeog"
+  },
+  {
+    "id": "afb4a06f-6bf9-4cac-a192-6f516bc79fad",
+    "name": "Cyberpal",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 208: Cyberpal",
+    "model_file_url": "https://arweave.net/zNTLqtifNdl38MpdNXACcvSMFVu6-s7d6pJQDm7E7Us",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "208",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "208_Cyberpal.vrm"
+        ],
+        "thumbnails": [
+          "208_Cyberpal_Icon.png",
+          "208_Cyberpal_FullBody.png"
+        ],
+        "textures": [
+          "208_Cyberpal_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/5GGzz-zAZinBrKE3qC9-pYoL0ldDo6eYxvlqxJCAGMg"
+  },
+  {
+    "id": "b1c92407-29c9-43b6-88b7-dd3de7b00d3f",
+    "name": "CoolPyramid",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 300: CoolPyramid",
+    "model_file_url": "https://arweave.net/SdnGu0ajq-TNVxLbenkQBgG4gPdIraWJoPHN0HY41p8",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "300",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "300_CoolPyramid.vrm"
+        ],
+        "thumbnails": [
+          "300_CoolPyramid_Icon.png",
+          "300_CoolPyramid_FullBody.png"
+        ],
+        "textures": [
+          "300_CoolPyramid_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/tgfTfolPEkaZe32KzTPg6OxjfWI3tmvrlu9_M1AKL68"
+  },
+  {
+    "id": "a65ebcf6-42c2-49fa-a75a-3a64bb148037",
+    "name": "FrogEnjoyer",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 231: FrogEnjoyer",
+    "model_file_url": "https://arweave.net/ggExXCBweG0Gh7YKRUQJ8XP9iSp7vAnHiXGgZGJ6oyk",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "231",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "231_FrogEnjoyer.vrm"
+        ],
+        "thumbnails": [
+          "231_FrogEnjoyer_Icon.png",
+          "231_FrogEnjoyer_FullBody.png"
+        ],
+        "textures": [
+          "231_FrogEnjoyer_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/2b2HvK5BiNTuLPp_pANrbTzwslpALVgTo3OW6s2kEWM"
+  },
+  {
+    "id": "f4de3dc0-b75b-4d08-9658-e9442c5d27e0",
+    "name": "CoolSushi",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 251: CoolSushi",
+    "model_file_url": "https://arweave.net/_i5T4s4PMphVjCLyc3GQjfi_Hmd6HXHoXkwnwjfXr4E",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "251",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "251_CoolSushi.vrm"
+        ],
+        "thumbnails": [
+          "251_CoolSushi_Icon.png",
+          "251_CoolSushi_FullBody.png"
+        ],
+        "textures": [
+          "251_CoolSushi_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/UFVbHWpwbvLyOrPBsynxZm_eDSxgU4bt2o21K8r6hI8"
+  },
+  {
+    "id": "84dbbb87-045a-46e1-bd49-12481918d4d1",
+    "name": "CosmicBot",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 237: CosmicBot",
+    "model_file_url": "https://arweave.net/F5RSSZzaf0eOfZYNSbnBT91MT9n6ojTMq5uWSIMkcTU",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "237",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "237_CosmicBot.vrm"
+        ],
+        "thumbnails": [
+          "237_CosmicBot_FullBody.png",
+          "237_CosmicBot_Icon.png"
+        ],
+        "textures": [
+          "237_CosmicBot_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/_0AOeMAdMHVRGDc9NLvS7MReJiL8iZmCPa44ekrAPug"
+  },
+  {
+    "id": "a06a82da-d560-47fb-8334-aa9c5c342fc9",
+    "name": "Eugenia",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 226: Eugenia",
+    "model_file_url": "https://arweave.net/saOexMViu7mqSeaXfQzNIPrKWQ0nqkSf-FpOQjZfBcU",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "226",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "226_Eugenia.vrm"
+        ],
+        "thumbnails": [
+          "226_Eugenia_FullBody.png",
+          "226_Eugenia_Icon.png"
+        ],
+        "textures": [
+          "226_Eugenia_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/TCEKFFOcTJDb3SRPJo6k7jOQFZRYK3tbWNFUm_RFbvw"
+  },
+  {
+    "id": "c0e26fc5-f741-4212-8f47-c86e011ea379",
+    "name": "MathBook",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 274: MathBook",
+    "model_file_url": "https://arweave.net/_mnuVHD1HqIIBPST7PlJGn4RN5ic-0jSTTzjq0LbINo",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "274",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "274_MathBook.vrm"
+        ],
+        "thumbnails": [
+          "274_MathBook_FullBody.png",
+          "274_MathBook_Icon.png"
+        ],
+        "textures": [
+          "274_MathBook_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/Vs8dC30ypg-dtQxvG30F8xvwS07a_wSQCFjsMUzFgRo"
+  },
+  {
+    "id": "2233e66a-fdf5-4be5-997c-327a92bfbc5e",
+    "name": "Stingcake",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 241: Stingcake",
+    "model_file_url": "https://arweave.net/mak2Zck_ii-x3dJYkl5cl33hm5_R_NDo4MnnVBlsZos",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "241",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "241_Stingcake.vrm"
+        ],
+        "thumbnails": [
+          "241_Stingcake_Icon.png",
+          "241_Stingcake_FullBody.png"
+        ],
+        "textures": [
+          "241_Stingcake_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/ReeDtvb-VkPbeicvg8Obh3sWabuGpuvPQQM73SQW5-8"
+  },
+  {
+    "id": "fd0de0b2-0dcc-40a5-8c66-66b4a5c20ecc",
+    "name": "JokerDude",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 249: JokerDude",
+    "model_file_url": "https://arweave.net/EpWWN8a-kpLPWdBvLsPj5CNFpMVvSp9Q83y-BSdaK4E",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "249",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "249_JokerDude.vrm"
+        ],
+        "thumbnails": [
+          "249_JokerDude_Icon.png",
+          "249_JokerDude_FullBody.png"
+        ],
+        "textures": [
+          "249_JokerDude_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/3fJ3qtDat4bG3vRoV-E_BOqo0NHjHb7R4nIgnOLRrFE"
+  },
+  {
+    "id": "2ae6b45f-70f8-433a-a87e-fd49115eb260",
+    "name": "EvilBook",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 262: EvilBook",
+    "model_file_url": "https://arweave.net/AeQDTTPAAd35wAtZ1Mgjets8Cc1GHJkHjKiR53NcVAM",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "262",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "262_EvilBook.vrm"
+        ],
+        "thumbnails": [
+          "262_EvilBook_FullBody.png",
+          "262_EvilBook_Icon.png"
+        ],
+        "textures": [
+          "262_EvilBook_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/De2RfkfNY6MEx3uL5_gyopDiITlsefayTd9VH7xYKbw"
+  },
+  {
+    "id": "afe6933e-f670-4f29-9566-d00ef854ec7f",
+    "name": "CoolRadish",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 228: CoolRadish",
+    "model_file_url": "https://arweave.net/gIzIG2YW2cBAR8QgLZ4qAMLzfUib0chQQbHhqFLZck8",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "228",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "228_CoolRadish.vrm"
+        ],
+        "thumbnails": [
+          "228_CoolRadish_Icon.png",
+          "228_CoolRadish_FullBody.png"
+        ],
+        "textures": [
+          "228_CoolRadish_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/Asvrttq1Tx3txvkWLh_dVEwX1ptdqwGVfUmrZxsSmLE"
+  },
+  {
+    "id": "af7ebfb6-e23e-4f0f-921b-605cff4daf12",
+    "name": "CoolSpaguetti",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 214: CoolSpaguetti",
+    "model_file_url": "https://arweave.net/NPQRwcWNbD74ZhKX1FEJG8jwpbbGKyQFjYQO7617V-8",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "214",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "214_CoolSpaguetti.vrm"
+        ],
+        "thumbnails": [
+          "214_CoolSpaguetti_Icon.png",
+          "214_CoolSpaguetti_FullBody.png"
+        ],
+        "textures": [
+          "214_CoolSpaguetti_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/ahG42CteM9bzA8LpelzC9DIOQHAC0i5kJhiYzhgVYnU"
+  },
+  {
+    "id": "97f88e1c-ab8a-40e2-9082-5ca3624956eb",
+    "name": "RippedJimbo",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 246: RippedJimbo",
+    "model_file_url": "https://arweave.net/vdRezR_hCUxtqmSAGhpHtWWs_YXGhvgK3aQVmwIYaj8",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "246",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "246_RippedJimbo.vrm"
+        ],
+        "thumbnails": [
+          "246_RippedJimbo_FullBody.png",
+          "246_RippedJimbo_Icon.png"
+        ],
+        "textures": [
+          "246_RippedJimbo_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/RxrkwCVKSZB-RkNsxLbbnCJjJ4s3TKlux2K3EVKjuWo"
+  },
+  {
+    "id": "da8e6743-f1c2-4afa-aff2-cd781040572c",
+    "name": "Bruno",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 233: Bruno",
+    "model_file_url": "https://arweave.net/WR_xW_yGKwubTj-kdlyw5jNVx5m2ldMxwg_enz_Znbw",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "233",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "233_Bruno.vrm"
+        ],
+        "thumbnails": [
+          "233_Bruno_Icon.png",
+          "233_Bruno_FullBody.png"
+        ],
+        "textures": [
+          "233_Bruno_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/wLgXmXpeb4hPNRrN5LB7rxpB_p10UOYf6KRJfHaN5Vk"
+  },
+  {
+    "id": "d59a804f-b34f-436e-9111-a87ba5c9b22c",
+    "name": "CursedAmy",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 218: CursedAmy",
+    "model_file_url": "https://arweave.net/iHBGnnxHtgRsMLk674wxqbYiZZFG8NVhd3aDcj9bI3k",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "218",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "218_CursedAmy.vrm"
+        ],
+        "thumbnails": [
+          "218_CursedAmy_Icon.png",
+          "218_CursedAmy_FullBody.png"
+        ],
+        "textures": [
+          "218_CursedAmy_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/4ErNiME4NjyUmOGYLwYeiWbzwzdQFTd1a67w6uYPYM4"
+  },
+  {
+    "id": "6bbe6de9-a30f-4668-81b4-e9d2e42239d3",
+    "name": "Kiba",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 213: Kiba",
+    "model_file_url": "https://arweave.net/Nf6SIdJuYGYzUMJKNgKq44Zr-lCZS4No_FYtR6BFBYM",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "213",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "213_Kiba.vrm"
+        ],
+        "thumbnails": [
+          "213_Kiba_Icon.png",
+          "213_Kiba_FullBody.png"
+        ],
+        "textures": [
+          "213_Kiba_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/MgcPQ__fWTZ2z2Aj-8HUP3DNHyR1CKmmeSiuRW15rQE"
+  },
+  {
+    "id": "ab9f9b35-aa3d-487e-acac-ad70845786bf",
+    "name": "CoolToaster",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 206: CoolToaster",
+    "model_file_url": "https://arweave.net/y0T6yKovy5Udzs4LlzRioFv8_yZlTc7orRDbxCHjOfk",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "206",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "206_CoolToaster.vrm"
+        ],
+        "thumbnails": [
+          "206_CoolToaster_Icon.png",
+          "206_CoolToaster_FullBody.png"
+        ],
+        "textures": [
+          "206_CoolToaster_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/rsMonDySeRr-tjF9-4JWJ_9YzoyhbqOR4mt2f6mk-c4"
+  },
+  {
+    "id": "a19cbe62-6577-4be6-adfa-cfb26d1ff378",
+    "name": "StitchWitch",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 215: StitchWitch",
+    "model_file_url": "https://arweave.net/O-cHPoD2LyfqSbkltB15-nwGK1aUT0M1JMLf1-gq46g",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "215",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "215_StitchWitch.vrm"
+        ],
+        "thumbnails": [
+          "215_StitchWitch_Icon.png",
+          "215_StitchWitch_FullBody.png"
+        ],
+        "textures": [
+          "215_StitchWitch_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/Q3tQDNqtcWiKcuwfGkTRJs69jb3LY3F3j5fcfi6YA6I"
+  },
+  {
+    "id": "53f63943-6d75-4fc2-9da8-743d577787b1",
+    "name": "DrakeTheTrader",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 279: DrakeTheTrader",
+    "model_file_url": "https://arweave.net/Dj82dhuF39iskhmKpCWrMvLL2yqjL82XzWnsM2hYSBY",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "279",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "279_DrakeTheTrader.vrm"
+        ],
+        "thumbnails": [
+          "279_DrakeTheTrader_FullBody.png",
+          "279_DrakeTheTrader_Icon.png"
+        ],
+        "textures": [
+          "279_DrakeTheTrader_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/VjScU5auFku1U9Ct2FbGBxbxavkV8KxD-6-GzeIZYfU"
+  },
+  {
+    "id": "e347f1cd-5fa1-41ce-809f-2166d4d038c6",
+    "name": "NutBot",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 294: NutBot",
+    "model_file_url": "https://arweave.net/GJq_zlNx26A0LRAh6YvP1z9QBYm2uEol0tTXgBmApzQ",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "294",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "294_NutBot.vrm"
+        ],
+        "thumbnails": [
+          "294_NutBot_Icon.png",
+          "294_NutBot_FullBody.png"
+        ],
+        "textures": [
+          "294_NutBot_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/RhaGNX159VQQWoDEZqeopaMz_vGcbAsLY-VxJNwlZb0"
+  },
+  {
+    "id": "0b147265-8225-4a7b-90a9-ec97185a72d5",
+    "name": "AstroNacho",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 269: AstroNacho",
+    "model_file_url": "https://arweave.net/yN-bc2espBKNBlbd1J5CfKJkv4ukOcwwyHdJiXoidHg",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "269",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "269_AstroNacho.vrm"
+        ],
+        "thumbnails": [
+          "269_AstroNacho_Icon.png",
+          "269_AstroNacho_FullBody.png"
+        ],
+        "textures": [
+          "269_AstroNacho_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/-qHY9JLun7fv7iCP0pgwVBlmNcfHySNoi7AkeQqMnww"
+  },
+  {
+    "id": "fa325d2a-47f2-4cb6-9dfe-873dbb72fd1b",
+    "name": "LordPiggington",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 204: LordPiggington",
+    "model_file_url": "https://arweave.net/1TdUiEB97Rsvvx47BiesyOAc1YvzZpeRqIZUZpxqkPU",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "204",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "204_LordPiggington.vrm"
+        ],
+        "thumbnails": [
+          "204_LordPiggington_Icon.png",
+          "204_LordPiggington_FullBody.png"
+        ],
+        "textures": [
+          "204_LordPiggington_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/TNav-GgWC1hr26EVZ8Ok85x-bJ7bnNc8WnJscTWxads"
+  },
+  {
+    "id": "60bd1f4f-7118-4a56-bc48-2098b345ee20",
+    "name": "FireEye",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 225: FireEye",
+    "model_file_url": "https://arweave.net/RZJRCIir0engUa_94Naiy95fpg-RRZYiU1v-xKzXAco",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "225",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "225_FireEye.vrm"
+        ],
+        "thumbnails": [
+          "225_FireEye_FullBody.png",
+          "225_FireEye_Icon.png"
+        ],
+        "textures": [
+          "225_FireEye_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/qFuCy5p-ilLtYrNa-pt8EP1ZhxooV3oMDAU6QPLo_AQ"
+  },
+  {
+    "id": "211f8b29-adda-41ef-82fa-478041bcccc1",
+    "name": "YetiDude",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 260: YetiDude",
+    "model_file_url": "https://arweave.net/l53NM8fpF0gpcRaeBnouPw0I8mQnHU3Dr8ArX4SmKck",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "260",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "260_YetiDude.vrm"
+        ],
+        "thumbnails": [
+          "260_YetiDude_FullBody.png",
+          "260_YetiDude_Icon.png"
+        ],
+        "textures": [
+          "260_YetiDude_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/ftsyxZrS0it_tELijk0lexk8dHf8ULSPL-wiwEb_OIs"
+  },
+  {
+    "id": "57d5b48b-2dd7-4c26-a0a3-aa8f25b49977",
+    "name": "BluePixie",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 295: BluePixie",
+    "model_file_url": "https://arweave.net/9_oVPJdbbWifb1GfWa_TpGuGJ0dXQ2ryY6fqM_qt2vk",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "295",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "295_BluePixie.vrm"
+        ],
+        "thumbnails": [
+          "295_BluePixie_Icon.png",
+          "295_BluePixie_FullBody.png"
+        ],
+        "textures": [
+          "295_BluePixie_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/ktUu-ZgLgLo3D6eUtcuYt6oBGm5A4-Udi5UKUwM5Buw"
+  },
+  {
+    "id": "79461dba-2866-47bf-b79a-c6602c05a296",
+    "name": "MegaAngel",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 219: MegaAngel",
+    "model_file_url": "https://arweave.net/hFjw4u33v1cjEFl80leP2M8dfRjaJ5UNNmIZp8sIA8Y",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "219",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "219_MegaAngel.vrm"
+        ],
+        "thumbnails": [
+          "219_MegaAngel_Icon.png",
+          "219_MegaAngel_FullBody.png"
+        ],
+        "textures": [
+          "219_MegaAngel_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/GC8yAHWPhQekRzXmSd5p6gGgPsDNraqVmmpgzRdPMl8"
+  },
+  {
+    "id": "195ee8d7-024c-4f9d-9038-15da18b37d62",
+    "name": "AlienTeen",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 257: AlienTeen",
+    "model_file_url": "https://arweave.net/j4VaJTdrBw6gXFWJEeq52mrKwnjsfPY1MZNdTiCXgRs",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.496Z",
+    "updated_at": "2025-03-11T16:41:51.496Z",
+    "metadata": {
+      "number": "257",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "257_AlienTeen.vrm"
+        ],
+        "thumbnails": [
+          "257_AlienTeen_FullBody.png",
+          "257_AlienTeen_Icon.png"
+        ],
+        "textures": [
+          "257_AlienTeen_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/4tiy2bMEZVgHxKLQBoVBlxdVVMlBwWKgYekXm-7f1ng"
+  },
+  {
+    "id": "ae763534-597d-41ea-b924-20ab9d286c8e",
+    "name": "AbissalDude",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 254: AbissalDude",
+    "model_file_url": "https://arweave.net/RZnWq2e0OQAYbhPEddWQY9sBd8IytCFeJBHVPYIlBMg",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.497Z",
+    "updated_at": "2025-03-11T16:41:51.497Z",
+    "metadata": {
+      "number": "254",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "254_AbissalDude.vrm"
+        ],
+        "thumbnails": [
+          "254_AbissalDude_FullBody.png",
+          "254_AbissalDude_Icon.png"
+        ],
+        "textures": [
+          "254_AbissalDude_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/EX1hsM9KnmrfeFVfyerWdMtyIczAI8dbcO8O1bosHQ0"
+  },
+  {
+    "id": "92b710c9-4bfc-4baa-a8b2-0eec63393b70",
+    "name": "AjoMajo",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 282: AjoMajo",
+    "model_file_url": "https://arweave.net/N0uIP-7n2AjxH-tNFJV8foY7mQQ_DPKgGeCIqXUqfNQ",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.497Z",
+    "updated_at": "2025-03-11T16:41:51.497Z",
+    "metadata": {
+      "number": "282",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "282_AjoMajo.vrm"
+        ],
+        "thumbnails": [
+          "282_AjoMajo_Icon.png",
+          "282_AjoMajo_FullBody.png"
+        ],
+        "textures": [
+          "282_AjoMajo_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/gpeoMuIKcPFq-rItYcrdneMqIe5Vo8wA2ybmCrnK45Q"
+  },
+  {
+    "id": "b88d28fa-c295-4415-a870-1c89608f6389",
+    "name": "MeganTheFox",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 278: MeganTheFox",
+    "model_file_url": "https://arweave.net/up4WzT0YJfXv9woGseCIQnBSq3eH8KWASJJbNtuvEWY",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.497Z",
+    "updated_at": "2025-03-11T16:41:51.497Z",
+    "metadata": {
+      "number": "278",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "278_MeganTheFox.vrm"
+        ],
+        "thumbnails": [
+          "278_MeganTheFox_FullBody.png",
+          "278_MeganTheFox_Icon.png"
+        ],
+        "textures": [
+          "278_MeganTheFox_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/9J9ThGRe5O_tffp4lIaDZcjtq9jt7NFCuUciCzJMguY"
+  },
+  {
+    "id": "96c05b5b-22f2-4aac-86e0-fe2bbaf1a17e",
+    "name": "Vladi",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 232: Vladi",
+    "model_file_url": "https://arweave.net/RFKE0Snx7V32gjvV82GcXT9-R7rDySQaKWlf1a2oYUc",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.497Z",
+    "updated_at": "2025-03-11T16:41:51.497Z",
+    "metadata": {
+      "number": "232",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "232_Vladi.vrm"
+        ],
+        "thumbnails": [
+          "232_Vladi_FullBody.png",
+          "232_Vladi_Icon.png"
+        ],
+        "textures": [
+          "232_Vladi_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/qAtPvRdOC6DpSwv1RR7wjFFD6VeD8lJJK1P9bIXBfLI"
+  },
+  {
+    "id": "9f779914-fb64-48f8-9d81-3f58b9146b25",
+    "name": "GhostPumpking",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 296: GhostPumpking",
+    "model_file_url": "https://arweave.net/w7BA_cYyPX8wtbr2YcUNQtGjQkTPAGuA-l4WOA2Pr0k",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.497Z",
+    "updated_at": "2025-03-11T16:41:51.497Z",
+    "metadata": {
+      "number": "296",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "296_GhostPumpking.vrm"
+        ],
+        "thumbnails": [
+          "296_GhostPumpking_Icon.png",
+          "296_GhostPumpking_FullBody.png"
+        ],
+        "textures": [
+          "296_GhostPumpking_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/_DVEnkKnOu-1ZI79rASY5aIHTr5qQGI5rRXj6EBzy_k"
+  },
+  {
+    "id": "cc267347-2a6c-45db-ac6a-ccf1449308e8",
+    "name": "KardialTheConsumer",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 250: KardialTheConsumer",
+    "model_file_url": "https://arweave.net/H7LgdhGUbLMjFCYkTVy55N2VANWI7rHs574mWSw1uIE",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.497Z",
+    "updated_at": "2025-03-11T16:41:51.497Z",
+    "metadata": {
+      "number": "250",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "250_KardialTheConsumer.vrm"
+        ],
+        "thumbnails": [
+          "250_KardialTheConsumer_FullBody.png",
+          "250_KardialTheConsumer_Icon.png"
+        ],
+        "textures": [
+          "250_KardialTheConsumer_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/RQIMkXu-KVbWyKsvodzGdkrooOX5z3glCH5muIzFE08"
+  },
+  {
+    "id": "3b5fc047-c75d-4808-b9e4-2a80aaa10fa1",
+    "name": "CoolPawn",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 222: CoolPawn",
+    "model_file_url": "https://arweave.net/YHOo7iOMpmA44TYyPQNswS-lKaU0yrY_BG0WCVdqkbw",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.497Z",
+    "updated_at": "2025-03-11T16:41:51.497Z",
+    "metadata": {
+      "number": "222",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "222_CoolPawn.vrm"
+        ],
+        "thumbnails": [
+          "222_CoolPawn_Icon.png",
+          "222_CoolPawn_FullBody.png"
+        ],
+        "textures": [
+          "222_CoolPawn_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/UImKnPNOo9utpxgNmLMRfn_RMArz7_sbsDsvUiYJFco"
+  },
+  {
+    "id": "8dd2c5c1-a58a-4139-aa5e-b7440b06522e",
+    "name": "Anna",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 270: Anna",
+    "model_file_url": "https://arweave.net/RqDioyluCcxDNHFPoXLUlbEQjhP1Fy9HtaGzLFVh0mE",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.497Z",
+    "updated_at": "2025-03-11T16:41:51.497Z",
+    "metadata": {
+      "number": "270",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "270_Anna.vrm"
+        ],
+        "thumbnails": [
+          "270_Anna_Icon.png",
+          "270_Anna_FullBody.png"
+        ],
+        "textures": [
+          "270_Anna_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/w1coZXsJed2XwPaVJ-vBz2yb2NYu-g8AIzwwmZbY-Gk"
+  },
+  {
+    "id": "60176f95-a780-4e09-85ca-545314182146",
+    "name": "Paco",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 211: Paco",
+    "model_file_url": "https://arweave.net/0i-EEnHlcq1EZ1-sMi8DTZhesqGLqtf30WuCknfTHjA",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.497Z",
+    "updated_at": "2025-03-11T16:41:51.497Z",
+    "metadata": {
+      "number": "211",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "211_Paco.vrm"
+        ],
+        "thumbnails": [
+          "211_Paco_Icon.png",
+          "211_Paco_FullBody.png"
+        ],
+        "textures": [
+          "211_Paco_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/ghXbUC4mSh9ZCLPtswfxtNIg7x8Y_251XDyvNPCWOFc"
+  },
+  {
+    "id": "ef969f53-f8cb-45c6-8f27-4eafffdfeeae",
+    "name": "CuteMoth",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 267: CuteMoth",
+    "model_file_url": "https://arweave.net/LWj4C9ClGs0ChP7oHDEEWPbGTo0HAWNMjhIRlyMkRHg",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.497Z",
+    "updated_at": "2025-03-11T16:41:51.497Z",
+    "metadata": {
+      "number": "267",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "267_CuteMoth.vrm"
+        ],
+        "thumbnails": [
+          "267_CuteMoth_Icon.png",
+          "267_CuteMoth_FullBody.png"
+        ],
+        "textures": [
+          "267_CuteMoth_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/hr_F-VFTR_QLyWB9PzD6XJ7sp653w0r2wLQChWYbzlw"
+  },
+  {
+    "id": "f6ab6708-782f-4cc4-81c8-026d57019adc",
+    "name": "CuteSaurus",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 229: CuteSaurus",
+    "model_file_url": "https://arweave.net/1-EJ5GXIlQ1ohw6GMsMnEzyK7IHhI8YDPYsjMvo_xhQ",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.497Z",
+    "updated_at": "2025-03-11T16:41:51.497Z",
+    "metadata": {
+      "number": "229",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "229_CuteSaurus.vrm"
+        ],
+        "thumbnails": [
+          "229_CuteSaurus_Icon.png",
+          "229_CuteSaurus_FullBody.png"
+        ],
+        "textures": [
+          "229_CuteSaurus_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/X7G9iThMeSRuJ9zj9cDyzUwFadxBe5RXU6Cs-bSUSDU"
+  },
+  {
+    "id": "84a2af7f-5fbb-4c3e-b8a2-d9e24f51650b",
+    "name": "BeanKing",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 242: BeanKing",
+    "model_file_url": "https://arweave.net/4DY39QWIGPtuovTNVcQhgl5bSiNvr3J_ZJiHjU3P-u8",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.497Z",
+    "updated_at": "2025-03-11T16:41:51.497Z",
+    "metadata": {
+      "number": "242",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "242_BeanKing.vrm"
+        ],
+        "thumbnails": [
+          "242_BeanKing_Icon.png",
+          "242_BeanKing_FullBody.png"
+        ],
+        "textures": [
+          "242_BeanKing_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/UVGHA0BQZFb0B4rfia9ygJzdFAbUXFyj98twnL9eKMg"
+  },
+  {
+    "id": "69d16ddc-c7ae-4a89-a9ed-3c9d8f8d1378",
+    "name": "CoolHeart",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 276: CoolHeart",
+    "model_file_url": "https://arweave.net/Eqer9d8Xz3iQskaBBuw_WPvD0dx8wfoOInYb2T9shQA",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.497Z",
+    "updated_at": "2025-03-11T16:41:51.497Z",
+    "metadata": {
+      "number": "276",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "276_CoolHeart.vrm"
+        ],
+        "thumbnails": [
+          "276_CoolHeart_Icon.png",
+          "276_CoolHeart_FullBody.png"
+        ],
+        "textures": [
+          "276_CoolHeart_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/p316TTwsOdSbFwnnK3npIo6dQDe-BwlnD6LW2_0No2w"
+  },
+  {
+    "id": "fea02c53-79f5-44a4-ba16-0261dd862f4a",
+    "name": "CatMoth",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 253: CatMoth",
+    "model_file_url": "https://arweave.net/CZWecYxSdxUQKu8qI_gs0n3YL13wJxEWXzgHCij29m0",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.497Z",
+    "updated_at": "2025-03-11T16:41:51.497Z",
+    "metadata": {
+      "number": "253",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "253_CatMoth.vrm"
+        ],
+        "thumbnails": [
+          "253_CatMoth_Icon.png",
+          "253_CatMoth_FullBody.png"
+        ],
+        "textures": [
+          "253_CatMoth_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/JcTqBNw5P_Avqj-PRqkIET3OKIisDasmi6NEDBbXjdg"
+  },
+  {
+    "id": "062549a1-3e08-4720-8151-3659d4fddb43",
+    "name": "UrbanTV",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 264: UrbanTV",
+    "model_file_url": "https://arweave.net/h7MGIGl6Mpzof0lIV9s_2KYiOBxwDOUUqos5bKjBwhQ",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.497Z",
+    "updated_at": "2025-03-11T16:41:51.497Z",
+    "metadata": {
+      "number": "264",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "264_UrbanTV.vrm"
+        ],
+        "thumbnails": [
+          "264_UrbanTV_Icon.png",
+          "264_UrbanTV_FullBody.png"
+        ],
+        "textures": [
+          "264_UrbanTV_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/x_Omu1MN0Xnoi4kFuRYVy8sbwKSD7G-nxgu9gJQQTR4"
+  },
+  {
+    "id": "715dacc9-27b4-4f77-b55d-bcbe35a44210",
+    "name": "CoolTiki",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 280: CoolTiki",
+    "model_file_url": "https://arweave.net/jfy-JpgRVHM5XrtS0ubeXUPp266LazQ86Y5SlwzD1s8",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.497Z",
+    "updated_at": "2025-03-11T16:41:51.497Z",
+    "metadata": {
+      "number": "280",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "280_CoolTiki.vrm"
+        ],
+        "thumbnails": [
+          "280_CoolTiki_FullBody.png",
+          "280_CoolTiki_Icon.png"
+        ],
+        "textures": [
+          "280_CoolTiki_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/e4DNKQGGjoGGGxuweMCDtKR79Dsm0lyZumRQAjUlC_U"
+  },
+  {
+    "id": "7ef7a462-c1a3-41be-ae21-e10b7bfe3bfd",
+    "name": "LadyFawn",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 289: LadyFawn",
+    "model_file_url": "https://arweave.net/irXzuViKMyT1wGa5tqWQZCCqZPb_uVzU23Wgl1pHC_0",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.497Z",
+    "updated_at": "2025-03-11T16:41:51.497Z",
+    "metadata": {
+      "number": "289",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "289_LadyFawn.vrm"
+        ],
+        "thumbnails": [
+          "289_LadyFawn_Icon.png",
+          "289_LadyFawn_FullBody.png"
+        ],
+        "textures": [
+          "289_LadyFawn_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/rMBF-i348l98jzJLfFK4P0-Q4DbaRu8JaewLHDKfg9g"
+  },
+  {
+    "id": "5ec45588-2fa2-4c92-b7c2-547473ef16b2",
+    "name": "CatEye",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 272: CatEye",
+    "model_file_url": "https://arweave.net/bpAiAA8wgroS9YgRAk49LShqINtLwsx50IBcHek18J0",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.497Z",
+    "updated_at": "2025-03-11T16:41:51.497Z",
+    "metadata": {
+      "number": "272",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "272_CatEye.vrm"
+        ],
+        "thumbnails": [
+          "272_CatEye_FullBody.png",
+          "272_CatEye_Icon.png"
+        ],
+        "textures": [
+          "272_CatEye_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/v2JREpMoqm9LiiEUGKFimr8KLeK6i8awG6LvZ-JJZ2M"
+  },
+  {
+    "id": "d59cbcbf-5ab4-4925-bf09-4d3e26cfead7",
+    "name": "PossumEnjoyer",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 292: PossumEnjoyer",
+    "model_file_url": "https://arweave.net/7rLe-zw-hBivGOFAm8QkjaRMAGusT7QtaCjh4twIDP4",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.497Z",
+    "updated_at": "2025-03-11T16:41:51.497Z",
+    "metadata": {
+      "number": "292",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "292_PossumEnjoyer.vrm"
+        ],
+        "thumbnails": [
+          "292_PossumEnjoyer_Icon.png",
+          "292_PossumEnjoyer_FullBody.png"
+        ],
+        "textures": [
+          "292_PossumEnjoyer_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/F9wt-W8lv1_77sUrOtl8Vyq7JVXDibu1QOSiUx95pmQ"
+  },
+  {
+    "id": "67f68fa0-dea3-4f47-9aed-e722c0f34bed",
+    "name": "MrSquirrel",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 286: MrSquirrel",
+    "model_file_url": "https://arweave.net/cuWoLBLWF0OdWUZ2jsjWNkHPRlPMdmqP9_lUbrHBO-o",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.497Z",
+    "updated_at": "2025-03-11T16:41:51.497Z",
+    "metadata": {
+      "number": "286",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "286_MrSquirrel.vrm"
+        ],
+        "thumbnails": [
+          "286_MrSquirrel_Icon.png",
+          "286_MrSquirrel_FullBody.png"
+        ],
+        "textures": [
+          "286_MrSquirrel_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/eeBS1wEd7q0HZfh_15PSRnIgG_Y2Mv2mcKU-zZLQLao"
+  },
+  {
+    "id": "4ff680bf-7e01-45d4-b29a-f7e85f9b2ee1",
+    "name": "BadBot",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 203: BadBot",
+    "model_file_url": "https://arweave.net/ssQPFGxKhSLVlXndDSfdwYo-lcgMT8rLXd-2hJgK5RI",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.497Z",
+    "updated_at": "2025-03-11T16:41:51.497Z",
+    "metadata": {
+      "number": "203",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "203_BadBot.vrm"
+        ],
+        "thumbnails": [
+          "203_BadBot_Icon.png",
+          "203_BadBot_FullBody.png"
+        ],
+        "textures": [
+          "203_BadBot_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/TDqOq4O1213W7W8CmLE8BFsQx29jf5_9halmv_iAQz4"
+  },
+  {
+    "id": "838b42f5-5727-44ac-a096-2d98c6ce6040",
+    "name": "CoolBee",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 261: CoolBee",
+    "model_file_url": "https://arweave.net/-M047TNjC36mcEWMprML2g7rawORlVGIgD7CKvjqcfw",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.497Z",
+    "updated_at": "2025-03-11T16:41:51.497Z",
+    "metadata": {
+      "number": "261",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "261_CoolBee.vrm"
+        ],
+        "thumbnails": [
+          "261_CoolBee_Icon.png",
+          "261_CoolBee_FullBody.png"
+        ],
+        "textures": [
+          "261_CoolBee_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/o-g4fF7OoHOBDh8F5eDZowUnQ60l1Q1vYrpne_EEtIw"
+  },
+  {
+    "id": "cf09baf5-d6e5-4b35-9bf3-5eaf1e10392c",
+    "name": "CoolThief",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 265: CoolThief",
+    "model_file_url": "https://arweave.net/aZqq_UIFZSAXVxhcAoul9rmcKDvAJcy-A1K6gnTzHLo",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.497Z",
+    "updated_at": "2025-03-11T16:41:51.497Z",
+    "metadata": {
+      "number": "265",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "265_CoolThief.vrm"
+        ],
+        "thumbnails": [
+          "265_CoolThief_FullBody.png",
+          "265_CoolThief_Icon.png"
+        ],
+        "textures": [
+          "265_CoolThief_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/PEXGvcT61gzN7k_I8tJ-pUJAk9_X3c69qqJbtiqmCGA"
+  },
+  {
+    "id": "bbbf346c-ca67-4afb-9fa9-73684fbe5ebd",
+    "name": "MrBush",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 271: MrBush",
+    "model_file_url": "https://arweave.net/4i8X5XaXMIRYVajBnXKQdM_Sa_OQ7PkWi1yG7XdWG44",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.497Z",
+    "updated_at": "2025-03-11T16:41:51.497Z",
+    "metadata": {
+      "number": "271",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "271_MrBush.vrm"
+        ],
+        "thumbnails": [
+          "271_MrBush_Icon.png",
+          "271_MrBush_FullBody.png"
+        ],
+        "textures": [
+          "271_MrBush_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/3AkxYKRSHvvr9CCoLamQ7TG2RlS6MDvpmmOoBjqiTck"
+  },
+  {
+    "id": "7cac8855-a66a-4775-af5e-3d66ee16fa41",
+    "name": "LilShark",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 290: LilShark",
+    "model_file_url": "https://arweave.net/nVqBB0cwDybmATcohrZKkgx6hVDqPKTIF2-MwNVVMdw",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.497Z",
+    "updated_at": "2025-03-11T16:41:51.497Z",
+    "metadata": {
+      "number": "290",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "290_LilShark.vrm"
+        ],
+        "thumbnails": [
+          "290_LilShark_FullBody.png",
+          "290_LilShark_Icon.png"
+        ],
+        "textures": [
+          "290_LilShark_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/REZZfCZdM7FjzfoZuibGAVLICVYPFCrtIPB90gtTPcc"
+  },
+  {
+    "id": "665ae5e7-a2d4-48ba-b378-03e6d1889ac0",
+    "name": "DreamFighter",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 287: DreamFighter",
+    "model_file_url": "https://arweave.net/DF1j9AaUmMferCUrB4BLPtA3AoXE7O3qpE9yP-SSYcQ",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.497Z",
+    "updated_at": "2025-03-11T16:41:51.497Z",
+    "metadata": {
+      "number": "287",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "287_DreamFighter.vrm"
+        ],
+        "thumbnails": [
+          "287_DreamFighter_Icon.png",
+          "287_DreamFighter_FullBody.png"
+        ],
+        "textures": [
+          "287_DreamFighter_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/cH4iU2Yu0_7fMTcFv58LZPQQ14pVfnvcu55xCNtM8S4"
+  },
+  {
+    "id": "3659f1c4-f7a8-4a1d-aa8b-fc7dfcebad0e",
+    "name": "DreamEater",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 275: DreamEater",
+    "model_file_url": "https://arweave.net/O90eXYu-5ymPHgr0f1vP6lP_DiD0qTwH4hD5Kz8vPzM",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.497Z",
+    "updated_at": "2025-03-11T16:41:51.497Z",
+    "metadata": {
+      "number": "275",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "275_DreamEater.vrm"
+        ],
+        "thumbnails": [
+          "275_DreamEater_Icon.png",
+          "275_DreamEater_FullBody.png"
+        ],
+        "textures": [
+          "275_DreamEater_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/uCvB9xXPieMlcMfME6aEk_z6F45JCfSiVNrZUm8wiwg"
+  },
+  {
+    "id": "95472da8-c876-420f-8a2a-07b1b3fa80d7",
+    "name": "MrSick",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 223: MrSick",
+    "model_file_url": "https://arweave.net/QmwAaMBJO8eLTzlBiH68UEGSvxIR_YgznFNTtYCbzLY",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.497Z",
+    "updated_at": "2025-03-11T16:41:51.497Z",
+    "metadata": {
+      "number": "223",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "223_MrSick.vrm"
+        ],
+        "thumbnails": [
+          "223_MrSick_Icon.png",
+          "223_MrSick_FullBody.png"
+        ],
+        "textures": [
+          "223_MrSick_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/Jp4qS_mH4QKKPT9HkFX-sZL2F8onSEl83IYwfNZz9fY"
+  },
+  {
+    "id": "6ee8ab89-5ce8-4436-a69a-b9f61c2094d8",
+    "name": "Mr",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 205: Mr",
+    "model_file_url": "https://arweave.net/jJaRNO38jEjBzn0SPpl3d7Yo91NTXxNtPVMb0JdsNyA",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.497Z",
+    "updated_at": "2025-03-11T16:41:51.497Z",
+    "metadata": {
+      "number": "205",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "205_Mr.Receipt.vrm"
+        ],
+        "thumbnails": [
+          "205_Mr.Receipt_Icon.png",
+          "205_Mr.Receipt_FullBody.png"
+        ],
+        "textures": [
+          "205_Mr.Receipt_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/b-XkeLyvIJLHzyBkOsCbCWPK2JjJXEY54x_8S5ULWQg"
+  },
+  {
+    "id": "792ee538-421a-4742-8e8c-68cbe942d34e",
+    "name": "CoolPineapple",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 201: CoolPineapple",
+    "model_file_url": "https://arweave.net/H_vUdDIVXOdnq_YOFxX7zgDnVOYUkHfzJSzSVULsupM",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.497Z",
+    "updated_at": "2025-03-11T16:41:51.497Z",
+    "metadata": {
+      "number": "201",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "201_CoolPineapple.vrm"
+        ],
+        "thumbnails": [
+          "201_CoolPineapple_Icon.png",
+          "201_CoolPineapple_FullBody.png"
+        ],
+        "textures": [
+          "201_CoolPineapple_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/R-snTDQcKLdS2mfn8Y0BLiy2gY3g26NoCNx3BglchjY"
+  },
+  {
+    "id": "750042e3-9a71-48b0-a42f-39ea040ec5a9",
+    "name": "Chester",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 216: Chester",
+    "model_file_url": "https://arweave.net/2Lsw0H5j06VFi-AKtzMgX1HFsgdkFy3tlMQbZADvqyk",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.497Z",
+    "updated_at": "2025-03-11T16:41:51.497Z",
+    "metadata": {
+      "number": "216",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "216_Chester.vrm"
+        ],
+        "thumbnails": [
+          "216_Chester_Icon.png",
+          "216_Chester_FullBody.png"
+        ],
+        "textures": [
+          "216_Chester_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/FRsXnKVBReCdJXaWVZzpixG-_RcYMufBWXaKw0ExVm8"
+  },
+  {
+    "id": "2e44dd36-b462-4503-ac72-dbc53e8101c7",
+    "name": "SportMecha",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 239: SportMecha",
+    "model_file_url": "https://arweave.net/xpx3cF_x4G4FUW-oIx7c2LiSUPigXK74fLHXgJ2w6lA",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.497Z",
+    "updated_at": "2025-03-11T16:41:51.497Z",
+    "metadata": {
+      "number": "239",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "239_SportMecha.vrm"
+        ],
+        "thumbnails": [
+          "239_SportMecha_FullBody.png",
+          "239_SportMecha_Icon.png"
+        ],
+        "textures": [
+          "239_SportMecha_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/EUzreKuxGPLraPi9H8YSP0GkCqY5y-Im-yG3KzgPVxM"
+  },
+  {
+    "id": "d3669cad-35f6-47ac-a4aa-90aa15807e48",
+    "name": "BatPot",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 263: BatPot",
+    "model_file_url": "https://arweave.net/rA5UE8xQw-5qcYUGz1GhtwK2Duh-2TRVKAReNPOBWjU",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.497Z",
+    "updated_at": "2025-03-11T16:41:51.497Z",
+    "metadata": {
+      "number": "263",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "263_BatPot.vrm"
+        ],
+        "thumbnails": [
+          "263_BatPot_FullBody.png",
+          "263_BatPot_Icon.png"
+        ],
+        "textures": [
+          "263_BatPot_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/-S9a87Ak_apj6XjOmXG43L4-gAynFqCL3ewzmkHL05U"
+  },
+  {
+    "id": "03df407e-d179-4389-aa00-500ac430f93a",
+    "name": "StrawberryPrincess",
+    "project_id": "4fd74d41-0828-417d-a005-de46c3bdf5b3",
+    "description": "Avatar 291: StrawberryPrincess",
+    "model_file_url": "https://arweave.net/0Wwhn0-G8wESHYX2lD9FRPWw6smAHN_wsH6hNPrz9eE",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-03-11T16:41:51.497Z",
+    "updated_at": "2025-03-11T16:41:51.497Z",
+    "metadata": {
+      "number": "291",
+      "series": "R3",
+      "alternateModels": {},
+      "ardriveFiles": {
+        "models": [
+          "291_StrawberryPrincess.vrm"
+        ],
+        "thumbnails": [
+          "291_StrawberryPrincess_Icon.png",
+          "291_StrawberryPrincess_FullBody.png"
+        ],
+        "textures": [
+          "291_StrawberryPrincess_MidShot.png"
+        ]
+      }
+    },
+    "thumbnail_url": "https://arweave.net/1wCG9r5kstwVsUHbgANWgumsUtFQmQVRtbvaVutkfjE"
+  }
+]
