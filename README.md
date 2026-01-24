@@ -40,6 +40,7 @@ We curate two types of collections:
 
 - **VIPE Heroes** - NFT avatars (CC-BY, attribution required)
 - **Grifters Squaddies** - NFT avatars (CC0, no attribution needed)
+- **ToxSam** - NFT avatars across Ethereum and Base (CC0, no attribution needed)
 - More coming soon!
 
 Each collection clearly states its license - check `projects.json` for details.
@@ -76,6 +77,7 @@ const vrmUrl = avatars[0].model_file_url;
     100avatars-r1.json   → Avatars from each collection
     vipe-heroes-genesis.json
     grifters-squaddies.json
+    toxsam.json
 ```
 
 - `projects.json` tells you what collections exist and their licenses.

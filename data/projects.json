@@ -57,9 +57,31 @@
     "description": "Grifters gonna grift!",
     "is_public": true,
     "license": "CC0",
-    "source_type": "original",
+    "source_type": "nft",
+    "source_network": "base",
+    "source_contract": "0xa94c652c16525e6b7cac82a34eab18b5174ad23c",
+    "opensea_url": "https://opensea.io/collection/grifterssquaddies",
     "created_at": "2024-04-30T17:00:51.348Z",
     "updated_at": "2026-01-17T19:55:16.881Z",
     "avatar_data_file": "avatars/grifters-squaddies.json"
+  },
+  {
+    "id": "toxsam",
+    "name": "ToxSam",
+    "creator_id": "toxsam",
+    "description": "Collection of NFT avatars by ToxSam across Ethereum and Base networks",
+    "is_public": true,
+    "license": "CC0",
+    "source_type": "nft",
+    "source_network": ["ethereum", "base"],
+    "source_contract": [
+      "0xc1def47cf1e15ee8c2a92f4e0e968372880d18d1",
+      "0xbffd07cc4d32578fe3ccbf8bd0c5ffa8da3fc600",
+      "0x59202483529a11642a43578a6ee77ca4ec24f930"
+    ],
+    "opensea_url": "https://toxsam.com",
+    "created_at": "2020-09-29T06:20:23.600Z",
+    "updated_at": "2026-01-24T10:02:21.683Z",
+    "avatar_data_file": "avatars/toxsam.json"
   }
 ]

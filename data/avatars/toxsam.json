@@ -1,0 +1,420 @@
+[
+  {
+    "id": "0xc1def47cf1e15ee8c2a92f4e0e968372880d18d1/0",
+    "name": "Orion",
+    "project_id": "toxsam",
+    "description": "Traveled through space and time to rmain forever on the blockchain.\nThe very first CryptoAvatar ever minted.",
+    "model_file_url": "https://gateway.pinata.cloud/ipfs/Qmed8jVF5FvBn6Jerxk8Wm5DwRjuAHRfBXgofTue37orBC/Avatar_Orion.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2020-09-29T06:20:23.600Z",
+    "updated_at": "2026-01-24T09:46:08.192Z",
+    "thumbnail_url": "https://gateway.pinata.cloud/ipfs/QmbFgSiuyBmcKDEHS3fonHM2EJQxiWmmr56crMKimcYf7m/orion_normal.png",
+    "metadata": {
+      "token_id": "0",
+      "attributes": [
+        {
+          "value": "First"
+        },
+        {
+          "value": "Orion"
+        },
+        {
+          "value": "Crypto"
+        },
+        {
+          "value": "Space"
+        },
+        {
+          "value": "Blockchain"
+        },
+        {
+          "value": "Unique"
+        }
+      ],
+      "external_url": "https://opensea.io/item/ethereum/0xc1def47cf1e15ee8c2a92f4e0e968372880d18d1/0"
+    }
+  },
+  {
+    "id": "0xc1def47cf1e15ee8c2a92f4e0e968372880d18d1/1",
+    "name": "Aurora",
+    "project_id": "toxsam",
+    "description": "The dawm of a new era of human kind on the blockchain.\nThe second avatar ever minted on Ethereum.",
+    "model_file_url": "https://gateway.pinata.cloud/ipfs/QmVvfCcAKYozNQwwxPbHyNohLyBJbTrCBSM1Ycck3ouJSj/Avartar_Aurora.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2020-09-29T06:23:24.707Z",
+    "updated_at": "2026-01-24T09:35:51.976Z",
+    "thumbnail_url": "https://gateway.pinata.cloud/ipfs/QmWpCHs9ukHRzKGWFsCcoxYPZ88EGh7UCnnxmktVJPKPHp/aurora_normal.png",
+    "metadata": {
+      "token_id": "1",
+      "attributes": [
+        {
+          "value": "Crypto"
+        },
+        {
+          "value": "Space"
+        },
+        {
+          "value": "Aurora"
+        },
+        {
+          "value": "Blockchain"
+        },
+        {
+          "value": "Unique"
+        },
+        {
+          "value": "Second"
+        }
+      ],
+      "external_url": "https://opensea.io/item/ethereum/0xc1def47cf1e15ee8c2a92f4e0e968372880d18d1/1"
+    }
+  },
+  {
+    "id": "0xbffd07cc4d32578fe3ccbf8bd0c5ffa8da3fc600/1101",
+    "name": "Chubby Tubby Cat",
+    "project_id": "toxsam",
+    "description": "uh oh…stinky!",
+    "model_file_url": "https://gateway.pinata.cloud/ipfs/QmY4NQRArQaEWPgyzyTuCSvyAnBUhtsshFKPjJHbbzVKLL/ChubbyTubbyCat.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-02-22T15:20:05.473000Z",
+    "updated_at": "2026-01-24T10:01:46.455Z",
+    "thumbnail_url": "https://gateway.pinata.cloud/ipfs/QmbqCavqTCQgy1JiDhhoNNaA34x4fRvMdZE2JDftUcEqjQ/Chubby%20Tubby%20Cat_Thumbnail.webp",
+    "metadata": {
+      "token_id": "1101",
+      "attributes": [
+        {
+          "value": "CC0"
+        },
+        {
+          "value": "TubbyCat"
+        },
+        {
+          "value": "Chubby"
+        },
+        {
+          "value": "stinky"
+        },
+        {
+          "value": "Cat"
+        },
+        {
+          "value": "Cartoon"
+        },
+        {
+          "value": "Pink"
+        },
+        {
+          "display_type": "date",
+          "value": 1677075605473,
+          "trait_type": "birthday"
+        }
+      ],
+      "external_url": "https://opensea.io/item/ethereum/0xbffd07cc4d32578fe3ccbf8bd0c5ffa8da3fc600/1101"
+    }
+  },
+  {
+    "id": "0xbffd07cc4d32578fe3ccbf8bd0c5ffa8da3fc600/1201",
+    "name": "The Worm",
+    "project_id": "toxsam",
+    "description": "Praise Be The Worm🪱🙏",
+    "model_file_url": "https://gateway.pinata.cloud/ipfs/QmVLhUz4mtr2RH5t5UKrig6s8MWRXy68MzTvfJvdkMefMt/TheWorm.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-03-07T19:26:33.223000Z",
+    "updated_at": "2026-01-24T10:02:21.683Z",
+    "thumbnail_url": "https://gateway.pinata.cloud/ipfs/QmRC3U7Yeo3YydrAajjoZKvdPzpowQoMQ8XMqCrwjims9G/The%20Worm_Thumbnail.webp",
+    "metadata": {
+      "token_id": "1201",
+      "attributes": [
+        {
+          "value": "CC0"
+        },
+        {
+          "value": "TheWorm"
+        },
+        {
+          "value": "Worm"
+        },
+        {
+          "value": "Cute"
+        },
+        {
+          "value": "Small"
+        },
+        {
+          "value": "🪱🙏"
+        },
+        {
+          "value": "🪱"
+        },
+        {
+          "display_type": "date",
+          "value": 1678213593223,
+          "trait_type": "birthday"
+        }
+      ],
+      "external_url": "https://opensea.io/item/ethereum/0xbffd07cc4d32578fe3ccbf8bd0c5ffa8da3fc600/1201"
+    }
+  },
+  {
+    "id": "0xbffd07cc4d32578fe3ccbf8bd0c5ffa8da3fc600/401",
+    "name": "EYE Zealot",
+    "project_id": "toxsam",
+    "description": "A mysterious figure who spreads the word of THE EYE, a powerful symbol of TRUTH. Those who embrace the EYE are rewarded with knowledge and enlightenment.",
+    "model_file_url": "https://gateway.pinata.cloud/ipfs/QmYSHP8r4BKwyxMQwJMBWpJc1uE8EM7MDVXzNFhgFBesch/EyeZealot.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2022-12-29T14:27:39.497000Z",
+    "updated_at": "2026-01-24T09:40:32.333Z",
+    "thumbnail_url": "https://gateway.pinata.cloud/ipfs/QmWbDqGuTRdgeUAew4fGRq1Ze6Bs1nd2s7Fx7wxnLvBFfS/EYE Zealot_Thumbnail.png",
+    "metadata": {
+      "token_id": "401",
+      "attributes": [
+        {
+          "value": "CC0"
+        },
+        {
+          "value": "EYE"
+        },
+        {
+          "value": "Zealot"
+        },
+        {
+          "value": "Humanoid"
+        },
+        {
+          "value": "THE EYE"
+        },
+        {
+          "value": "Stylized"
+        },
+        {
+          "value": "Vynil"
+        },
+        {
+          "display_type": "date",
+          "value": 1672320459497,
+          "trait_type": "birthday"
+        }
+      ],
+      "external_url": "https://opensea.io/item/ethereum/0xbffd07cc4d32578fe3ccbf8bd0c5ffa8da3fc600/401"
+    }
+  },
+  {
+    "id": "0xbffd07cc4d32578fe3ccbf8bd0c5ffa8da3fc600/501",
+    "name": "FrostyBoogie",
+    "project_id": "toxsam",
+    "description": "From the icy tundra of the Arctic comes FrostyBoogie, the ultimate Eskimo electronic dancer. With his comfy slippers and electrifying moves.",
+    "model_file_url": "https://gateway.pinata.cloud/ipfs/QmbNqsuVYaVrYtC6ALeco3jogcSi4NbbzfrGJs5i7fjB26/FrostyBoogie.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-01-06T20:06:26.141000Z",
+    "updated_at": "2026-01-24T09:39:48.643Z",
+    "thumbnail_url": "https://gateway.pinata.cloud/ipfs/QmRgBwy19a22RSzYoN4MXRUo2Kp3Uvx9UxwesiQ4nCqMCt/FrostyBoogie_Thumbnail.png",
+    "metadata": {
+      "token_id": "501",
+      "attributes": [
+        {
+          "value": "Cold"
+        },
+        {
+          "value": "Humanoid"
+        },
+        {
+          "value": "Cartoon"
+        },
+        {
+          "value": "Blendshapes"
+        },
+        {
+          "value": "Frost"
+        },
+        {
+          "value": "Boogie"
+        },
+        {
+          "value": "Fun"
+        },
+        {
+          "display_type": "date",
+          "value": 1673031986141,
+          "trait_type": "birthday"
+        }
+      ],
+      "external_url": "https://opensea.io/item/ethereum/0xbffd07cc4d32578fe3ccbf8bd0c5ffa8da3fc600/501"
+    }
+  },
+  {
+    "id": "0xbffd07cc4d32578fe3ccbf8bd0c5ffa8da3fc600/601",
+    "name": "EYE Diviner",
+    "project_id": "toxsam",
+    "description": "A being of ancient power, EYE Diviner, dwells in the world beyond the EYE REALM. It's friendly facade belies its true nature, as a master of secrets and hidden knowledge.",
+    "model_file_url": "https://gateway.pinata.cloud/ipfs/QmbSvK3s7QF8SvAhAzaurR2jo1HmRgzShyq6d8N6DqsQin/EyeDiviner.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-01-14T21:13:57.980000Z",
+    "updated_at": "2026-01-24T09:47:40.978Z",
+    "thumbnail_url": "https://gateway.pinata.cloud/ipfs/QmeqHB23fPeLriacZyH8YkcF4CL81hHNnp9Uh6d493Cx3c/EYE Diviner_Thumbnail-compressed.webp",
+    "metadata": {
+      "token_id": "601",
+      "attributes": [
+        {
+          "value": "EYE"
+        },
+        {
+          "value": "Genie"
+        },
+        {
+          "value": "Magic"
+        },
+        {
+          "value": "Cartoon"
+        },
+        {
+          "display_type": "date",
+          "trait_type": "birthday",
+          "value": 1673727237980
+        }
+      ],
+      "external_url": "https://opensea.io/item/ethereum/0xbffd07cc4d32578fe3ccbf8bd0c5ffa8da3fc600/601"
+    }
+  },
+  {
+    "id": "0xbffd07cc4d32578fe3ccbf8bd0c5ffa8da3fc600/701",
+    "name": "MaxHax",
+    "project_id": "toxsam",
+    "description": "Expert hacker known for exploiting vulnerabilities and bypassing security. Strong advocate for open-source software and contributing to the community through powerful hacking tools. C00L",
+    "model_file_url": "https://gateway.pinata.cloud/ipfs/QmZ5FRKE3jEAwiV2ryatqmrzcwAEa5sZrU4qqkzP9dqu7x/MaxHax.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-01-22T20:01:00.533000Z",
+    "updated_at": "2026-01-24T09:40:18.348Z",
+    "thumbnail_url": "https://gateway.pinata.cloud/ipfs/QmXFGCtqN3i4ZXWtwF4hL4mdHGz1VcwX1QWb6RdPBbhxKu/MaxHax_Thumbnail-compressed.webp",
+    "metadata": {
+      "token_id": "701",
+      "attributes": [
+        {
+          "value": "Hacker"
+        },
+        {
+          "value": "Humanoid"
+        },
+        {
+          "value": "Opensource"
+        },
+        {
+          "value": "MaxHax"
+        },
+        {
+          "value": "Sylized"
+        },
+        {
+          "value": "N46vibes"
+        },
+        {
+          "display_type": "date",
+          "value": 1674414060533,
+          "trait_type": "birthday"
+        }
+      ],
+      "external_url": "https://opensea.io/item/ethereum/0xbffd07cc4d32578fe3ccbf8bd0c5ffa8da3fc600/701"
+    }
+  },
+  {
+    "id": "0xbffd07cc4d32578fe3ccbf8bd0c5ffa8da3fc600/801",
+    "name": "Crustybutt da king",
+    "project_id": "toxsam",
+    "description": "ₐₐₐₐₐₐₐₐₐₐₐAₐₐₐₐaₐₐₐₐₐₐₐₐₐₐₐₐᵤᵤᵤᵤᵤᵤuᵤᵤᵤGGGₕₕₕₕₕ iz  ʰᵉeʳᵉ  iⁿ  dᵃ  pₕᵒʳₘm  ᵘv  cc0  aᵛeutₐₐₐₐʳʳʳʳ.  ʳₑdy  ₜᵤ  ˢᵗrʳʳᵗ  ᑯa  ₉a♭ₗᶦₙ  ʳₐₐᶦD  ᵒn  ᑯa  mᵉtₐₐₐₐvᵢₑRzₑₑₑ  hiᵏₖ  yᶦᵉa",
+    "model_file_url": "https://gateway.pinata.cloud/ipfs/QmZan3z9nMTmEKSf99bPb8crKcYm4scMJd5YpCTN14B9mn/Crustybutt_da_gobblin_king.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-02-10T11:01:51.502000Z",
+    "updated_at": "2026-01-24T09:40:03.350Z",
+    "thumbnail_url": "https://gateway.pinata.cloud/ipfs/QmTJeExrkvUgeKwwyVGjXfsiLbyJmHAQTQEq9t2gfbPTzZ/Crustybutt da king_Thumbnail.webp",
+    "metadata": {
+      "token_id": "801",
+      "attributes": [
+        {
+          "value": "Goblin"
+        },
+        {
+          "value": "GoblinTown"
+        },
+        {
+          "value": "King"
+        },
+        {
+          "value": "Crustybutt"
+        },
+        {
+          "value": "NSFW"
+        },
+        {
+          "value": "OpenSource"
+        },
+        {
+          "value": "Toon"
+        },
+        {
+          "display_type": "date",
+          "value": 1676023311502,
+          "trait_type": "birthday"
+        }
+      ],
+      "external_url": "https://opensea.io/item/ethereum/0xbffd07cc4d32578fe3ccbf8bd0c5ffa8da3fc600/801"
+    }
+  },
+  {
+    "id": "0x59202483529a11642a43578a6ee77ca4ec24f930/0",
+    "name": "King Mutatio",
+    "project_id": "toxsam",
+    "description": "Buzzzzzzz",
+    "model_file_url": "https://dweb.link/ipfs/QmVXPeQzJhhfjPJyeHdt4PfZddLSLPwNEHuPTu1RauLSsW/king_mutatio.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2024-03-27T16:57:53.078Z",
+    "updated_at": "2026-01-24T09:44:34.722Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmWaMwRGWBPywrwakUyY1JMumrEoiEeDRU7t1GbUomykXW/king_mutatio_r1.png",
+    "metadata": {
+      "token_id": "0",
+      "attributes": [
+        {
+          "value": "Mutatio"
+        },
+        {
+          "value": "King"
+        },
+        {
+          "value": "Fly"
+        },
+        {
+          "value": "Bzzz"
+        },
+        {
+          "display_type": "date",
+          "value": 1711558673078,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmWaMwRGWBPywrwakUyY1JMumrEoiEeDRU7t1GbUomykXW/king_mutatio_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmaNMDfa1pLBigQKSo8cALmGbEekDpCHKYuyUh45rXUTWL/king_mutatio_r2.png",
+        "fullbody": "https://dweb.link/ipfs/Qma9g9ry726aPqkwJSzSCKSf8wFwkjkFqsnrXHaFww9qMh/king_mutatio_r3.png"
+      },
+      "external_url": "https://opensea.io/item/base/0x59202483529a11642a43578a6ee77ca4ec24f930/0"
+    }
+  }
+]
