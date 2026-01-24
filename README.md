@@ -41,6 +41,8 @@ We curate two types of collections:
 - **VIPE Heroes** - NFT avatars (CC-BY, attribution required)
 - **Grifters Squaddies** - NFT avatars (CC0, no attribution needed)
 - **ToxSam** - NFT avatars across Ethereum and Base (CC0, no attribution needed)
+- **Halloween Rising** - Spooky Halloween avatars on Optimism (CC0, no attribution needed)
+- **Xmas Chibis** - Christmas avatar collection on Polygon (CC0, no attribution needed)
 - More coming soon!
 
 Each collection clearly states its license - check `projects.json` for details.
@@ -78,6 +80,8 @@ const vrmUrl = avatars[0].model_file_url;
     vipe-heroes-genesis.json
     grifters-squaddies.json
     toxsam.json
+    halloween-rising.json
+    xmas-chibis.json
 ```
 
 - `projects.json` tells you what collections exist and their licenses.

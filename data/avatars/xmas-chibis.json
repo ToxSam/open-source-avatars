@@ -1,0 +1,2958 @@
+[
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/1",
+    "name": "Elel Silverbell",
+    "project_id": "xmas-chibis",
+    "description": "Merry elves in festive attire, Twinkling eyes, gifts inspire. A joyous brigade, hearts uplift, Holiday magic, a spirited gift.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar01_Neutral.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.946Z",
+    "updated_at": "2026-01-24T11:14:09.458Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar01_Neutral_r1.png",
+    "metadata": {
+      "token_id": "1",
+      "attributes": [
+        {
+          "value": "Elf",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Festive",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526946,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar01_Neutral_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar01_Neutral_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar01_Neutral_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/1"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/2",
+    "name": "Paws Chestnut",
+    "project_id": "xmas-chibis",
+    "description": "Mischievous bears in coats so bright, Warm hearts aglow, a fuzzy delight.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar02_Neutral.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.949Z",
+    "updated_at": "2026-01-24T11:14:18.927Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar02_Neutral_r1.png",
+    "metadata": {
+      "token_id": "2",
+      "attributes": [
+        {
+          "value": "Bear",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Neutral",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526949,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar02_Neutral_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar02_Neutral_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar02_Neutral_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/2"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/3",
+    "name": "Holy Garland",
+    "project_id": "xmas-chibis",
+    "description": "Angels sprinkle glow divine, Wings dance in starry line. Sprinkling mirth from skies above, A dance of fun, a gift of dove",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar03_Neutral.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.954Z",
+    "updated_at": "2026-01-24T11:14:25.718Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar03_Neutral_r1.png",
+    "metadata": {
+      "token_id": "3",
+      "attributes": [
+        {
+          "value": "Divine",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Festive",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526954,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar03_Neutral_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar03_Neutral_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar03_Neutral_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/3"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/4",
+    "name": "Comet Kringle",
+    "project_id": "xmas-chibis",
+    "description": "Guiding the sleigh on starry heights, Kind-hearted troupe in festive lights. Spreading gifts with love and cheer, Around the globe, joy draws near",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar04_Neutral.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.958Z",
+    "updated_at": "2026-01-24T11:14:34.148Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar04_Neutral_r1.png",
+    "metadata": {
+      "token_id": "4",
+      "attributes": [
+        {
+          "value": "Deer",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Festive",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526958,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar04_Neutral_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar04_Neutral_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar04_Neutral_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/4"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/5",
+    "name": "Frosty Claus",
+    "project_id": "xmas-chibis",
+    "description": "Frosty, bright delight, Carrot noses, coal eyes ignite. Snowy squad in flight, Hearts warmed, pure white.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar05_Neutral.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.961Z",
+    "updated_at": "2026-01-24T11:14:41.986Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar05_Neutral_r1.png",
+    "metadata": {
+      "token_id": "5",
+      "attributes": [
+        {
+          "value": "Frosty",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Festive",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526961,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar05_Neutral_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar05_Neutral_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar05_Neutral_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/5"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/6",
+    "name": "Merry Yulelog",
+    "project_id": "xmas-chibis",
+    "description": "Fuzzy fox coats, delight so bright, A merry touch for Christmas light.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar06_Neutral.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.964Z",
+    "updated_at": "2026-01-24T11:14:49.471Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar06_Neutral_r1.png",
+    "metadata": {
+      "token_id": "6",
+      "attributes": [
+        {
+          "value": "Fox",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Festive",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526964,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar06_Neutral_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar06_Neutral_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar06_Neutral_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/6"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/7",
+    "name": "Pip Poinsenttia",
+    "project_id": "xmas-chibis",
+    "description": "As sweet as candy, a joyful spree, This set delights sweet tooths, you see.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar07_Neutral.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.969Z",
+    "updated_at": "2026-01-24T11:14:56.909Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar07_Neutral_r1.png",
+    "metadata": {
+      "token_id": "7",
+      "attributes": [
+        {
+          "value": "Sweet",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Festive",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526969,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar07_Neutral_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar07_Neutral_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar07_Neutral_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/7"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/8",
+    "name": "Crystal Yuletide",
+    "project_id": "xmas-chibis",
+    "description": "Regal grace in winter's embrace, A confection of beauty and snowy lace.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar08_Neutral.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.971Z",
+    "updated_at": "2026-01-24T11:15:03.877Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar08_Neutral_r1.png",
+    "metadata": {
+      "token_id": "8",
+      "attributes": [
+        {
+          "value": "Royal",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Festive",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526971,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar08_Neutral_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar08_Neutral_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar08_Neutral_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/8"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/9",
+    "name": "Thumper Cranberry",
+    "project_id": "xmas-chibis",
+    "description": "In winter's wonder, a joyful clump, This bunny's here, ready to jump",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar09_Neutral.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.974Z",
+    "updated_at": "2026-01-24T11:15:11.601Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar09_Neutral_r1.png",
+    "metadata": {
+      "token_id": "9",
+      "attributes": [
+        {
+          "value": "Bunny",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Festive",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526974,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar09_Neutral_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar09_Neutral_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar09_Neutral_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/9"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/10",
+    "name": "Clara Nutcracker",
+    "project_id": "xmas-chibis",
+    "description": "Battling nightmares, their courage aglow, Wooden warriors, their courage aglow",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar10_Neutral.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.976Z",
+    "updated_at": "2026-01-24T11:15:19.398Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar10_Neutral_r1.png",
+    "metadata": {
+      "token_id": "10",
+      "attributes": [
+        {
+          "value": "Nutcracker",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Festive",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526976,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar10_Neutral_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar10_Neutral_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar10_Neutral_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/10"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/11",
+    "name": "Whisker Eggnog",
+    "project_id": "xmas-chibis",
+    "description": "Whiskers twitch, a drum sounds, Silent ruler in the night's shadow.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar11_Neutral.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.979Z",
+    "updated_at": "2026-01-24T11:15:29.440Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar11_Neutral_r1.png",
+    "metadata": {
+      "token_id": "11",
+      "attributes": [
+        {
+          "value": "Mouse",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Festive",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526979,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar11_Neutral_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar11_Neutral_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar11_Neutral_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/11"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/12",
+    "name": "Piney Tinselbaun",
+    "project_id": "xmas-chibis",
+    "description": "Ornaments tell tales, a festive spree, Joyful symbol of Yuletide glee.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar12_Neutral.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.985Z",
+    "updated_at": "2026-01-24T11:15:38.429Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar12_Neutral_r1.png",
+    "metadata": {
+      "token_id": "12",
+      "attributes": [
+        {
+          "value": "Tinsel",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Festive",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526985,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar12_Neutral_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar12_Neutral_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar12_Neutral_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/12"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/13",
+    "name": "Nick North",
+    "project_id": "xmas-chibis",
+    "description": "Santa's mailman, on paths so wide, Letters carry dreams, hopes inside.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar13_Neutral.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.987Z",
+    "updated_at": "2026-01-24T11:15:47.829Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar13_Neutral_r1.png",
+    "metadata": {
+      "token_id": "13",
+      "attributes": [
+        {
+          "value": "Carrier",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Festive",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526987,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar13_Neutral_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar13_Neutral_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar13_Neutral_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/13"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/14",
+    "name": "Krampus Wreath",
+    "project_id": "xmas-chibis",
+    "description": "Mischievous spirit roams shadows near, Naughty children, beware. Punishing pranks, Yule night's gleam, Festive twist to mischief, a gleeful scheme.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar14_Neutral.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.989Z",
+    "updated_at": "2026-01-24T11:15:54.634Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar14_Neutral_r1.png",
+    "metadata": {
+      "token_id": "14",
+      "attributes": [
+        {
+          "value": "Krampus",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Festive",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526989,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar14_Neutral_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar14_Neutral_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar14_Neutral_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/14"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/15",
+    "name": "Cookie Gingerbread",
+    "project_id": "xmas-chibis",
+    "description": "Gingerbread delight, a cookie's charm, In every bite, a holiday warm.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar15_Neutral.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.991Z",
+    "updated_at": "2026-01-24T11:16:01.697Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar15_Neutral_r1.png",
+    "metadata": {
+      "token_id": "15",
+      "attributes": [
+        {
+          "value": "Gingerbread",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Festive",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526991,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar15_Neutral_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar15_Neutral_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar15_Neutral_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/15"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/16",
+    "name": "Snore Stocking",
+    "project_id": "xmas-chibis",
+    "description": "Dreams adorned in soft moonlight, Seek a peaceful slumber, pure delight.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar16_Neutral.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.996Z",
+    "updated_at": "2026-01-24T11:16:09.121Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar16_Neutral_r1.png",
+    "metadata": {
+      "token_id": "16",
+      "attributes": [
+        {
+          "value": "Sleepy",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Festive",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526996,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar16_Neutral_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar16_Neutral_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar16_Neutral_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/16"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/17",
+    "name": "Fael Silverbell",
+    "project_id": "xmas-chibis",
+    "description": "Merry elves in festive attire, Twinkling eyes, gifts inspire. A joyous brigade, hearts uplift, Holiday magic, a spirited gift.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar01_Cold.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.947Z",
+    "updated_at": "2026-01-24T11:16:17.335Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar01_Cold_r1.png",
+    "metadata": {
+      "token_id": "17",
+      "attributes": [
+        {
+          "value": "Elf",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Cold",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526947,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar01_Cold_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar01_Cold_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar01_Cold_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/17"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/18",
+    "name": "Mocha Chestnut",
+    "project_id": "xmas-chibis",
+    "description": "Mischievous bears in coats so bright, Warm hearts aglow, a fuzzy delight.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar02_Cold.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.950Z",
+    "updated_at": "2026-01-24T11:16:24.627Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar02_Cold_r1.png",
+    "metadata": {
+      "token_id": "18",
+      "attributes": [
+        {
+          "value": "Bear",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Cold",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526950,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar02_Cold_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar02_Cold_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar02_Cold_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/18"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/19",
+    "name": "Joy Garland",
+    "project_id": "xmas-chibis",
+    "description": "Angels sprinkle glow divine, Wings dance in starry line. Sprinkling mirth from skies above, A dance of fun, a gift of dove",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar03_Cold.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.956Z",
+    "updated_at": "2026-01-24T11:16:32.132Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar03_Cold_r1.png",
+    "metadata": {
+      "token_id": "19",
+      "attributes": [
+        {
+          "value": "Divine",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Cold",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526956,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar03_Cold_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar03_Cold_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar03_Cold_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/19"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/20",
+    "name": "Dasher Kringle",
+    "project_id": "xmas-chibis",
+    "description": "Guiding the sleigh on starry heights, Kind-hearted troupe in festive lights. Spreading gifts with love and cheer, Around the globe, joy draws near",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar04_Cold.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.959Z",
+    "updated_at": "2026-01-24T11:16:39.582Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar04_Cold_r1.png",
+    "metadata": {
+      "token_id": "20",
+      "attributes": [
+        {
+          "value": "Deer",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Cold",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526959,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar04_Cold_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar04_Cold_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar04_Cold_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/20"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/21",
+    "name": "Snowy Claus",
+    "project_id": "xmas-chibis",
+    "description": "Frosty, bright delight, Carrot noses, coal eyes ignite. Snowy squad in flight, Hearts warmed, pure white.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar05_Cold.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.962Z",
+    "updated_at": "2026-01-24T11:16:47.114Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar05_Cold_r1.png",
+    "metadata": {
+      "token_id": "21",
+      "attributes": [
+        {
+          "value": "Frosty",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Cold",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526962,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar05_Cold_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar05_Cold_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar05_Cold_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/21"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/22",
+    "name": "Twinkle Yulelog",
+    "project_id": "xmas-chibis",
+    "description": "Fuzzy fox coats, delight so bright, A merry touch for Christmas light.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar06_Cold.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.965Z",
+    "updated_at": "2026-01-24T11:16:53.733Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar06_Cold_r1.png",
+    "metadata": {
+      "token_id": "22",
+      "attributes": [
+        {
+          "value": "Fox Cold",
+          "trait_type": "Type"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526965,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar06_Cold_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar06_Cold_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar06_Cold_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/22"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/23",
+    "name": "Sprout Poinsenttia",
+    "project_id": "xmas-chibis",
+    "description": "As sweet as candy, a joyful spree, This set delights sweet tooths, you see.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar07_Cold.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.969Z",
+    "updated_at": "2026-01-24T11:17:01.616Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar07_Cold_r1.png",
+    "metadata": {
+      "token_id": "23",
+      "attributes": [
+        {
+          "value": "Sweet",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Cold",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526969,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar07_Cold_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar07_Cold_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar07_Cold_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/23"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/24",
+    "name": "Glacia Yuletide",
+    "project_id": "xmas-chibis",
+    "description": "Regal grace in winter's embrace, A confection of beauty and snowy lace.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar08_Cold.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.972Z",
+    "updated_at": "2026-01-24T11:17:08.137Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar08_Cold_r1.png",
+    "metadata": {
+      "token_id": "24",
+      "attributes": [
+        {
+          "value": "Royal",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Cold",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526972,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar08_Cold_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar08_Cold_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar08_Cold_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/24"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/25",
+    "name": "Cotton Cranberry",
+    "project_id": "xmas-chibis",
+    "description": "In winter's wonder, a joyful clump, This bunny's here, ready to jump",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar09_Cold.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.975Z",
+    "updated_at": "2026-01-24T11:17:17.279Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar09_Cold_r1.png",
+    "metadata": {
+      "token_id": "25",
+      "attributes": [
+        {
+          "value": "Bunny",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Cold",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526975,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar09_Cold_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar09_Cold_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar09_Cold_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/25"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/26",
+    "name": "Crunch Nutcracker",
+    "project_id": "xmas-chibis",
+    "description": "Battling nightmares, their courage aglow, Wooden warriors, their courage aglow",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar10_Cold.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.976Z",
+    "updated_at": "2026-01-24T11:17:31.693Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar10_Cold_r1.png",
+    "metadata": {
+      "token_id": "26",
+      "attributes": [
+        {
+          "value": "Nutcracker",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Cold",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526976,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar10_Cold_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar10_Cold_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar10_Cold_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/26"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/27",
+    "name": "Gnarly Eggnog",
+    "project_id": "xmas-chibis",
+    "description": "Whiskers twitch, a drum sounds, Silent ruler in the night's shadow.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar11_Cold.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.980Z",
+    "updated_at": "2026-01-24T11:17:38.641Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar11_Cold_r1.png",
+    "metadata": {
+      "token_id": "27",
+      "attributes": [
+        {
+          "value": "Mouse",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Cold",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526980,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar11_Cold_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar11_Cold_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar11_Cold_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/27"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/28",
+    "name": "Spruce Tinselbaun",
+    "project_id": "xmas-chibis",
+    "description": "Ornaments tell tales, a festive spree, Joyful symbol of Yuletide glee.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar12_Cold.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.985Z",
+    "updated_at": "2026-01-24T11:17:46.963Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar12_Cold_r1.png",
+    "metadata": {
+      "token_id": "28",
+      "attributes": [
+        {
+          "value": "Tinsel",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Cold",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526985,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar12_Cold_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar12_Cold_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar12_Cold_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/28"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/29",
+    "name": "Kris North",
+    "project_id": "xmas-chibis",
+    "description": "Santa's mailman, on paths so wide, Letters carry dreams, hopes inside.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar13_Cold.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.988Z",
+    "updated_at": "2026-01-24T11:17:54.341Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar13_Cold_r1.png",
+    "metadata": {
+      "token_id": "29",
+      "attributes": [
+        {
+          "value": "Carrier",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Cold",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526988,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar13_Cold_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar13_Cold_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar13_Cold_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/29"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/30",
+    "name": "Bram Wreath",
+    "project_id": "xmas-chibis",
+    "description": "Mischievous spirit roams shadows near, Naughty children, beware. Punishing pranks, Yule night's gleam, Festive twist to mischief, a gleeful scheme.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar14_Cold.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.990Z",
+    "updated_at": "2026-01-24T11:18:03.849Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar14_Cold_r1.png",
+    "metadata": {
+      "token_id": "30",
+      "attributes": [
+        {
+          "value": "Krampus",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Cold",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526990,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar14_Cold_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar14_Cold_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar14_Cold_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/30"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/31",
+    "name": "Snap Gingerbread",
+    "project_id": "xmas-chibis",
+    "description": "Gingerbread delight, a cookie's charm, In every bite, a holiday warm.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar15_Cold.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.992Z",
+    "updated_at": "2026-01-24T11:18:11.471Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar15_Cold_r1.png",
+    "metadata": {
+      "token_id": "31",
+      "attributes": [
+        {
+          "value": "Gingerbread",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Cold",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526992,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar15_Cold_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar15_Cold_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar15_Cold_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/31"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/32",
+    "name": "Dream Stocking",
+    "project_id": "xmas-chibis",
+    "description": "Dreams adorned in soft moonlight, Seek a peaceful slumber, pure delight.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar16_Cold.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.998Z",
+    "updated_at": "2026-01-24T11:18:20.435Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar16_Cold_r1.png",
+    "metadata": {
+      "token_id": "32",
+      "attributes": [
+        {
+          "value": "Sleepy",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Cold",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526998,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar16_Cold_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar16_Cold_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar16_Cold_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/32"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/33",
+    "name": "Iriel Silverbell",
+    "project_id": "xmas-chibis",
+    "description": "Merry elves in festive attire, Twinkling eyes, gifts inspire. A joyous brigade, hearts uplift, Holiday magic, a spirited gift.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar01_Warm.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.948Z",
+    "updated_at": "2026-01-24T11:18:58.391Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar01_Warm_r1.png",
+    "metadata": {
+      "token_id": "33",
+      "attributes": [
+        {
+          "value": "Elf",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Warm",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526948,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar01_Warm_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar01_Warm_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar01_Warm_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/33"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/34",
+    "name": "Toffee Chestnut",
+    "project_id": "xmas-chibis",
+    "description": "Mischievous bears in coats so bright, Warm hearts aglow, a fuzzy delight.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar02_Warm.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.950Z",
+    "updated_at": "2026-01-24T11:19:05.796Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar02_Warm_r1.png",
+    "metadata": {
+      "token_id": "34",
+      "attributes": [
+        {
+          "value": "Bear",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Warm",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526950,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar02_Warm_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar02_Warm_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar02_Warm_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/34"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/35",
+    "name": "Jingle Garland",
+    "project_id": "xmas-chibis",
+    "description": "Angels sprinkle glow divine, Wings dance in starry line. Sprinkling mirth from skies above, A dance of fun, a gift of dove",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar03_Warm.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.957Z",
+    "updated_at": "2026-01-24T11:19:14.854Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar03_Warm_r1.png",
+    "metadata": {
+      "token_id": "35",
+      "attributes": [
+        {
+          "value": "Divine",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Warm",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526957,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar03_Warm_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar03_Warm_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar03_Warm_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/35"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/36",
+    "name": "Dancer Kringle",
+    "project_id": "xmas-chibis",
+    "description": "Guiding the sleigh on starry heights, Kind-hearted troupe in festive lights. Spreading gifts with love and cheer, Around the globe, joy draws near",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar04_Warm.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.959Z",
+    "updated_at": "2026-01-24T11:19:23.547Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar04_Warm_r1.png",
+    "metadata": {
+      "token_id": "36",
+      "attributes": [
+        {
+          "value": "Deer",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Warm",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526959,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar04_Warm_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar04_Warm_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar04_Warm_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/36"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/37",
+    "name": "Chilly Claus",
+    "project_id": "xmas-chibis",
+    "description": "Frosty, bright delight, Carrot noses, coal eyes ignite. Snowy squad in flight, Hearts warmed, pure white.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar05_Warm.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.963Z",
+    "updated_at": "2026-01-24T11:19:32.758Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar05_Warm_r1.png",
+    "metadata": {
+      "token_id": "37",
+      "attributes": [
+        {
+          "value": "Frosty",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Warm",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526963,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar05_Warm_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar05_Warm_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar05_Warm_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/37"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/38",
+    "name": "Milo Yulelog",
+    "project_id": "xmas-chibis",
+    "description": "Fuzzy fox coats, delight so bright, A merry touch for Christmas light.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar06_Warm.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.965Z",
+    "updated_at": "2026-01-24T11:19:40.246Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar06_Warm_r1.png",
+    "metadata": {
+      "token_id": "38",
+      "attributes": [
+        {
+          "value": "Fox",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Warm",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526965,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar06_Warm_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar06_Warm_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar06_Warm_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/38"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/39",
+    "name": "Jolly Poinsenttia",
+    "project_id": "xmas-chibis",
+    "description": "As sweet as candy, a joyful spree, This set delights sweet tooths, you see.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar07_Warm.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.970Z",
+    "updated_at": "2026-01-24T11:19:47.779Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar07_Warm_r1.png",
+    "metadata": {
+      "token_id": "39",
+      "attributes": [
+        {
+          "value": "Sweet",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Warm",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526970,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar07_Warm_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar07_Warm_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar07_Warm_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/39"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/40",
+    "name": "Icelyn Yuletide",
+    "project_id": "xmas-chibis",
+    "description": "Regal grace in winter's embrace, A confection of beauty and snowy lace.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar08_Warm.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.973Z",
+    "updated_at": "2026-01-24T11:19:55.368Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar08_Warm_r1.png",
+    "metadata": {
+      "token_id": "40",
+      "attributes": [
+        {
+          "value": "Royal",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Warm",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526973,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar08_Warm_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar08_Warm_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar08_Warm_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/40"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/41",
+    "name": "Binky Cranberry",
+    "project_id": "xmas-chibis",
+    "description": "In winter's wonder, a joyful clump, This bunny's here, ready to jump",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar09_Warm.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.975Z",
+    "updated_at": "2026-01-24T11:20:05.672Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar09_Warm_r1.png",
+    "metadata": {
+      "token_id": "41",
+      "attributes": [
+        {
+          "value": "Bunny",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Warm",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526975,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar09_Warm_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar09_Warm_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar09_Warm_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/41"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/42",
+    "name": "Creak Nutcracker",
+    "project_id": "xmas-chibis",
+    "description": "Battling nightmares, their courage aglow, Wooden warriors, their courage aglow",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar10_Warm.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.977Z",
+    "updated_at": "2026-01-24T11:20:15.037Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar10_Warm_r1.png",
+    "metadata": {
+      "token_id": "42",
+      "attributes": [
+        {
+          "value": "Nutcracker",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Warm",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526977,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar10_Warm_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar10_Warm_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar10_Warm_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/42"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/43",
+    "name": "Rizzo Eggnog",
+    "project_id": "xmas-chibis",
+    "description": "Whiskers twitch, a drum sounds, Silent ruler in the night's shadow.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar11_Warm.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.981Z",
+    "updated_at": "2026-01-24T11:20:23.500Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar11_Warm_r1.png",
+    "metadata": {
+      "token_id": "43",
+      "attributes": [
+        {
+          "value": "Mouse",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Warm",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526981,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar11_Warm_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar11_Warm_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar11_Warm_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/43"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/44",
+    "name": "Festy Tinselbaun",
+    "project_id": "xmas-chibis",
+    "description": "Ornaments tell tales, a festive spree, Joyful symbol of Yuletide glee.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar12_Warm.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.986Z",
+    "updated_at": "2026-01-24T11:20:32.644Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar12_Warm_r1.png",
+    "metadata": {
+      "token_id": "44",
+      "attributes": [
+        {
+          "value": "Tinsel",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Warm",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526986,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar12_Warm_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar12_Warm_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar12_Warm_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/44"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/45",
+    "name": "Merry North",
+    "project_id": "xmas-chibis",
+    "description": "Santa's mailman, on paths so wide, Letters carry dreams, hopes inside.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar13_Warm.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.988Z",
+    "updated_at": "2026-01-24T11:20:40.705Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar13_Warm_r1.png",
+    "metadata": {
+      "token_id": "45",
+      "attributes": [
+        {
+          "value": "Carrier",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Warm",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526988,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar13_Warm_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar13_Warm_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar13_Warm_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/45"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/46",
+    "name": "Vex Wreath",
+    "project_id": "xmas-chibis",
+    "description": "Mischievous spirit roams shadows near, Naughty children, beware. Punishing pranks, Yule night's gleam, Festive twist to mischief, a gleeful scheme.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar14_Warm.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.990Z",
+    "updated_at": "2026-01-24T11:20:48.567Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar14_Warm_r1.png",
+    "metadata": {
+      "token_id": "46",
+      "attributes": [
+        {
+          "value": "Krampus",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Warm",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526990,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar14_Warm_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar14_Warm_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar14_Warm_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/46"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/47",
+    "name": "Munch Gingerbread",
+    "project_id": "xmas-chibis",
+    "description": "Gingerbread delight, a cookie's charm, In every bite, a holiday warm.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar15_Warm.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.993Z",
+    "updated_at": "2026-01-24T11:20:55.771Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar15_Warm_r1.png",
+    "metadata": {
+      "token_id": "47",
+      "attributes": [
+        {
+          "value": "Gingerbread",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Warm",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526993,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar15_Warm_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar15_Warm_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar15_Warm_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/47"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/48",
+    "name": "Snooze Stocking",
+    "project_id": "xmas-chibis",
+    "description": "Dreams adorned in soft moonlight, Seek a peaceful slumber, pure delight.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar16_Warm.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.999Z",
+    "updated_at": "2026-01-24T11:21:03.841Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar16_Warm_r1.png",
+    "metadata": {
+      "token_id": "48",
+      "attributes": [
+        {
+          "value": "Sleepy",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Warm",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526999,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar16_Warm_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar16_Warm_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar16_Warm_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/48"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/49",
+    "name": "Nael Silverbell",
+    "project_id": "xmas-chibis",
+    "description": "Merry elves in festive attire, Twinkling eyes, gifts inspire. A joyous brigade, hearts uplift, Holiday magic, a spirited gift.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar01_Xmas.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.948Z",
+    "updated_at": "2026-01-24T11:21:11.099Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar01_Xmas_r1.png",
+    "metadata": {
+      "token_id": "49",
+      "attributes": [
+        {
+          "value": "Elf",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Xmas",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526948,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar01_Xmas_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar01_Xmas_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar01_Xmas_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/49"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/50",
+    "name": "Fluff Chestnut",
+    "project_id": "xmas-chibis",
+    "description": "Mischievous bears in coats so bright, Warm hearts aglow, a fuzzy delight.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar02_Xmas.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.951Z",
+    "updated_at": "2026-01-24T11:21:18.246Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar02_Xmas_r1.png",
+    "metadata": {
+      "token_id": "50",
+      "attributes": [
+        {
+          "value": "Bear",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Xmas",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526951,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar02_Xmas_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar02_Xmas_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar02_Xmas_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/50"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/51",
+    "name": "Noel Garland",
+    "project_id": "xmas-chibis",
+    "description": "Angels sprinkle glow divine, Wings dance in starry line. Sprinkling mirth from skies above, A dance of fun, a gift of dove",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar03_Xmas.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.957Z",
+    "updated_at": "2026-01-24T11:21:25.561Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar03_Xmas_r1.png",
+    "metadata": {
+      "token_id": "51",
+      "attributes": [
+        {
+          "value": "Divine",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Xmas",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526957,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar03_Xmas_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar03_Xmas_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar03_Xmas_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/51"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/52",
+    "name": "Rudolph Kringle",
+    "project_id": "xmas-chibis",
+    "description": "Guiding the sleigh on starry heights, Kind-hearted troupe in festive lights. Spreading gifts with love and cheer, Around the globe, joy draws near",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar04_Xmas.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.960Z",
+    "updated_at": "2026-01-24T11:21:34.531Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar04_Xmas_r1.png",
+    "metadata": {
+      "token_id": "52",
+      "attributes": [
+        {
+          "value": "Deer",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Xmas",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526960,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar04_Xmas_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar04_Xmas_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar04_Xmas_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/52"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/53",
+    "name": "Snowball  Claus",
+    "project_id": "xmas-chibis",
+    "description": "Frosty, bright delight, Carrot noses, coal eyes ignite. Snowy squad in flight, Hearts warmed, pure white.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar05_Xmas.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.963Z",
+    "updated_at": "2026-01-24T11:21:42.861Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar05_Xmas_r1.png",
+    "metadata": {
+      "token_id": "53",
+      "attributes": [
+        {
+          "value": "Frosty",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Xmas",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526963,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar05_Xmas_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar05_Xmas_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar05_Xmas_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/53"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/54",
+    "name": "Fawn Yulelog",
+    "project_id": "xmas-chibis",
+    "description": "Fuzzy fox coats, delight so bright, A merry touch for Christmas light.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar06_Xmas.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.967Z",
+    "updated_at": "2026-01-24T11:21:50.601Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar06_Xmas_r1.png",
+    "metadata": {
+      "token_id": "54",
+      "attributes": [
+        {
+          "value": "Fox",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Xmas",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526967,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar06_Xmas_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar06_Xmas_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar06_Xmas_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/54"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/55",
+    "name": "Bells Poinsenttia",
+    "project_id": "xmas-chibis",
+    "description": "As sweet as candy, a joyful spree, This set delights sweet tooths, you see.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar07_Xmas.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.970Z",
+    "updated_at": "2026-01-24T11:21:59.502Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar07_Xmas_r1.png",
+    "metadata": {
+      "token_id": "55",
+      "attributes": [
+        {
+          "value": "Sweet",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Xmas",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526970,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar07_Xmas_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar07_Xmas_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar07_Xmas_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/55"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/56",
+    "name": "Snowelle Yuletide",
+    "project_id": "xmas-chibis",
+    "description": "Regal grace in winter's embrace, A confection of beauty and snowy lace.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar08_Xmas.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.974Z",
+    "updated_at": "2026-01-24T11:22:07.182Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar08_Xmas_r1.png",
+    "metadata": {
+      "token_id": "56",
+      "attributes": [
+        {
+          "value": "Royal",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Xmas",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526974,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar08_Xmas_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar08_Xmas_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar08_Xmas_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/56"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/57",
+    "name": "Snuggle Cranberry",
+    "project_id": "xmas-chibis",
+    "description": "In winter's wonder, a joyful clump, This bunny's here, ready to jump",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar09_Xmas.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.975Z",
+    "updated_at": "2026-01-24T11:22:17.096Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar09_Xmas_r1.png",
+    "metadata": {
+      "token_id": "57",
+      "attributes": [
+        {
+          "value": "Bunny",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Xmas",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526975,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar09_Xmas_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar09_Xmas_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar09_Xmas_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/57"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/58",
+    "name": "Tink Nutcracker",
+    "project_id": "xmas-chibis",
+    "description": "Battling nightmares, their courage aglow, Wooden warriors, their courage aglow",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar10_Xmas.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.977Z",
+    "updated_at": "2026-01-24T11:22:24.555Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar10_Xmas_r1.png",
+    "metadata": {
+      "token_id": "58",
+      "attributes": [
+        {
+          "value": "Nutcracker",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Xmas",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526977,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar10_Xmas_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar10_Xmas_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar10_Xmas_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/58"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/59",
+    "name": "Squeak Eggnog",
+    "project_id": "xmas-chibis",
+    "description": "Whiskers twitch, a drum sounds, Silent ruler in the night's shadow.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar11_Xmas.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.982Z",
+    "updated_at": "2026-01-24T11:22:33.765Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar11_Xmas_r1.png",
+    "metadata": {
+      "token_id": "59",
+      "attributes": [
+        {
+          "value": "Mouse",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Xmas",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526982,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar11_Xmas_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar11_Xmas_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar11_Xmas_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/59"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/60",
+    "name": "Firry Tinselbaun",
+    "project_id": "xmas-chibis",
+    "description": "Ornaments tell tales, a festive spree, Joyful symbol of Yuletide glee.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar12_Xmas.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.986Z",
+    "updated_at": "2026-01-24T11:22:41.275Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar12_Xmas_r1.png",
+    "metadata": {
+      "token_id": "60",
+      "attributes": [
+        {
+          "value": "TInsel",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Xmas",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526986,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar12_Xmas_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar12_Xmas_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar12_Xmas_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/60"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/61",
+    "name": "Carol North",
+    "project_id": "xmas-chibis",
+    "description": "Santa's mailman, on paths so wide, Letters carry dreams, hopes inside.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar13_Xmas.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.989Z",
+    "updated_at": "2026-01-24T11:22:50.983Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar13_Xmas_r1.png",
+    "metadata": {
+      "token_id": "61",
+      "attributes": [
+        {
+          "value": "Carrier",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Xmas",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526989,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar13_Xmas_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar13_Xmas_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar13_Xmas_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/61"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/62",
+    "name": "Rook Wreath",
+    "project_id": "xmas-chibis",
+    "description": "Mischievous spirit roams shadows near, Naughty children, beware. Punishing pranks, Yule night's gleam, Festive twist to mischief, a gleeful scheme.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar14_Xmas.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.991Z",
+    "updated_at": "2026-01-24T11:23:09.714Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar14_Xmas_r1.png",
+    "metadata": {
+      "token_id": "62",
+      "attributes": [
+        {
+          "value": "Krampus",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Xmas",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526991,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar14_Xmas_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar14_Xmas_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar14_Xmas_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/62"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/63",
+    "name": "Zing Gingerbread",
+    "project_id": "xmas-chibis",
+    "description": "Gingerbread delight, a cookie's charm, In every bite, a holiday warm.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar15_Xmas.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.994Z",
+    "updated_at": "2026-01-24T11:23:18.514Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar15_Xmas_r1.png",
+    "metadata": {
+      "token_id": "63",
+      "attributes": [
+        {
+          "value": "Gingerbread",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Xmas",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526994,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar15_Xmas_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar15_Xmas_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar15_Xmas_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/63"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/64",
+    "name": "Slumb Stocking",
+    "project_id": "xmas-chibis",
+    "description": "Dreams adorned in soft moonlight, Seek a peaceful slumber, pure delight.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar16_Xmas.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:47.000Z",
+    "updated_at": "2026-01-24T11:23:26.231Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar16_Xmas_r1.png",
+    "metadata": {
+      "token_id": "64",
+      "attributes": [
+        {
+          "value": "Sleepy",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Xmas",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432527000,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar16_Xmas_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar16_Xmas_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar16_Xmas_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/64"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/65",
+    "name": "Vael Silverbell",
+    "project_id": "xmas-chibis",
+    "description": "Merry elves in festive attire, Twinkling eyes, gifts inspire. A joyous brigade, hearts uplift, Holiday magic, a spirited gift.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar01_Pastel.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.949Z",
+    "updated_at": "2026-01-24T11:23:33.784Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar01_Pastel_r1.png",
+    "metadata": {
+      "token_id": "65",
+      "attributes": [
+        {
+          "value": "Elf",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Pastel",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526949,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar01_Pastel_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar01_Pastel_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar01_Pastel_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/65"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/66",
+    "name": "Cupcake Chestnut",
+    "project_id": "xmas-chibis",
+    "description": "Mischievous bears in coats so bright, Warm hearts aglow, a fuzzy delight.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar02_Pastel.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.951Z",
+    "updated_at": "2026-01-24T11:23:40.886Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar02_Pastel_r1.png",
+    "metadata": {
+      "token_id": "66",
+      "attributes": [
+        {
+          "value": "Bear",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Pastel",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526951,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar02_Pastel_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar02_Pastel_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar02_Pastel_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/66"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/67",
+    "name": "Hope Garland",
+    "project_id": "xmas-chibis",
+    "description": "Angels sprinkle glow divine, Wings dance in starry line. Sprinkling mirth from skies above, A dance of fun, a gift of dove",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar03_Pastel.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.958Z",
+    "updated_at": "2026-01-24T11:23:48.453Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar03_Pastel_r1.png",
+    "metadata": {
+      "token_id": "67",
+      "attributes": [
+        {
+          "value": "Divine",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Pastel",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526958,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar03_Pastel_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar03_Pastel_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar03_Pastel_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/67"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/68",
+    "name": "Cupid Kringle",
+    "project_id": "xmas-chibis",
+    "description": "Guiding the sleigh on starry heights, Kind-hearted troupe in festive lights. Spreading gifts with love and cheer, Around the globe, joy draws near",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar04_Pastel.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.960Z",
+    "updated_at": "2026-01-24T11:23:56.203Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar04_Pastel_r1.png",
+    "metadata": {
+      "token_id": "68",
+      "attributes": [
+        {
+          "value": "Deer",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Pastel",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526960,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar04_Pastel_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar04_Pastel_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar04_Pastel_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/68"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/69",
+    "name": "Frosty Jr Claus",
+    "project_id": "xmas-chibis",
+    "description": "Frosty, bright delight, Carrot noses, coal eyes ignite. Snowy squad in flight, Hearts warmed, pure white.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar05_Pastel.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.964Z",
+    "updated_at": "2026-01-24T11:24:03.911Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar05_Pastel_r1.png",
+    "metadata": {
+      "token_id": "69",
+      "attributes": [
+        {
+          "value": "Frosty",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Pastel",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526964,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar05_Pastel_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar05_Pastel_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar05_Pastel_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/69"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/70",
+    "name": "Berry Yulelog",
+    "project_id": "xmas-chibis",
+    "description": "Fuzzy fox coats, delight so bright, A merry touch for Christmas light.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar06_Pastel.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.968Z",
+    "updated_at": "2026-01-24T11:24:11.299Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar06_Pastel_r1.png",
+    "metadata": {
+      "token_id": "70",
+      "attributes": [
+        {
+          "value": "Fox",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Pastel",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526968,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar06_Pastel_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar06_Pastel_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar06_Pastel_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/70"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/71",
+    "name": "Candy Poinsenttia",
+    "project_id": "xmas-chibis",
+    "description": "As sweet as candy, a joyful spree, This set delights sweet tooths, you see.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar07_Pastel.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.971Z",
+    "updated_at": "2026-01-24T11:24:18.348Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar07_Pastel_r1.png",
+    "metadata": {
+      "token_id": "71",
+      "attributes": [
+        {
+          "value": "Sweet",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Pastel",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526971,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar07_Pastel_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar07_Pastel_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar07_Pastel_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/71"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/72",
+    "name": "Chill Yuletide",
+    "project_id": "xmas-chibis",
+    "description": "Regal grace in winter's embrace, A confection of beauty and snowy lace.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar08_Pastel.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.974Z",
+    "updated_at": "2026-01-24T11:24:25.780Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar08_Pastel_r1.png",
+    "metadata": {
+      "token_id": "72",
+      "attributes": [
+        {
+          "value": "Royal",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Pastel",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526974,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar08_Pastel_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar08_Pastel_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar08_Pastel_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/72"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/73",
+    "name": "Hopper Cranberry",
+    "project_id": "xmas-chibis",
+    "description": "In winter's wonder, a joyful clump, This bunny's here, ready to jump",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar09_Pastel.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.976Z",
+    "updated_at": "2026-01-24T11:24:34.705Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar09_Pastel_r1.png",
+    "metadata": {
+      "token_id": "73",
+      "attributes": [
+        {
+          "value": "Bunny",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Pastel",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526976,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar09_Pastel_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar09_Pastel_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar04_Pastel_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/73"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/74",
+    "name": "Nutsy Nutcracker",
+    "project_id": "xmas-chibis",
+    "description": "Battling nightmares, their courage aglow, Wooden warriors, their courage aglow",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar10_Pastel.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.978Z",
+    "updated_at": "2026-01-24T11:24:43.881Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar10_Pastel_r1.png",
+    "metadata": {
+      "token_id": "74",
+      "attributes": [
+        {
+          "value": "Nutcracker",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Pastel",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526978,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar10_Pastel_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar10_Pastel_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar10_Pastel_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/74"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/75",
+    "name": "Scuttle Eggnog",
+    "project_id": "xmas-chibis",
+    "description": "Whiskers twitch, a drum sounds, Silent ruler in the night's shadow.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar11_Pastel.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.984Z",
+    "updated_at": "2026-01-24T11:24:51.879Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar11_Pastel_r1.png",
+    "metadata": {
+      "token_id": "75",
+      "attributes": [
+        {
+          "value": "Mouse",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Pastel",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526984,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar11_Pastel_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar11_Pastel_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar11_Pastel_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/75"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/76",
+    "name": "Tinsel Tinselbaun",
+    "project_id": "xmas-chibis",
+    "description": "Ornaments tell tales, a festive spree, Joyful symbol of Yuletide glee.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar12_Pastel.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.987Z",
+    "updated_at": "2026-01-24T11:25:01.199Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar12_Pastel_r1.png",
+    "metadata": {
+      "token_id": "76",
+      "attributes": [
+        {
+          "value": "Tinsel",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Pastel",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526987,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar12_Pastel_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar12_Pastel_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar12_Pastel_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/76"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/77",
+    "name": "John North",
+    "project_id": "xmas-chibis",
+    "description": "Santa's mailman, on paths so wide, Letters carry dreams, hopes inside.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar13_Pastel.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.989Z",
+    "updated_at": "2026-01-24T11:25:09.411Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar13_Pastel_r1.png",
+    "metadata": {
+      "token_id": "77",
+      "attributes": [
+        {
+          "value": "Carrier",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Pastel",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526989,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar13_Pastel_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar13_Pastel_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar13_Pastel_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/77"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/78",
+    "name": "Hex Wreath",
+    "project_id": "xmas-chibis",
+    "description": "Mischievous spirit roams shadows near, Naughty children, beware. Punishing pranks, Yule night's gleam, Festive twist to mischief, a gleeful scheme.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar14_Pastel.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.991Z",
+    "updated_at": "2026-01-24T11:25:18.313Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar14_Pastel_r1.png",
+    "metadata": {
+      "token_id": "78",
+      "attributes": [
+        {
+          "value": "Krampus",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Pastel",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526991,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar14_Pastel_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar14_Pastel_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar14_Pastel_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/78"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/79",
+    "name": "Chip Gingerbread",
+    "project_id": "xmas-chibis",
+    "description": "Gingerbread delight, a cookie's charm, In every bite, a holiday warm.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar15_Pastel.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:46.995Z",
+    "updated_at": "2026-01-24T11:25:25.990Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar15_Pastel_r1.png",
+    "metadata": {
+      "token_id": "79",
+      "attributes": [
+        {
+          "value": "Gingerbread",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Pastel",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432526995,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar15_Pastel_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar15_Pastel_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar15_Pastel_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/79"
+    }
+  },
+  {
+    "id": "0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/80",
+    "name": "Doze Stocking",
+    "project_id": "xmas-chibis",
+    "description": "Dreams adorned in soft moonlight, Seek a peaceful slumber, pure delight.",
+    "model_file_url": "https://dweb.link/ipfs/QmSpb8jZRtwDhpp7zjpfvU47GZyapmh8GvQApmzTxFcaLz/Avatar16_Pastel.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-12-01T12:08:47.475Z",
+    "updated_at": "2026-01-24T11:25:34.557Z",
+    "thumbnail_url": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar16_Pastel_r1.png",
+    "metadata": {
+      "token_id": "80",
+      "attributes": [
+        {
+          "value": "Sleepy",
+          "trait_type": "Type"
+        },
+        {
+          "value": "Pastel",
+          "trait_type": "Palette"
+        },
+        {
+          "display_type": "date",
+          "value": 1701432527475,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/Qmcy2yaDm9PxvG3VTmFrUNJJKgDHYAv3DshjAn1GBRDAsp/Avatar16_Pastel_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmborFSoCE1pgoGPZqYhsty9se4BWoV2ZzbYeyYjSug6SJ/Avatar16_Pastel_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmURwe7o3Uci59xdX3F9dSNGT9QhY9gV51ggATnJkDc2Bd/Avatar16_Pastel_r3.png"
+      },
+      "external_url": "https://opensea.io/item/polygon/0x831079839bd0e6bf8e37e8cdfb5479fc1b2ef483/80"
+    }
+  }
+]

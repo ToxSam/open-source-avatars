@@ -1,0 +1,2462 @@
+[
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/1",
+    "name": "Mocking Spit: Strawberry",
+    "project_id": "halloween-rising",
+    "description": "Relentless creature with a mocking smile, sharp tongue, and a deadly pursuit.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar01_v1_Cute_Pink.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.414Z",
+    "updated_at": "2026-01-24T11:04:15.424Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar01_v1_Cute_Pink_r1.png",
+    "metadata": {
+      "token_id": "1",
+      "attributes": [
+        {
+          "value": "Cute",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Pink",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Mocking Spit",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274414,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar01_v1_Cute_Pink_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar01_v1_Cute_Pink_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar01_v1_Cute_Pink_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/1"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/2",
+    "name": "Esktix: Midnight",
+    "project_id": "halloween-rising",
+    "description": "Fear-feeding creature lurking in shadows, inducing night terrors to sustain itself.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar02_v1_Cute_Black.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.427Z",
+    "updated_at": "2026-01-24T11:04:24.100Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar02_v1_Cute_Black_r1.png",
+    "metadata": {
+      "token_id": "2",
+      "attributes": [
+        {
+          "value": "Cute",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Esktix",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274427,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar02_v1_Cute_Black_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar02_v1_Cute_Black_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar02_v1_Cute_Black_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/2"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/3",
+    "name": "Mimic Slime: Jello",
+    "project_id": "halloween-rising",
+    "description": "Flesh-dissolving slime creature, consuming prey, mimicking using bones to lure more victims.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar03_v1_Cute_Green.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.445Z",
+    "updated_at": "2026-01-24T11:04:31.684Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar03_v1_Cute_Green_r1.png",
+    "metadata": {
+      "token_id": "3",
+      "attributes": [
+        {
+          "value": "Cute",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Green",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Mimic Slime",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274445,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar03_v1_Cute_Green_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar03_v1_Cute_Green_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar03_v1_Cute_Green_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/3"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/4",
+    "name": "Harvester: Wheat",
+    "project_id": "halloween-rising",
+    "description": "Giant insect-like creature, a methodical hunter, harvesting prey with precision, extracting a specific organ.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar04_v1_Cute_Brown.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.456Z",
+    "updated_at": "2026-01-24T11:04:38.822Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar04_v1_Cute_Brown_r1.png",
+    "metadata": {
+      "token_id": "4",
+      "attributes": [
+        {
+          "value": "Cute",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Brown",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Harvester",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274456,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar04_v1_Cute_Brown_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar04_v1_Cute_Brown_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar04_v1_Cute_Brown_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/4"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/5",
+    "name": "Wendigo: Chocolate",
+    "project_id": "halloween-rising",
+    "description": "Cunning, man-eating predator, luring humans with tricks, cursed to forever crave human flesh.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar05_v1_Cute_Brown.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.472Z",
+    "updated_at": "2026-01-24T11:04:47.370Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar05_v1_Cute_Brown_r1.png",
+    "metadata": {
+      "token_id": "5",
+      "attributes": [
+        {
+          "value": "Cute",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Brown",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Wendigo",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274472,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar05_v1_Cute_Brown_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar05_v1_Cute_Brown_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar05_v1_Cute_Brown_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/5"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/6",
+    "name": "Mocking Spit: Grape",
+    "project_id": "halloween-rising",
+    "description": "Relentless creature with a mocking smile, sharp tongue, and a deadly pursuit.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar01_v1_Cute_Purple.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.414Z",
+    "updated_at": "2026-01-24T11:04:55.068Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar01_v1_Cute_Purple_r1.png",
+    "metadata": {
+      "token_id": "6",
+      "attributes": [
+        {
+          "value": "Cute",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Purple",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Mocking Spit",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274414,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar01_v1_Cute_Purple_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar01_v1_Cute_Purple_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar01_v1_Cute_Purple_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/6"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/7",
+    "name": "Esktix: Bouquet",
+    "project_id": "halloween-rising",
+    "description": "Fear-feeding creature lurking in shadows, inducing night terrors to sustain itself.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar02_v1_Cute_Pink.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.434Z",
+    "updated_at": "2026-01-24T11:05:01.893Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar02_v1_Cute_Pink_r1.png",
+    "metadata": {
+      "token_id": "7",
+      "attributes": [
+        {
+          "value": "Cute",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Pink",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Esktix",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274434,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar02_v1_Cute_Pink_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar02_v1_Cute_Pink_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar02_v1_Cute_Pink_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/7"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/8",
+    "name": "Mimic Slime: Grape",
+    "project_id": "halloween-rising",
+    "description": "Flesh-dissolving slime creature, consuming prey, mimicking using bones to lure more victims.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar03_v1_Cute_Purple.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.446Z",
+    "updated_at": "2026-01-24T11:05:09.456Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar03_v1_Cute_Purple_r1.png",
+    "metadata": {
+      "token_id": "8",
+      "attributes": [
+        {
+          "value": "Cute",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Purple",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Mimic Slime",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274446,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar03_v1_Cute_Purple_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar03_v1_Cute_Purple_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar03_v1_Cute_Purple_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/8"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/9",
+    "name": "Harvester: Radish",
+    "project_id": "halloween-rising",
+    "description": "Giant insect-like creature, a methodical hunter, harvesting prey with precision, extracting a specific organ.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar04_v1_Cute_Red.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.457Z",
+    "updated_at": "2026-01-24T11:05:17.555Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar04_v1_Cute_Red_r1.png",
+    "metadata": {
+      "token_id": "9",
+      "attributes": [
+        {
+          "value": "Cute",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Harvester",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274457,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar04_v1_Cute_Red_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar04_v1_Cute_Red_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar04_v1_Cute_Red_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/9"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/10",
+    "name": "Wendigo: Creamy",
+    "project_id": "halloween-rising",
+    "description": "Cunning, man-eating predator, luring humans with tricks, cursed to forever crave human flesh.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar05_v1_Cute_Cream.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.472Z",
+    "updated_at": "2026-01-24T11:05:24.322Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar05_v1_Cute_Cream_r1.png",
+    "metadata": {
+      "token_id": "10",
+      "attributes": [
+        {
+          "value": "Cute",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Cream",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Wendigo",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274472,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar05_v1_Cute_Cream_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar05_v1_Cute_Cream_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar05_v1_Cute_Cream_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/10"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/11",
+    "name": "Mocking Spit: Mint",
+    "project_id": "halloween-rising",
+    "description": "Relentless creature with a mocking smile, sharp tongue, and a deadly pursuit.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar01_v1_Cute_Green.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.415Z",
+    "updated_at": "2026-01-24T11:05:32.318Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar01_v1_Cute_Green_r1.png",
+    "metadata": {
+      "token_id": "11",
+      "attributes": [
+        {
+          "value": "Cute",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Green",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Mocking Spit",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274415,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar01_v1_Cute_Green_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar01_v1_Cute_Green_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar01_v1_Cute_Green_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/11"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/12",
+    "name": "Esktix: Fresh",
+    "project_id": "halloween-rising",
+    "description": "Fear-feeding creature lurking in shadows, inducing night terrors to sustain itself.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar02_v1_Cute_Green.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.434Z",
+    "updated_at": "2026-01-24T11:05:39.832Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar02_v1_Cute_Green_r1.png",
+    "metadata": {
+      "token_id": "12",
+      "attributes": [
+        {
+          "trait_type": "Art Style",
+          "value": "Cute"
+        },
+        {
+          "trait_type": "Colour",
+          "value": "Green"
+        },
+        {
+          "trait_type": "Creature",
+          "value": "Esktix"
+        },
+        {
+          "display_type": "date",
+          "trait_type": "birthday",
+          "value": 1698761274434
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar02_v1_Cute_Green_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar02_v1_Cute_Green_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar02_v1_Cute_Green_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/12"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/13",
+    "name": "Mimic Slime: Cherry",
+    "project_id": "halloween-rising",
+    "description": "Flesh-dissolving slime creature, consuming prey, mimicking using bones to lure more victims.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar03_v1_Cute_Red.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.447Z",
+    "updated_at": "2026-01-24T11:05:48.659Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar03_v1_Cute_Red_r1.png",
+    "metadata": {
+      "token_id": "13",
+      "attributes": [
+        {
+          "value": "Cute",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Mimic Slime",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274447,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar03_v1_Cute_Red_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar03_v1_Cute_Red_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar03_v1_Cute_Red_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/13"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/14",
+    "name": "Harvester: Orchad",
+    "project_id": "halloween-rising",
+    "description": "Giant insect-like creature, a methodical hunter, harvesting prey with precision, extracting a specific organ.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar04_v1_Cute_Pink.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.458Z",
+    "updated_at": "2026-01-24T11:05:55.921Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar04_v1_Cute_Pink_r1.png",
+    "metadata": {
+      "token_id": "14",
+      "attributes": [
+        {
+          "value": "Cute",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Pink",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Harvester",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274458,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar04_v1_Cute_Pink_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar04_v1_Cute_Pink_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar04_v1_Cute_Pink_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/14"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/15",
+    "name": "Wendigo: Snow",
+    "project_id": "halloween-rising",
+    "description": "Cunning, man-eating predator, luring humans with tricks, cursed to forever crave human flesh.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar05_v1_Cute_White.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.473Z",
+    "updated_at": "2026-01-24T11:06:02.616Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar05_v1_Cute_White_r1.png",
+    "metadata": {
+      "token_id": "15",
+      "attributes": [
+        {
+          "value": "Cute",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "White",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Wendigo",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274473,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar05_v1_Cute_White_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar05_v1_Cute_White_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar05_v1_Cute_White_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/15"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/16",
+    "name": "Mocking Spit: Tomato",
+    "project_id": "halloween-rising",
+    "description": "Relentless creature with a mocking smile, sharp tongue, and a deadly pursuit.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar01_v1_Cute_Red.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.415Z",
+    "updated_at": "2026-01-24T11:06:10.004Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar01_v1_Cute_Red_r1.png",
+    "metadata": {
+      "token_id": "16",
+      "attributes": [
+        {
+          "value": "Cute",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Mocking Spit",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274415,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar01_v1_Cute_Red_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar01_v1_Cute_Red_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar01_v1_Cute_Red_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/16"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/17",
+    "name": "Esktix: Peach",
+    "project_id": "halloween-rising",
+    "description": "Fear-feeding creature lurking in shadows, inducing night terrors to sustain itself.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar02_v1_Cute_Red.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.435Z",
+    "updated_at": "2026-01-24T11:06:17.178Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar02_v1_Cute_Red_r1.png",
+    "metadata": {
+      "token_id": "17",
+      "attributes": [
+        {
+          "value": "Cute",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Esktix",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274435,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar02_v1_Cute_Red_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar02_v1_Cute_Red_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar02_v1_Cute_Red_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/17"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/18",
+    "name": "Mimic Slime: Orange",
+    "project_id": "halloween-rising",
+    "description": "Flesh-dissolving slime creature, consuming prey, mimicking using bones to lure more victims.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar03_v1_Cute_Orange.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.448Z",
+    "updated_at": "2026-01-24T11:06:23.392Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar03_v1_Cute_Orange_r1.png",
+    "metadata": {
+      "token_id": "18",
+      "attributes": [
+        {
+          "value": "Cute",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Orange",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Mimic Slime",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274448,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar03_v1_Cute_Orange_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar03_v1_Cute_Orange_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar03_v1_Cute_Orange_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/18"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/19",
+    "name": "Harvester: Lavender",
+    "project_id": "halloween-rising",
+    "description": "Giant insect-like creature, a methodical hunter, harvesting prey with precision, extracting a specific organ.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar04_v1_Cute_Purple.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.459Z",
+    "updated_at": "2026-01-24T11:06:32.398Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar04_v1_Cute_Purple_r1.png",
+    "metadata": {
+      "token_id": "19",
+      "attributes": [
+        {
+          "value": "Cute",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Purple",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Harvester",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274459,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar04_v1_Cute_Purple_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar04_v1_Cute_Purple_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar04_v1_Cute_Purple_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/19"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/20",
+    "name": "Wendigo: Woods",
+    "project_id": "halloween-rising",
+    "description": "Cunning, man-eating predator, luring humans with tricks, cursed to forever crave human flesh.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar05_v1_Cute_Green.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.473Z",
+    "updated_at": "2026-01-24T11:06:38.706Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar05_v1_Cute_Green_r1.png",
+    "metadata": {
+      "token_id": "20",
+      "attributes": [
+        {
+          "value": "Cute",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Green",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Wendigo",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274473,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar05_v1_Cute_Green_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar05_v1_Cute_Green_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar05_v1_Cute_Green_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/20"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/21",
+    "name": "Mocking Spit: Tangerine",
+    "project_id": "halloween-rising",
+    "description": "Relentless creature with a mocking smile, sharp tongue, and a deadly pursuit.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar01_v1_Cute_Yellow.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.416Z",
+    "updated_at": "2026-01-24T11:06:47.089Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar01_v1_Cute_Yellow_r1.png",
+    "metadata": {
+      "token_id": "21",
+      "attributes": [
+        {
+          "value": "Cute",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Yellow",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Mocking Spit",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274416,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar01_v1_Cute_Yellow_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar01_v1_Cute_Yellow_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar01_v1_Cute_Yellow_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/21"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/22",
+    "name": "Esktix: Daylight",
+    "project_id": "halloween-rising",
+    "description": "Fear-feeding creature lurking in shadows, inducing night terrors to sustain itself.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar02_v1_Cute_Yellow.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.436Z",
+    "updated_at": "2026-01-24T11:06:54.273Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar02_v1_Cute_Yellow_r1.png",
+    "metadata": {
+      "token_id": "22",
+      "attributes": [
+        {
+          "trait_type": "Art Style",
+          "value": "Cute"
+        },
+        {
+          "trait_type": "Colour",
+          "value": "Yellow"
+        },
+        {
+          "trait_type": "Creature",
+          "value": "Esktix"
+        },
+        {
+          "display_type": "date",
+          "trait_type": "birthday",
+          "value": 1698761274436
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar02_v1_Cute_Yellow_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar02_v1_Cute_Yellow_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar02_v1_Cute_Yellow_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/22"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/23",
+    "name": "Mimic Slime: Water",
+    "project_id": "halloween-rising",
+    "description": "Flesh-dissolving slime creature, consuming prey, mimicking using bones to lure more victims.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar03_v1_Cute_Blue.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.448Z",
+    "updated_at": "2026-01-24T11:07:02.298Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar03_v1_Cute_Blue_r1.png",
+    "metadata": {
+      "token_id": "23",
+      "attributes": [
+        {
+          "value": "Cute",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Mimic Slime",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274448,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar03_v1_Cute_Blue_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar03_v1_Cute_Blue_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar03_v1_Cute_Blue_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/23"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/24",
+    "name": "Harvester: Spring",
+    "project_id": "halloween-rising",
+    "description": "Giant insect-like creature, a methodical hunter, harvesting prey with precision, extracting a specific organ.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar04_v1_Cute_Green.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.459Z",
+    "updated_at": "2026-01-24T11:07:09.764Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar04_v1_Cute_Green_r1.png",
+    "metadata": {
+      "token_id": "24",
+      "attributes": [
+        {
+          "value": "Cute",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Green",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Harvester",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274459,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar04_v1_Cute_Green_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar04_v1_Cute_Green_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar04_v1_Cute_Green_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/24"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/25",
+    "name": "Wendigo: Cake",
+    "project_id": "halloween-rising",
+    "description": "Cunning, man-eating predator, luring humans with tricks, cursed to forever crave human flesh.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar05_v1_Cute_Purple.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.474Z",
+    "updated_at": "2026-01-24T11:07:16.300Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar05_v1_Cute_Purple_r1.png",
+    "metadata": {
+      "token_id": "25",
+      "attributes": [
+        {
+          "value": "Cute",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Purple",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Wendigo",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274474,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar05_v1_Cute_Purple_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar05_v1_Cute_Purple_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar05_v1_Cute_Purple_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/25"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/26",
+    "name": "Mocking Spit: Blue Berry",
+    "project_id": "halloween-rising",
+    "description": "Relentless creature with a mocking smile, sharp tongue, and a deadly pursuit.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar01_v1_Cute_Blue.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.417Z",
+    "updated_at": "2026-01-24T11:07:23.056Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar01_v1_Cute_Blue_r1.png",
+    "metadata": {
+      "token_id": "26",
+      "attributes": [
+        {
+          "value": "Cute",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Mocking Spit",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274417,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar01_v1_Cute_Blue_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar01_v1_Cute_Blue_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar01_v1_Cute_Blue_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/26"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/27",
+    "name": "Esktix: Clear Sky",
+    "project_id": "halloween-rising",
+    "description": "Fear-feeding creature lurking in shadows, inducing night terrors to sustain itself.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar02_v1_Cute_Blue.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.436Z",
+    "updated_at": "2026-01-24T11:07:32.110Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar02_v1_Cute_Blue_r1.png",
+    "metadata": {
+      "token_id": "27",
+      "attributes": [
+        {
+          "trait_type": "Art Style",
+          "value": "Cute"
+        },
+        {
+          "trait_type": "Colour",
+          "value": "Blue"
+        },
+        {
+          "trait_type": "Creature",
+          "value": "Esktix"
+        },
+        {
+          "display_type": "date",
+          "trait_type": "birthday",
+          "value": 1698761274436
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar02_v1_Cute_Blue_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar02_v1_Cute_Blue_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar02_v1_Cute_Blue_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/27"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/28",
+    "name": "Mimic Slime: Candy",
+    "project_id": "halloween-rising",
+    "description": "Flesh-dissolving slime creature, consuming prey, mimicking using bones to lure more victims.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar03_v1_Cute_Pink.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.449Z",
+    "updated_at": "2026-01-24T11:07:38.265Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar03_v1_Cute_Pink_r1.png",
+    "metadata": {
+      "token_id": "28",
+      "attributes": [
+        {
+          "value": "Cute",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Pink",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Mimic Slime",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274449,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar03_v1_Cute_Pink_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar03_v1_Cute_Pink_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar03_v1_Cute_Pink_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/28"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/29",
+    "name": "Harvester: Winter",
+    "project_id": "halloween-rising",
+    "description": "Giant insect-like creature, a methodical hunter, harvesting prey with precision, extracting a specific organ.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar04_v1_Cute_Blue.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.464Z",
+    "updated_at": "2026-01-24T11:07:47.225Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar04_v1_Cute_Blue_r1.png",
+    "metadata": {
+      "token_id": "29",
+      "attributes": [
+        {
+          "value": "Cute",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Harvester",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274464,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar04_v1_Cute_Blue_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar04_v1_Cute_Blue_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar04_v1_Cute_Blue_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/29"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/30",
+    "name": "Wendigo: Star Sky",
+    "project_id": "halloween-rising",
+    "description": "Cunning, man-eating predator, luring humans with tricks, cursed to forever crave human flesh.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar05_v1_Cute_Black.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.474Z",
+    "updated_at": "2026-01-24T11:07:54.865Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar05_v1_Cute_Black_r1.png",
+    "metadata": {
+      "token_id": "30",
+      "attributes": [
+        {
+          "value": "Cute",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Wendigo",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274474,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar05_v1_Cute_Black_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar05_v1_Cute_Black_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar05_v1_Cute_Black_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/30"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/31",
+    "name": "Mocking Spit: Meatball",
+    "project_id": "halloween-rising",
+    "description": "Relentless creature with a mocking smile, sharp tongue, and a deadly pursuit.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar01_v2_Stylized_Pink.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.418Z",
+    "updated_at": "2026-01-24T11:08:03.865Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar01_v2_Stylized_Pink_r1.png",
+    "metadata": {
+      "token_id": "31",
+      "attributes": [
+        {
+          "trait_type": "Art Style",
+          "value": "Stylized"
+        },
+        {
+          "trait_type": "Colour",
+          "value": "Pink"
+        },
+        {
+          "trait_type": "Creature",
+          "value": "Mocking Spit"
+        },
+        {
+          "display_type": "date",
+          "trait_type": "birthday",
+          "value": 1698761274418
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar01_v2_Stylized_Pink_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar01_v2_Stylized_Pink_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar01_v2_Stylized_Pink_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/31"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/32",
+    "name": "Esktix: Darkness",
+    "project_id": "halloween-rising",
+    "description": "Fear-feeding creature lurking in shadows, inducing night terrors to sustain itself.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar02_v2_Stylized_Black.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.437Z",
+    "updated_at": "2026-01-24T11:08:13.636Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar02_v2_Stylized_Black_r1.png",
+    "metadata": {
+      "token_id": "32",
+      "attributes": [
+        {
+          "value": "Stylized",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Esktix",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274437,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar02_v2_Stylized_Black_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar02_v2_Stylized_Black_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar02_v2_Stylized_Black_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/32"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/33",
+    "name": "Mimic Slime: Classic",
+    "project_id": "halloween-rising",
+    "description": "Flesh-dissolving slime creature, consuming prey, mimicking using bones to lure more victims.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar03_v2_Stylized_Green.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.450Z",
+    "updated_at": "2026-01-24T11:08:23.719Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar03_v2_Stylized_Green_r1.png",
+    "metadata": {
+      "token_id": "33",
+      "attributes": [
+        {
+          "trait_type": "Art Style",
+          "value": "Stylized"
+        },
+        {
+          "trait_type": "Colour",
+          "value": "Green"
+        },
+        {
+          "trait_type": "Creature",
+          "value": "Mimic Slime"
+        },
+        {
+          "display_type": "date",
+          "trait_type": "birthday",
+          "value": 1698761274450
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar03_v2_Stylized_Green_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar03_v2_Stylized_Green_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar03_v2_Stylized_Green_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/33"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/34",
+    "name": "Harvester: Drought",
+    "project_id": "halloween-rising",
+    "description": "Giant insect-like creature, a methodical hunter, harvesting prey with precision, extracting a specific organ.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar04_v2_Stylized_Brown.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.465Z",
+    "updated_at": "2026-01-24T11:08:34.639Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar04_v2_Stylized_Brown_r1.png",
+    "metadata": {
+      "token_id": "34",
+      "attributes": [
+        {
+          "trait_type": "Art Style",
+          "value": "Stylized"
+        },
+        {
+          "trait_type": "Colour",
+          "value": "Brown"
+        },
+        {
+          "trait_type": "Creature",
+          "value": "Harvester"
+        },
+        {
+          "display_type": "date",
+          "trait_type": "birthday",
+          "value": 1698761274465
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar04_v2_Stylized_Brown_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar04_v2_Stylized_Brown_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar04_v2_Stylized_Brown_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/34"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/35",
+    "name": "Wendigo: Brownie",
+    "project_id": "halloween-rising",
+    "description": "Cunning, man-eating predator, luring humans with tricks, cursed to forever crave human flesh.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar05_v2_Stylized_Brown.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.475Z",
+    "updated_at": "2026-01-24T11:08:47.088Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar05_v2_Stylized_Brown_r1.png",
+    "metadata": {
+      "token_id": "35",
+      "attributes": [
+        {
+          "value": "Stylized",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Brown",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Wendigo",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274475,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar05_v2_Stylized_Brown_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar05_v2_Stylized_Brown_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar05_v2_Stylized_Brown_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/35"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/36",
+    "name": "Mocking Spit: Vinyard",
+    "project_id": "halloween-rising",
+    "description": "Relentless creature with a mocking smile, sharp tongue, and a deadly pursuit.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar01_v2_Stylized_Purple.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.418Z",
+    "updated_at": "2026-01-24T11:08:56.691Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar01_v2_Stylized_Purple_r1.png",
+    "metadata": {
+      "token_id": "36",
+      "attributes": [
+        {
+          "trait_type": "Art Style",
+          "value": "Stylized"
+        },
+        {
+          "trait_type": "Colour",
+          "value": "Purple"
+        },
+        {
+          "trait_type": "Creature",
+          "value": "Mocking Spit"
+        },
+        {
+          "display_type": "date",
+          "trait_type": "birthday",
+          "value": 1698761274418
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar01_v2_Stylized_Purple_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar01_v2_Stylized_Purple_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar01_v2_Stylized_Purple_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/36"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/37",
+    "name": "Esktix: Neon",
+    "project_id": "halloween-rising",
+    "description": "Fear-feeding creature lurking in shadows, inducing night terrors to sustain itself.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar02_v2_Stylized_Pink.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.437Z",
+    "updated_at": "2026-01-24T11:09:05.832Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar02_v2_Stylized_Pink_r1.png",
+    "metadata": {
+      "token_id": "37",
+      "attributes": [
+        {
+          "trait_type": "Art Style",
+          "value": "Stylized"
+        },
+        {
+          "trait_type": "Colour",
+          "value": "Pink"
+        },
+        {
+          "trait_type": "Creature",
+          "value": "Esktix"
+        },
+        {
+          "display_type": "date",
+          "trait_type": "birthday",
+          "value": 1698761274437
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar02_v2_Stylized_Pink_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar02_v2_Stylized_Pink_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar02_v2_Stylized_Pink_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/37"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/38",
+    "name": "Mimic Slime: Oil",
+    "project_id": "halloween-rising",
+    "description": "Flesh-dissolving slime creature, consuming prey, mimicking using bones to lure more victims.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar03_v2_Stylized_Purple.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.450Z",
+    "updated_at": "2026-01-24T11:09:16.712Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar03_v2_Stylized_Purple_r1.png",
+    "metadata": {
+      "token_id": "38",
+      "attributes": [
+        {
+          "value": "Stylized",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Purple",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Mimic Slime",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274450,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar03_v2_Stylized_Purple_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar03_v2_Stylized_Purple_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar03_v2_Stylized_Purple_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/38"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/39",
+    "name": "Harvester: Autumm",
+    "project_id": "halloween-rising",
+    "description": "Giant insect-like creature, a methodical hunter, harvesting prey with precision, extracting a specific organ.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar04_v2_Stylized_Red.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.465Z",
+    "updated_at": "2026-01-24T11:09:25.332Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar04_v2_Stylized_Red_r1.png",
+    "metadata": {
+      "token_id": "39",
+      "attributes": [
+        {
+          "trait_type": "Art Style",
+          "value": "Stylized"
+        },
+        {
+          "trait_type": "Colour",
+          "value": "Red"
+        },
+        {
+          "trait_type": "Creature",
+          "value": "Harvester"
+        },
+        {
+          "display_type": "date",
+          "trait_type": "birthday",
+          "value": 1698761274465
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar04_v2_Stylized_Red_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar04_v2_Stylized_Red_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar04_v2_Stylized_Red_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/39"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/40",
+    "name": "Wendigo: Blond",
+    "project_id": "halloween-rising",
+    "description": "Cunning, man-eating predator, luring humans with tricks, cursed to forever crave human flesh.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar05_v2_Stylized_Cream.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.475Z",
+    "updated_at": "2026-01-24T11:09:35.485Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar05_v2_Stylized_Cream_r1.png",
+    "metadata": {
+      "token_id": "40",
+      "attributes": [
+        {
+          "trait_type": "Art Style",
+          "value": "Stylized"
+        },
+        {
+          "trait_type": "Colour",
+          "value": "Cream"
+        },
+        {
+          "trait_type": "Creature",
+          "value": "Wendigo"
+        },
+        {
+          "display_type": "date",
+          "trait_type": "birthday",
+          "value": 1698761274475
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar05_v2_Stylized_Cream_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar05_v2_Stylized_Cream_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar05_v2_Stylized_Cream_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/40"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/41",
+    "name": "Mocking Spit: Sea Sick",
+    "project_id": "halloween-rising",
+    "description": "Relentless creature with a mocking smile, sharp tongue, and a deadly pursuit.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar01_v2_Stylized_Green.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.419Z",
+    "updated_at": "2026-01-24T11:09:47.234Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar01_v2_Stylized_Green_r1.png",
+    "metadata": {
+      "token_id": "41",
+      "attributes": [
+        {
+          "trait_type": "Art Style",
+          "value": "Stylized"
+        },
+        {
+          "trait_type": "Colour",
+          "value": "Green"
+        },
+        {
+          "trait_type": "Creature",
+          "value": "Mocking Spit"
+        },
+        {
+          "display_type": "date",
+          "trait_type": "birthday",
+          "value": 1698761274419
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar01_v2_Stylized_Green_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar01_v2_Stylized_Green_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar01_v2_Stylized_Green_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/41"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/42",
+    "name": "Esktix: Forest",
+    "project_id": "halloween-rising",
+    "description": "Fear-feeding creature lurking in shadows, inducing night terrors to sustain itself.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar02_v2_Stylized_Green.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.438Z",
+    "updated_at": "2026-01-24T11:09:56.414Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar02_v2_Stylized_Green_r1.png",
+    "metadata": {
+      "token_id": "42",
+      "attributes": [
+        {
+          "trait_type": "Art Style",
+          "value": "Stylized"
+        },
+        {
+          "trait_type": "Colour",
+          "value": "Green"
+        },
+        {
+          "trait_type": "Creature",
+          "value": "Esktix"
+        },
+        {
+          "display_type": "date",
+          "trait_type": "birthday",
+          "value": 1698761274438
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar02_v2_Stylized_Green_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar02_v2_Stylized_Green_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar02_v2_Stylized_Green_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/42"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/43",
+    "name": "Mimic Slime: Purge",
+    "project_id": "halloween-rising",
+    "description": "Flesh-dissolving slime creature, consuming prey, mimicking using bones to lure more victims.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar03_v2_Stylized_Red.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.451Z",
+    "updated_at": "2026-01-24T11:10:06.749Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar03_v2_Stylized_Red_r1.png",
+    "metadata": {
+      "token_id": "43",
+      "attributes": [
+        {
+          "trait_type": "Art Style",
+          "value": "Stilyzed"
+        },
+        {
+          "trait_type": "Colour",
+          "value": "Red"
+        },
+        {
+          "trait_type": "Creature",
+          "value": "Mimic Slime"
+        },
+        {
+          "display_type": "date",
+          "trait_type": "birthday",
+          "value": 1698761274451
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar03_v2_Stylized_Red_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar03_v2_Stylized_Red_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar03_v2_Stylized_Red_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/43"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/44",
+    "name": "Harvester: Floral",
+    "project_id": "halloween-rising",
+    "description": "Giant insect-like creature, a methodical hunter, harvesting prey with precision, extracting a specific organ.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar04_v2_Stylized_Pink.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.465Z",
+    "updated_at": "2026-01-24T11:10:16.092Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar04_v2_Stylized_Pink_r1.png",
+    "metadata": {
+      "token_id": "44",
+      "attributes": [
+        {
+          "value": "Stylized",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Pink",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Harvester",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274465,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar04_v2_Stylized_Pink_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar04_v2_Stylized_Pink_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar04_v2_Stylized_Pink_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/44"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/45",
+    "name": "Wendigo: Taiga",
+    "project_id": "halloween-rising",
+    "description": "Cunning, man-eating predator, luring humans with tricks, cursed to forever crave human flesh.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar05_v2_Stylized_White.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.476Z",
+    "updated_at": "2026-01-24T11:10:25.166Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar05_v2_Stylized_White_r1.png",
+    "metadata": {
+      "token_id": "45",
+      "attributes": [
+        {
+          "value": "Stylized",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "White",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Wendigo",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274476,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar05_v2_Stylized_White_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar05_v2_Stylized_White_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar05_v2_Stylized_White_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/45"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/46",
+    "name": "Mocking Spit: Spicy",
+    "project_id": "halloween-rising",
+    "description": "Relentless creature with a mocking smile, sharp tongue, and a deadly pursuit.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar01_v2_Stylized_Red.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.420Z",
+    "updated_at": "2026-01-24T11:10:33.945Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar01_v2_Stylized_Red_r1.png",
+    "metadata": {
+      "token_id": "46",
+      "attributes": [
+        {
+          "value": "Stylized",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Red",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Mocking Spit",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274420,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar01_v2_Stylized_Red_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar01_v2_Stylized_Red_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar01_v2_Stylized_Red_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/46"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/47",
+    "name": "Esktix: Magma",
+    "project_id": "halloween-rising",
+    "description": "Fear-feeding creature lurking in shadows, inducing night terrors to sustain itself.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar02_v2_Stylized_Red.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.438Z",
+    "updated_at": "2026-01-24T11:10:44.666Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar02_v2_Stylized_Red_r1.png",
+    "metadata": {
+      "token_id": "47",
+      "attributes": [
+        {
+          "trait_type": "Art Style",
+          "value": "Stylized"
+        },
+        {
+          "trait_type": "Colour",
+          "value": "Red"
+        },
+        {
+          "trait_type": "Creature",
+          "value": "Esktix"
+        },
+        {
+          "display_type": "date",
+          "trait_type": "birthday",
+          "value": 1698761274438
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar02_v2_Stylized_Red_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar02_v2_Stylized_Red_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar02_v2_Stylized_Red_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/47"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/48",
+    "name": "Mimic Slime: Bile",
+    "project_id": "halloween-rising",
+    "description": "Flesh-dissolving slime creature, consuming prey, mimicking using bones to lure more victims.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar03_v2_Stylized_Orange.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.451Z",
+    "updated_at": "2026-01-24T11:10:55.214Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar03_v2_Stylized_Orange_r1.png",
+    "metadata": {
+      "token_id": "48",
+      "attributes": [
+        {
+          "value": "Stylized",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Orange",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Mimic Slime",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274451,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar03_v2_Stylized_Orange_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar03_v2_Stylized_Orange_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar03_v2_Stylized_Orange_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/48"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/49",
+    "name": "Harvester: Summer",
+    "project_id": "halloween-rising",
+    "description": "Giant insect-like creature, a methodical hunter, harvesting prey with precision, extracting a specific organ.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar04_v2_Stylized_Purple.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.466Z",
+    "updated_at": "2026-01-24T11:11:04.588Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar04_v2_Stylized_Purple_r1.png",
+    "metadata": {
+      "token_id": "49",
+      "attributes": [
+        {
+          "value": "Stylized",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Purple",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Harvester",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274466,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar04_v2_Stylized_Purple_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar04_v2_Stylized_Purple_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar04_v2_Stylized_Purple_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/49"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/50",
+    "name": "Wendigo: Zombie",
+    "project_id": "halloween-rising",
+    "description": "Cunning, man-eating predator, luring humans with tricks, cursed to forever crave human flesh.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar05_v2_Stylized_Green.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.476Z",
+    "updated_at": "2026-01-24T11:11:14.820Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar05_v2_Stylized_Green_r1.png",
+    "metadata": {
+      "token_id": "50",
+      "attributes": [
+        {
+          "value": "Stylized",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Green",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Wendigo",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274476,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar05_v2_Stylized_Green_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar05_v2_Stylized_Green_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar05_v2_Stylized_Green_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/50"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/51",
+    "name": "Mocking Spit: Sunny",
+    "project_id": "halloween-rising",
+    "description": "Relentless creature with a mocking smile, sharp tongue, and a deadly pursuit.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar01_v2_Stylized_Yellow.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.420Z",
+    "updated_at": "2026-01-24T11:11:24.303Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar01_v2_Stylized_Yellow_r1.png",
+    "metadata": {
+      "token_id": "51",
+      "attributes": [
+        {
+          "trait_type": "Art Style",
+          "value": "Stylized"
+        },
+        {
+          "trait_type": "Colour",
+          "value": "Yellow"
+        },
+        {
+          "trait_type": "Creature",
+          "value": "Mocking Spit"
+        },
+        {
+          "display_type": "date",
+          "trait_type": "birthday",
+          "value": 1698761274420
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar01_v2_Stylized_Yellow_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar01_v2_Stylized_Yellow_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar01_v2_Stylized_Yellow_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/51"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/52",
+    "name": "Esktix: Plague",
+    "project_id": "halloween-rising",
+    "description": "Fear-feeding creature lurking in shadows, inducing night terrors to sustain itself.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar02_v2_Stylized_Yellow.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.439Z",
+    "updated_at": "2026-01-24T11:11:33.431Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar02_v2_Stylized_Yellow_r1.png",
+    "metadata": {
+      "token_id": "52",
+      "attributes": [
+        {
+          "trait_type": "Art Style",
+          "value": "Stylized"
+        },
+        {
+          "trait_type": "Colour",
+          "value": "Yellow"
+        },
+        {
+          "trait_type": "Creature",
+          "value": "Esktix"
+        },
+        {
+          "display_type": "date",
+          "trait_type": "birthday",
+          "value": 1698761274439
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar02_v2_Stylized_Yellow_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar02_v2_Stylized_Yellow_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar02_v2_Stylized_Yellow_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/52"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/53",
+    "name": "Mimic Slime: Clear",
+    "project_id": "halloween-rising",
+    "description": "Flesh-dissolving slime creature, consuming prey, mimicking using bones to lure more victims.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar03_v2_Stylized_Blue.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.452Z",
+    "updated_at": "2026-01-24T11:11:44.561Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar03_v2_Stylized_Blue_r1.png",
+    "metadata": {
+      "token_id": "53",
+      "attributes": [
+        {
+          "trait_type": "Art Style",
+          "value": "Stylized"
+        },
+        {
+          "trait_type": "Colour",
+          "value": "Blue"
+        },
+        {
+          "trait_type": "Creature",
+          "value": "Mimic Slime"
+        },
+        {
+          "display_type": "date",
+          "trait_type": "birthday",
+          "value": 1698761274452
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar03_v2_Stylized_Blue_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar03_v2_Stylized_Blue_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar03_v2_Stylized_Blue_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/53"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/54",
+    "name": "Harvester: Spring",
+    "project_id": "halloween-rising",
+    "description": "Giant insect-like creature, a methodical hunter, harvesting prey with precision, extracting a specific organ.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar04_v2_Stylized_Green.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.466Z",
+    "updated_at": "2026-01-24T11:11:53.176Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar04_v2_Stylized_Green_r1.png",
+    "metadata": {
+      "token_id": "54",
+      "attributes": [
+        {
+          "trait_type": "Art Style",
+          "value": "Stylized"
+        },
+        {
+          "trait_type": "Colour",
+          "value": "Green"
+        },
+        {
+          "trait_type": "Creature",
+          "value": "Harvester"
+        },
+        {
+          "display_type": "date",
+          "trait_type": "birthday",
+          "value": 1698761274466
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar04_v2_Stylized_Green_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar04_v2_Stylized_Green_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar04_v2_Stylized_Green_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/54"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/55",
+    "name": "Wendigo: Fae",
+    "project_id": "halloween-rising",
+    "description": "Cunning, man-eating predator, luring humans with tricks, cursed to forever crave human flesh.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar05_v2_Stylized_Purple.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.477Z",
+    "updated_at": "2026-01-24T11:12:03.970Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar05_v2_Stylized_Purple_r1.png",
+    "metadata": {
+      "token_id": "55",
+      "attributes": [
+        {
+          "value": "Stylized",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Purple",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Wendigo",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274477,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar05_v2_Stylized_Purple_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar05_v2_Stylized_Purple_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar05_v2_Stylized_Purple_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/55"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/56",
+    "name": "Mocking Spit: Ice Age",
+    "project_id": "halloween-rising",
+    "description": "Relentless creature with a mocking smile, sharp tongue, and a deadly pursuit.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar01_v2_Stylized_Blue.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.422Z",
+    "updated_at": "2026-01-24T11:12:14.387Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar01_v2_Stylized_Blue_r1.png",
+    "metadata": {
+      "token_id": "56",
+      "attributes": [
+        {
+          "trait_type": "Art Style",
+          "value": "Stylized"
+        },
+        {
+          "trait_type": "Colour",
+          "value": "Blue"
+        },
+        {
+          "trait_type": "Creature",
+          "value": "Mocking Spit"
+        },
+        {
+          "display_type": "date",
+          "trait_type": "birthday",
+          "value": 1698761274422
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar01_v2_Stylized_Blue_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar01_v2_Stylized_Blue_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar01_v2_Stylized_Blue_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/56"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/57",
+    "name": "Esktix: Depths",
+    "project_id": "halloween-rising",
+    "description": "Fear-feeding creature lurking in shadows, inducing night terrors to sustain itself.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar02_v2_Stylized_Blue.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.440Z",
+    "updated_at": "2026-01-24T11:12:23.246Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar02_v2_Stylized_Blue_r1.png",
+    "metadata": {
+      "token_id": "57",
+      "attributes": [
+        {
+          "trait_type": "Art Style",
+          "value": "Stylized"
+        },
+        {
+          "trait_type": "Colour",
+          "value": "Blue"
+        },
+        {
+          "trait_type": "Creature",
+          "value": "Esktix"
+        },
+        {
+          "display_type": "date",
+          "trait_type": "birthday",
+          "value": 1698761274440
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar02_v2_Stylized_Blue_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar02_v2_Stylized_Blue_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar02_v2_Stylized_Blue_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/57"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/58",
+    "name": "Mimic Slime: Party",
+    "project_id": "halloween-rising",
+    "description": "Flesh-dissolving slime creature, consuming prey, mimicking using bones to lure more victims.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar03_v2_Stylized_Pink.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.452Z",
+    "updated_at": "2026-01-24T11:12:34.320Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar03_v2_Stylized_Pink_r1.png",
+    "metadata": {
+      "token_id": "58",
+      "attributes": [
+        {
+          "trait_type": "Art Style",
+          "value": "Stylized"
+        },
+        {
+          "trait_type": "Colour",
+          "value": "Pink"
+        },
+        {
+          "trait_type": "Creature",
+          "value": "Mimic Slime"
+        },
+        {
+          "display_type": "date",
+          "trait_type": "birthday",
+          "value": 1698761274452
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar03_v2_Stylized_Pink_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar03_v2_Stylized_Pink_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar03_v2_Stylized_Pink_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/58"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/59",
+    "name": "Harvester: Winter",
+    "project_id": "halloween-rising",
+    "description": "Giant insect-like creature, a methodical hunter, harvesting prey with precision, extracting a specific organ.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar04_v2_Stylized_Blue.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.467Z",
+    "updated_at": "2026-01-24T11:12:44.159Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar04_v2_Stylized_Blue_r1.png",
+    "metadata": {
+      "token_id": "59",
+      "attributes": [
+        {
+          "value": "Stylized",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Blue",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Harvester",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274467,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar04_v2_Stylized_Blue_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar04_v2_Stylized_Blue_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar04_v2_Stylized_Blue_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/59"
+    }
+  },
+  {
+    "id": "0x0ad4c869d0019df7460b33ca852610c9cb0a5647/60",
+    "name": "Wendigo: Hollow",
+    "project_id": "halloween-rising",
+    "description": "Cunning, man-eating predator, luring humans with tricks, cursed to forever crave human flesh.",
+    "model_file_url": "https://dweb.link/ipfs/QmXyEuwbgUfMG7WzRZys6JnS6DJvxqkPGDseZmHM8wLJm1/Avatar05_v2_Stylized_Black.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2023-10-31T14:07:54.478Z",
+    "updated_at": "2026-01-24T11:12:53.311Z",
+    "thumbnail_url": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar05_v2_Stylized_Black_r1.png",
+    "metadata": {
+      "token_id": "60",
+      "attributes": [
+        {
+          "value": "Stylized",
+          "trait_type": "Art Style"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Colour"
+        },
+        {
+          "value": "Wendigo",
+          "trait_type": "Creature"
+        },
+        {
+          "display_type": "date",
+          "value": 1698761274478,
+          "trait_type": "birthday"
+        }
+      ],
+      "alternateViews": {
+        "icon": "https://dweb.link/ipfs/QmbWYPAuKNsRUopszrvuNbL1Kkpzg5LaWW4jDVfrHc3oeB/Avatar05_v2_Stylized_Black_r1.png",
+        "midShot": "https://dweb.link/ipfs/QmTKfcSdVY8ejjdNhZVDEz6HM96s8PoQ2aLSYrQ6ubFdPk/Avatar05_v2_Stylized_Black_r2.png",
+        "fullbody": "https://dweb.link/ipfs/QmX4g1a8xhS2CTnaXR35jDDFQTiV5sH4x1sefbVbnjvq4m/Avatar05_v2_Stylized_Black_r3.png"
+      },
+      "external_url": "https://opensea.io/item/optimism/0x0ad4c869d0019df7460b33ca852610c9cb0a5647/60"
+    }
+  }
+]
