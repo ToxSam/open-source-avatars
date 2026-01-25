@@ -20,7 +20,9 @@
         }
       ],
       "external_url": "https://opensea.io/item/ethereum/0x776bd31ae5549eac9ed215b5db278229454d5bed/1",
-      "animation_url": "https://arweave.net/saL581LhEMzI-FlqX_b-PyUDVxmE6Dn5keMJSH36Buc"
+      "alternateModels": {
+        "glb": "https://arweave.net/saL581LhEMzI-FlqX_b-PyUDVxmE6Dn5keMJSH36Buc"
+      }
     }
   },
   {
@@ -44,7 +46,9 @@
         }
       ],
       "external_url": "https://opensea.io/item/ethereum/0x776bd31ae5549eac9ed215b5db278229454d5bed/2",
-      "animation_url": "https://arweave.net/GVX5MnpG7DJoGOyMC2O97fYziapTTfHWyql8nWzTKUk"
+      "alternateModels": {
+        "glb": "https://arweave.net/GVX5MnpG7DJoGOyMC2O97fYziapTTfHWyql8nWzTKUk"
+      }
     }
   },
   {
@@ -68,7 +72,9 @@
         }
       ],
       "external_url": "https://opensea.io/item/ethereum/0x776bd31ae5549eac9ed215b5db278229454d5bed/3",
-      "animation_url": "https://arweave.net/j3_Ihl2VQvbid3SNxEdbfLQ3OqXZH0RKTcGVt7XyWkY"
+      "alternateModels": {
+        "glb": "https://arweave.net/j3_Ihl2VQvbid3SNxEdbfLQ3OqXZH0RKTcGVt7XyWkY"
+      }
     }
   },
   {
@@ -92,7 +98,9 @@
         }
       ],
       "external_url": "https://opensea.io/item/ethereum/0x776bd31ae5549eac9ed215b5db278229454d5bed/4",
-      "animation_url": "https://arweave.net/htXXwbH4KYKY4sINyBhZMPpZfiHjLtbWNO244ND9zZc"
+      "alternateModels": {
+        "glb": "https://arweave.net/htXXwbH4KYKY4sINyBhZMPpZfiHjLtbWNO244ND9zZc"
+      }
     }
   },
   {
@@ -116,7 +124,9 @@
         }
       ],
       "external_url": "https://opensea.io/item/ethereum/0x776bd31ae5549eac9ed215b5db278229454d5bed/5",
-      "animation_url": "https://arweave.net/9esxRp7MaF5wGm3pKQsKGpNV8g3ZT_pI9_WKg9xc8V0"
+      "alternateModels": {
+        "glb": "https://arweave.net/9esxRp7MaF5wGm3pKQsKGpNV8g3ZT_pI9_WKg9xc8V0"
+      }
     }
   },
   {
@@ -145,7 +155,9 @@
         }
       ],
       "external_url": "https://opensea.io/item/ethereum/0x776bd31ae5549eac9ed215b5db278229454d5bed/6",
-      "animation_url": "https://arweave.net/jjVcY-bCjBXgkYFDNvBP5dZCxlavMMiL7twqUBt5rAQ"
+      "alternateModels": {
+        "glb": "https://arweave.net/jjVcY-bCjBXgkYFDNvBP5dZCxlavMMiL7twqUBt5rAQ"
+      }
     }
   },
   {
@@ -170,7 +182,9 @@
         }
       ],
       "external_url": "https://opensea.io/item/ethereum/0x776bd31ae5549eac9ed215b5db278229454d5bed/7",
-      "animation_url": "https://arweave.net/G0Nk0gHQgy4g446pAqa3HWNNC9h-IZTFQqw0qjMjdSg"
+      "alternateModels": {
+        "glb": "https://arweave.net/G0Nk0gHQgy4g446pAqa3HWNNC9h-IZTFQqw0qjMjdSg"
+      }
     }
   },
   {
@@ -195,7 +209,9 @@
         }
       ],
       "external_url": "https://opensea.io/item/ethereum/0x776bd31ae5549eac9ed215b5db278229454d5bed/8",
-      "animation_url": "https://arweave.net/o0eufvE8kZvfYHwRltYILEaNTFaynJ1oWDkKSHlLg2o"
+      "alternateModels": {
+        "glb": "https://arweave.net/o0eufvE8kZvfYHwRltYILEaNTFaynJ1oWDkKSHlLg2o"
+      }
     }
   },
   {
@@ -220,7 +236,9 @@
         }
       ],
       "external_url": "https://opensea.io/item/ethereum/0x776bd31ae5549eac9ed215b5db278229454d5bed/9",
-      "animation_url": "https://arweave.net/FCjv9Hw8STRoMux7PQO-dcyqZxEGqcKNT3L_XFnn2cc"
+      "alternateModels": {
+        "glb": "https://arweave.net/FCjv9Hw8STRoMux7PQO-dcyqZxEGqcKNT3L_XFnn2cc"
+      }
     }
   },
   {
@@ -245,7 +263,9 @@
         }
       ],
       "external_url": "https://opensea.io/item/ethereum/0x776bd31ae5549eac9ed215b5db278229454d5bed/11",
-      "animation_url": "https://arweave.net/Zur7uTGC_nCtwDOrtYe8bxPhWD3JjHmf-HmVirXbfeM"
+      "alternateModels": {
+        "glb": "https://arweave.net/Zur7uTGC_nCtwDOrtYe8bxPhWD3JjHmf-HmVirXbfeM"
+      }
     }
   },
   {
@@ -269,7 +289,9 @@
         }
       ],
       "external_url": "https://opensea.io/item/ethereum/0xe7ba6df2934c487bb49435394fdd4b80268e2d3c/1",
-      "animation_url": "https://arweave.net/prI0yf4qYIdIsbP7XEqCVR8mFzuMWI6_k-NP6l5rd_E"
+      "alternateModels": {
+        "glb": "https://arweave.net/prI0yf4qYIdIsbP7XEqCVR8mFzuMWI6_k-NP6l5rd_E"
+      }
     }
   },
   {
@@ -294,7 +316,9 @@
         }
       ],
       "external_url": "https://opensea.io/item/shape/0xcdffc2fae679814913305c13edb86fe7967dbeea/1",
-      "animation_url": "https://arweave.net/QEbf5JvewWIZojgOtW1KznM2pCkz3CZdGlNhoJk8dhw"
+      "alternateModels": {
+        "glb": "https://arweave.net/QEbf5JvewWIZojgOtW1KznM2pCkz3CZdGlNhoJk8dhw"
+      }
     }
   }
 ]
