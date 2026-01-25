@@ -43,6 +43,7 @@ We curate two types of collections:
 - **ToxSam** - NFT avatars across Ethereum and Base (CC0, no attribution needed)
 - **Halloween Rising** - Spooky Halloween avatars on Optimism (CC0, no attribution needed)
 - **Xmas Chibis** - Christmas avatar collection on Polygon (CC0, no attribution needed)
+- **NeonGlitch86 Collection** - Open source avatars by NeonGlitch86 (CC0, no attribution needed) _More collections from this artist coming soon!_
 - More coming soon!
 
 Each collection clearly states its license - check `projects.json` for details.
@@ -82,6 +83,7 @@ const vrmUrl = avatars[0].model_file_url;
     toxsam.json
     halloween-rising.json
     xmas-chibis.json
+    NeonGlitch86.json
 ```
 
 - `projects.json` tells you what collections exist and their licenses.

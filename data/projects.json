@@ -121,5 +121,25 @@
     "created_at": "2023-12-01T12:08:46.946Z",
     "updated_at": "2026-01-24T11:25:34.557Z",
     "avatar_data_file": "avatars/xmas-chibis.json"
+  },
+  {
+    "id": "NeonGlitch86-collection",
+    "name": "NeonGlitch86 Collection",
+    "creator_id": "NeonGlitch86",
+    "description": "Collections of avatars Created by NeonGlitch86",
+    "is_public": true,
+    "license": "CC0",
+    "source_type": "nft",
+    "source_network": ["ethereum", "shape"],
+    "source_contract": [
+      "0x776bd31ae5549eac9ed215b5db278229454d5bed",
+      "0xe7ba6df2934c487bb49435394fdd4b80268e2d3c",
+      "0xcdffc2fae679814913305c13edb86fe7967dbeea"
+    ],
+    "storage_type": ["github", "arweave", "ipfs"],
+    "opensea_url": "https://opensea.io/NeonGlitch86/created",
+    "created_at": "2026-01-25T00:00:00.000Z",
+    "updated_at": "2026-01-25T00:00:00.000Z",
+    "avatar_data_file": "avatars/NeonGlitch86.json"
   }
 ]

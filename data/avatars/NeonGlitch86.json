@@ -1,0 +1,300 @@
+[
+  {
+    "id": "0x776bd31ae5549eac9ed215b5db278229454d5bed/1",
+    "name": "NOT NYC AVATAR",
+    "project_id": "NG86-VRM",
+    "description": "An avatar to commemorate NOT.NYC. Usable on OnCyber & anywhere that supports VRMs.",
+    "model_file_url": "https://bafybeibeegcbxo3itcucdjrbrvum5f3y7pb3rbhsvkx5c2crevtn2nwore.ipfs.w3s.link/ipfs/bafybeibeegcbxo3itcucdjrbrvum5f3y7pb3rbhsvkx5c2crevtn2nwore/gothamYellowNycss.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-01-25T00:00:00.000Z",
+    "updated_at": "2026-01-25T00:00:00.000Z",
+    "thumbnail_url": "https://arweave.net/txlrrzDmYzNtmcEOKcUN1h3sK6NMl36uDkXAQyI_LzE",
+    "metadata": {
+      "token_id": "1",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NeonGlitch86"
+        }
+      ],
+      "external_url": "https://opensea.io/item/ethereum/0x776bd31ae5549eac9ed215b5db278229454d5bed/1",
+      "animation_url": "https://arweave.net/saL581LhEMzI-FlqX_b-PyUDVxmE6Dn5keMJSH36Buc"
+    }
+  },
+  {
+    "id": "0x776bd31ae5549eac9ed215b5db278229454d5bed/2",
+    "name": "PEPE Trash Can",
+    "project_id": "NG86-VRM",
+    "description": "PEPE Trash Can 3d .glb\n\nVRM ",
+    "model_file_url": "https://bafybeig4dmkps7kxuacwnw2v5ygas55bondtyzt73y4hqtev425ojgfjfi.ipfs.w3s.link/ipfs/bafybeig4dmkps7kxuacwnw2v5ygas55bondtyzt73y4hqtev425ojgfjfi/Pepe_TrashCan.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-11-11T11:22:00.434Z",
+    "updated_at": "2025-11-11T11:22:00.434Z",
+    "thumbnail_url": "https://arweave.net/1jt15-ExqQ0VAeyWPqSqrnN9Sk5QRq6gIOtrD7NYiCE",
+    "metadata": {
+      "token_id": "2",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NeonGlitch86"
+        }
+      ],
+      "external_url": "https://opensea.io/item/ethereum/0x776bd31ae5549eac9ed215b5db278229454d5bed/2",
+      "animation_url": "https://arweave.net/GVX5MnpG7DJoGOyMC2O97fYziapTTfHWyql8nWzTKUk"
+    }
+  },
+  {
+    "id": "0x776bd31ae5549eac9ed215b5db278229454d5bed/3",
+    "name": "ROCKETMAN",
+    "project_id": "NG86-VRM",
+    "description": "ROCKETMAN 3d .glb\n\nVRM",
+    "model_file_url": "https://bafybeigazr4q4mkbmu5vrkshznqyb7vp4u4q2tcjscstr3dnw4yfeyzm3q.ipfs.w3s.link/ipfs/bafybeigazr4q4mkbmu5vrkshznqyb7vp4u4q2tcjscstr3dnw4yfeyzm3q/ROCKETMAN.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-11-10T05:23:36.158Z",
+    "updated_at": "2025-11-10T05:23:36.158Z",
+    "thumbnail_url": "https://arweave.net/VCRG6yzinA_EgFThyePFtujktZkaE8tEY9FrfxkLhdo",
+    "metadata": {
+      "token_id": "3",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NeonGlitch86"
+        }
+      ],
+      "external_url": "https://opensea.io/item/ethereum/0x776bd31ae5549eac9ed215b5db278229454d5bed/3",
+      "animation_url": "https://arweave.net/j3_Ihl2VQvbid3SNxEdbfLQ3OqXZH0RKTcGVt7XyWkY"
+    }
+  },
+  {
+    "id": "0x776bd31ae5549eac9ed215b5db278229454d5bed/4",
+    "name": "STEAMBOAT SUMMER",
+    "project_id": "NG86-VRM",
+    "description": "STEAMBOAT SUMMER 3D GLB/VRM",
+    "model_file_url": "https://raw.githubusercontent.com/neonglitch86/vrm/main/SBW_86.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-11-11T00:46:31.686Z",
+    "updated_at": "2025-11-11T00:46:31.686Z",
+    "thumbnail_url": "https://arweave.net/dGMN953a_XfrjGh-CIM8FZNrb11vq0vl5FHJZ7pISmE",
+    "metadata": {
+      "token_id": "4",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NeonGlitch86"
+        }
+      ],
+      "external_url": "https://opensea.io/item/ethereum/0x776bd31ae5549eac9ed215b5db278229454d5bed/4",
+      "animation_url": "https://arweave.net/htXXwbH4KYKY4sINyBhZMPpZfiHjLtbWNO244ND9zZc"
+    }
+  },
+  {
+    "id": "0x776bd31ae5549eac9ed215b5db278229454d5bed/5",
+    "name": "STEAMBOAT SUMMER V2",
+    "project_id": "NG86-VRM",
+    "description": "STEAMBOAT SUMMER V2 3D GLB/VRM",
+    "model_file_url": "https://raw.githubusercontent.com/neonglitch86/vrm/main/SBW_86v2.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-10-01T17:08:55.945Z",
+    "updated_at": "2025-10-01T17:08:55.945Z",
+    "thumbnail_url": "https://arweave.net/HdmdbkYwV60BZl4z_zR5Cu5PhhyWrS6syRgiffVSYn8",
+    "metadata": {
+      "token_id": "5",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NeonGlitch86"
+        }
+      ],
+      "external_url": "https://opensea.io/item/ethereum/0x776bd31ae5549eac9ed215b5db278229454d5bed/5",
+      "animation_url": "https://arweave.net/9esxRp7MaF5wGm3pKQsKGpNV8g3ZT_pI9_WKg9xc8V0"
+    }
+  },
+  {
+    "id": "0x776bd31ae5549eac9ed215b5db278229454d5bed/6",
+    "name": "Summer V2",
+    "project_id": "NG86-VRM",
+    "description": "You are cool. Summer V2 glb and VRM.",
+    "model_file_url": "https://raw.githubusercontent.com/neonglitch86/vrm/main/Summer_pbr.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-11-03T20:33:38.513Z",
+    "updated_at": "2025-11-03T20:33:38.513Z",
+    "thumbnail_url": "https://arweave.net/qXnxmxM1QFlCjtEk8nQsAf5OXVGdiQOwoHdhpCeCunI",
+    "metadata": {
+      "token_id": "6",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NeonGlitch86",
+          "display_type": "text"
+        },
+        {
+          "trait_type": "Summer",
+          "value": "100"
+        }
+      ],
+      "external_url": "https://opensea.io/item/ethereum/0x776bd31ae5549eac9ed215b5db278229454d5bed/6",
+      "animation_url": "https://arweave.net/jjVcY-bCjBXgkYFDNvBP5dZCxlavMMiL7twqUBt5rAQ"
+    }
+  },
+  {
+    "id": "0x776bd31ae5549eac9ed215b5db278229454d5bed/7",
+    "name": "EL BUENO",
+    "project_id": "NG86-VRM",
+    "description": "3D COLLECTIBLE  \nVRM AVATAR  \n",
+    "model_file_url": "https://raw.githubusercontent.com/neonglitch86/vrm/main/G_C.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-10-13T01:46:23.995Z",
+    "updated_at": "2025-10-13T01:46:23.995Z",
+    "thumbnail_url": "https://arweave.net/2NIRlEzFXb8aqaICk1qR211Ce2AiJXuupuwFZCvg6z0",
+    "metadata": {
+      "token_id": "7",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NeonGlitch86",
+          "display_type": "text"
+        }
+      ],
+      "external_url": "https://opensea.io/item/ethereum/0x776bd31ae5549eac9ed215b5db278229454d5bed/7",
+      "animation_url": "https://arweave.net/G0Nk0gHQgy4g446pAqa3HWNNC9h-IZTFQqw0qjMjdSg"
+    }
+  },
+  {
+    "id": "0x776bd31ae5549eac9ed215b5db278229454d5bed/8",
+    "name": "EL MALO",
+    "project_id": "NG86-VRM",
+    "description": "EL MALO  \n3D COLLECTIBLE  \nVRM AVATAR",
+    "model_file_url": "https://raw.githubusercontent.com/neonglitch86/vrm/main/G_A.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-10-13T01:46:24.286Z",
+    "updated_at": "2025-10-13T01:46:24.286Z",
+    "thumbnail_url": "https://arweave.net/7yjwe596z3G4iDQ8VowtudguPwKXSp9mkNSeBRWXNiI",
+    "metadata": {
+      "token_id": "8",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NeonGlitch86",
+          "display_type": "text"
+        }
+      ],
+      "external_url": "https://opensea.io/item/ethereum/0x776bd31ae5549eac9ed215b5db278229454d5bed/8",
+      "animation_url": "https://arweave.net/o0eufvE8kZvfYHwRltYILEaNTFaynJ1oWDkKSHlLg2o"
+    }
+  },
+  {
+    "id": "0x776bd31ae5549eac9ed215b5db278229454d5bed/9",
+    "name": "EL FEO",
+    "project_id": "NG86-VRM",
+    "description": "EL FEO  \n3D COLLECTIBLE  \nVRM AVATAR",
+    "model_file_url": "https://raw.githubusercontent.com/neonglitch86/vrm/main/G_B.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-10-13T01:46:24.045Z",
+    "updated_at": "2025-10-13T01:46:24.045Z",
+    "thumbnail_url": "https://arweave.net/WnLZisvOeMPteRTbZP_1v226e3h7QPaT9VxLgvIIVGc",
+    "metadata": {
+      "token_id": "9",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NeonGlitch86",
+          "display_type": "text"
+        }
+      ],
+      "external_url": "https://opensea.io/item/ethereum/0x776bd31ae5549eac9ed215b5db278229454d5bed/9",
+      "animation_url": "https://arweave.net/FCjv9Hw8STRoMux7PQO-dcyqZxEGqcKNT3L_XFnn2cc"
+    }
+  },
+  {
+    "id": "0x776bd31ae5549eac9ed215b5db278229454d5bed/11",
+    "name": "FAST FOOD MAX",
+    "project_id": "NG86-VRM",
+    "description": "Would you like fries with that?",
+    "model_file_url": "https://raw.githubusercontent.com/neonglitch86/vrm/main/MAXMCD.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-12-28T11:03:39.202Z",
+    "updated_at": "2025-12-28T11:03:39.202Z",
+    "thumbnail_url": "https://arweave.net/lM6kd_rGpBGtdr73WAIJuJlXXn7c_ulAOH62NJRrkKQ",
+    "metadata": {
+      "token_id": "11",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NeonGlitch86",
+          "display_type": "text"
+        }
+      ],
+      "external_url": "https://opensea.io/item/ethereum/0x776bd31ae5549eac9ed215b5db278229454d5bed/11",
+      "animation_url": "https://arweave.net/Zur7uTGC_nCtwDOrtYe8bxPhWD3JjHmf-HmVirXbfeM"
+    }
+  },
+  {
+    "id": "0xe7ba6df2934c487bb49435394fdd4b80268e2d3c/1",
+    "name": "GARY GRIFTER 1.0",
+    "project_id": "NG86-VRM",
+    "description": "GARY GRIFTER 3D GLB, VRM\n\nCreated by NeonGlitch86 x Garry B1rd",
+    "model_file_url": "https://raw.githubusercontent.com/neonglitch86/vrm/main/GG_1.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2025-10-24T17:24:00.716Z",
+    "updated_at": "2025-10-24T17:24:00.716Z",
+    "thumbnail_url": "https://arweave.net/KXfRbY3s170JGMRH4w8VEHxc1SwUNx_Juyqp7T7XJys",
+    "metadata": {
+      "token_id": "1",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NeonGlitch86 x Garry B1rd"
+        }
+      ],
+      "external_url": "https://opensea.io/item/ethereum/0xe7ba6df2934c487bb49435394fdd4b80268e2d3c/1",
+      "animation_url": "https://arweave.net/prI0yf4qYIdIsbP7XEqCVR8mFzuMWI6_k-NP6l5rd_E"
+    }
+  },
+  {
+    "id": "0xcdffc2fae679814913305c13edb86fe7967dbeea/1",
+    "name": "SHAPEY",
+    "project_id": "NG86-VRM",
+    "description": "Hello my name is\n\n3D VRM",
+    "model_file_url": "https://raw.githubusercontent.com/neonglitch86/vrm/main/shapey.vrm",
+    "format": "VRM",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-01-25T00:00:00.000Z",
+    "updated_at": "2026-01-25T00:00:00.000Z",
+    "thumbnail_url": "https://arweave.net/rqMsUb8gx-bKZisadpvbxbS4zqnJswi0iGvsB92Onfw",
+    "metadata": {
+      "token_id": "1",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NeonGlitch86",
+          "display_type": "text"
+        }
+      ],
+      "external_url": "https://opensea.io/item/shape/0xcdffc2fae679814913305c13edb86fe7967dbeea/1",
+      "animation_url": "https://arweave.net/QEbf5JvewWIZojgOtW1KznM2pCkz3CZdGlNhoJk8dhw"
+    }
+  }
+]
