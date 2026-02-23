@@ -4,9 +4,14 @@ This guide contains detailed technical information for developers integrating Op
 
 ## Quick Access
 
+Data is multi-file: start with `projects.json`, then fetch each collection’s avatar file via `avatar_data_file`. See [API Reference](./api-reference.md) for full schema.
+
 ```bash
-# Get all avatars via API
-curl https://raw.githubusercontent.com/ToxSam/open-source-avatars/main/data/avatars.json
+# List collections
+curl https://raw.githubusercontent.com/ToxSam/open-source-avatars/main/data/projects.json
+
+# Get avatars for a collection (use avatar_data_file from a project)
+curl https://raw.githubusercontent.com/ToxSam/open-source-avatars/main/data/avatars/100avatars-r1.json
 ```
 
 ## Platform Integration Guides
@@ -18,26 +23,24 @@ curl https://raw.githubusercontent.com/ToxSam/open-source-avatars/main/data/avat
 npm install @pixiv/three-vrm three
 ```
 
-2. Basic implementation:
+2. Basic implementation (correct field names: `model_file_url`, not `modelFileUrl`):
 ```javascript
 import * as THREE from 'three';
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader';
 import { VRMLoaderPlugin } from '@pixiv/three-vrm';
 
-// Load avatar
 const loader = new GLTFLoader();
 loader.registerPlugin(new VRMLoaderPlugin());
 
-// Get avatar data
-fetch('https://raw.githubusercontent.com/ToxSam/open-source-avatars/main/data/avatars.json')
-  .then(response => response.json())
-  .then(avatars => {
-    const avatar = avatars[0];
-    loader.load(avatar.modelFileUrl, (gltf) => {
-      const vrm = gltf.userData.vrm;
-      scene.add(vrm.scene);
-    });
-  });
+const BASE = 'https://raw.githubusercontent.com/ToxSam/open-source-avatars/main/data';
+const projects = await fetch(`${BASE}/projects.json`).then(r => r.json());
+const avatars = await fetch(`${BASE}/${projects[0].avatar_data_file}`).then(r => r.json());
+const avatar = avatars[0];
+
+loader.load(avatar.model_file_url, (gltf) => {
+  const vrm = gltf.userData.vrm;
+  scene.add(vrm.scene);
+});
 ```
 
 ### Unity Integration
@@ -76,21 +79,19 @@ public class VRMLoader : MonoBehaviour
 
 ## Data Structure
 
-Each avatar in `data/avatars.json` follows this structure:
+Avatars live in per-collection files under `data/avatars/*.json`. Key fields use **snake_case**: `model_file_url`, `thumbnail_url`, `project_id`. License is on the **project** (in `projects.json`), not on each avatar. Full schema: [API Reference](./api-reference.md).
+
 ```json
 {
   "id": "avatar-id",
   "name": "Avatar Name",
+  "project_id": "100avatars-r1",
   "description": "Avatar description",
-  "thumbnailUrl": "https://...",
-  "modelFileUrl": "https://arweave.net/...",
-  "format": "vrm",
-  "license": "CC-BY-4.0",
+  "thumbnail_url": "https://...",
+  "model_file_url": "https://arweave.net/...",
+  "format": "VRM",
   "metadata": {
-    "polygonCount": 12500,
-    "materialCount": 8,
-    "height": 1.7,
-    "style": "anime"
+    "alternateModels": { "fbx": "https://..." }
   }
 }
 ```

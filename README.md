@@ -43,12 +43,15 @@ We curate two types of collections:
 - **ToxSam** - NFT avatars across Ethereum and Base (CC0, no attribution needed)
 - **Halloween Rising** - Spooky Halloween avatars on Optimism (CC0, no attribution needed)
 - **Xmas Chibis** - Christmas avatar collection on Polygon (CC0, no attribution needed)
-- **NeonGlitch86 Collection** - Open source avatars by NeonGlitch86 (CC0, no attribution needed) _More collections from this artist coming soon!_
+- **NeonGlitch86 Collection** - Open source avatars by NeonGlitch86 (CC0, no attribution needed) _More avatars from this artist coming soon!_
 - More coming soon!
 
 Each collection clearly states its license - check `projects.json` for details.
 
 ## For Developers
+
+- **Integrating this registry?** See **[AGENTS.md](AGENTS.md)** for schema, URLs, and animation/rig integration (Mixamo rig map, VRM gotchas).  
+- **API/schema:** [docs/api-reference.md](docs/api-reference.md) · **Integrations:** [integrations/](integrations/)
 
 ### Simple Integration
 
