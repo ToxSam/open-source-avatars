@@ -1,0 +1,9 @@
+CC0 1.0 Universal — Public Domain Dedication
+
+This repository (the Open Source Avatars registry: JSON data in data/, documentation in docs/, and integration reference code in integrations/) is dedicated to the public domain under CC0 1.0 Universal.
+
+You can copy, modify, distribute, and perform the work, even for commercial purposes, all without asking permission.
+
+Full legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+Individual avatars and collections have their own licenses; see data/projects.json for each collection’s license.

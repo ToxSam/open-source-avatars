@@ -50,8 +50,10 @@ Each collection clearly states its license - check `projects.json` for details.
 
 ## For Developers
 
-- **Integrating this registry?** See **[AGENTS.md](AGENTS.md)** for schema, URLs, and animation/rig integration (Mixamo rig map, VRM gotchas).  
-- **API/schema:** [docs/api-reference.md](docs/api-reference.md) · **Integrations:** [integrations/](integrations/)
+- **Start here:** **[AGENTS.md](AGENTS.md)** — schema, data URLs, field names (`model_file_url`, `thumbnail_url`, etc.), and where to find everything. Use it so your integration uses the right endpoints and doesn’t assume a single “all avatars” file.
+- **API & schema:** [docs/api-reference.md](docs/api-reference.md) — full types and examples.  
+- **Integrations:** [integrations/](integrations/) — Mixamo→VRM rig map and animation loader reference (VRM 0.x only), plus [vrm-gotchas.md](integrations/vrm-gotchas.md) so retargeting and loading work across avatars.  
+- **License:** This registry (metadata, docs, integration code in this repo) is [CC0](LICENSE). Per-avatar license is per collection in `projects.json`.
 
 ### Simple Integration
 
@@ -114,8 +116,8 @@ We'll review and add it to the registry!
 
 ## License
 
-- **This registry (JSON metadata)**: CC0 (public domain)
-- **Individual avatars**: Check each collection's license in `projects.json`
+- **This registry** (metadata, docs, integration code in this repo): [CC0 1.0 Universal](LICENSE) — public domain.
+- **Individual avatars**: Check each collection’s license in `projects.json`.
 
 ## Support
 
