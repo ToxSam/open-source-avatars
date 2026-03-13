@@ -78,7 +78,10 @@
     "is_public": true,
     "license": "CC0",
     "source_type": "nft",
-    "source_network": ["ethereum", "base"],
+    "source_network": [
+      "ethereum",
+      "base"
+    ],
     "source_contract": [
       "0xc1def47cf1e15ee8c2a92f4e0e968372880d18d1",
       "0xbffd07cc4d32578fe3ccbf8bd0c5ffa8da3fc600",
@@ -130,16 +133,42 @@
     "is_public": true,
     "license": "CC0",
     "source_type": "nft",
-    "source_network": ["ethereum", "shape"],
+    "source_network": [
+      "ethereum",
+      "shape"
+    ],
     "source_contract": [
       "0x776bd31ae5549eac9ed215b5db278229454d5bed",
       "0xe7ba6df2934c487bb49435394fdd4b80268e2d3c",
       "0xcdffc2fae679814913305c13edb86fe7967dbeea"
     ],
-    "storage_type": ["github", "arweave", "ipfs"],
+    "storage_type": [
+      "github",
+      "arweave",
+      "ipfs"
+    ],
     "opensea_url": "https://opensea.io/NeonGlitch86/created",
     "created_at": "2026-01-25T00:00:00.000Z",
     "updated_at": "2026-01-25T00:00:00.000Z",
     "avatar_data_file": "avatars/NeonGlitch86.json"
+  },
+  {
+    "id": "forgotten-runes-wizards",
+    "name": "Forgotten Runes Wizards Cult",
+    "creator_id": "forgotten-runes",
+    "description": "10,000 wizard avatars with public VRM, GLB, and FBX character models.",
+    "is_public": true,
+    "license": "Custom - commercial rights for holders",
+    "source_type": "nft",
+    "source_network": "ethereum",
+    "source_contract": "0x521f9c7505005cfa19a8e5786a9c3c9c9f5e6f42",
+    "storage_type": [
+      "website",
+      "s3"
+    ],
+    "opensea_url": "https://opensea.io/collection/forgottenruneswizardscult",
+    "created_at": "2026-03-13T14:36:28.584Z",
+    "updated_at": "2026-03-13T14:36:28.584Z",
+    "avatar_data_file": "avatars/forgotten-runes-wizards.json"
   }
 ]
